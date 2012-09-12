@@ -52,18 +52,9 @@
 			<p>
 				<em>HTML uses <strong>elements</strong> to describe the structure of pages.</em><cite><small>Textbook page 21</small></cite>
 			</p>
-			<div class="alert alert-info">
-<pre>
-&lt;html&gt;
-       &lt;body&gt;
-               &lt;h1&gt;This is the Main Heading!&lt;/h1&gt;
-               &lt;p&gt;This text might be an introduction to the rest of the page.&lt;/p&gt;
-               &lt;h2&gt;This is a Sub-heading&lt;/h2&gt;
-               &lt;p&gt;Many long articles have sub-headings so to help you follow the structure of what is being written.&lt;/p&gt;
-       &lt;/body&gt;
-&lt;/html&gt;
-</pre> 
-			</div>
+			
+			<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;html&gt;</span></li><li class="L1"><span class="tag">&lt;body&gt;</span></li><li class="L2"><span class="tag">&lt;h1&gt;</span><span class="pln">This is the Main Heading!</span><span class="tag">&lt;/h1&gt;</span></li><li class="L3"><span class="tag">&lt;p&gt;</span><span class="pln">This text might be an introduction to the rest of the page.</span><span class="tag">&lt;/p&gt;</span></li><li class="L4"><span class="tag">&lt;h2&gt;</span><span class="pln">This is a Sub-heading</span><span class="tag">&lt;/h2&gt;</span></li><li class="L5"><span class="tag">&lt;p&gt;</span><span class="pln">Many long articles have sub-headings so to help you follow the structure of what is being written.</span><span class="tag">&lt;/p&gt;</span></li><li class="L6"><span class="tag">&lt;/body&gt;</span></li><li class="L7"><span class="tag">&lt;/html&gt;</span></li></ol></pre>
+			
 			<p>
 				Each element has an opening and closing <code>tag</code>.<cite><small>Textbook page 23</small></cite>
 			</p>
@@ -75,9 +66,9 @@
 				<li>Attributes are always specified in the start tag of an HTML element.</li>
 				<li>Attribute values should always be enclosed in quotes.</li>
 			</ul>
-			<p>
-				Example: <code>&lt;img src="images/myimage.jpg" alt="My Image"&gt;</code>
-			</p>
+			
+			<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;img</span> <span class="atn">src</span><span class="pun">=</span><span class="atv">"images/myimage.jpg"</span> <span class="atn">alt</span><span class="pun">=</span><span class="atv">"My Image"</span><span class="tag">&gt;</span></li></ol></pre>
+			
 			<ul>
 				<li><code>img</code> is the element: an image element</li>
 				<li><code>src</code> and <code>alt</code> are the names of attributes</li>
@@ -124,21 +115,10 @@
 				<dd>The text between the &lt;title&gt; tags is the title of your document. The title is shown at the top of the browser window (or in the tab if using a tab based browser). It is what the browser default to when making a bookmark.</dd>
 				<dt>&lt;meta&gt;</dt>
 				<dd> Previously used by search engines but their abuse lead to new search engine technology. currently the only really valuable meta tags are: 
-					<div class="alert alert-info">
-<pre>
-&lt;meta name="" content="" /&gt;
-&lt;meta name="keywords" content="comma, separated, list, of, relevant, words" /&gt;
-&lt;meta name="description" content="Brief summary about the page." /&gt;
-&lt;meta name="copyright" content="Copyright ©2007 Company Name. All Rights Reserved." /&gt;
-
-&lt;meta name="author" content="Your Name Here" /&gt;
-&lt;meta name="language" content="English" /&gt;
-&lt;meta name="revisit-after" content="15" /&gt;
-&lt;meta name="robots" content="ALL, INDEX" /&gt;
-&lt;meta name="Revisit-After" content="30 Days" /&gt;
-&lt;meta name="revised" content="6/10/99" /&gt;
-</pre> 
-					</div>
+				
+					
+<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">""</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">""</span> <span class="tag">/&gt;</span></li><li class="L1"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"keywords"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"comma, separated, list, of, relevant, words"</span> <span class="tag">/&gt;</span></li><li class="L2"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"description"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"Brief summary about the page."</span> <span class="tag">/&gt;</span></li><li class="L3"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"copyright"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"Copyright ©2007 Company. All Rights Reserved."</span> <span class="tag">/&gt;</span></li><li class="L4"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"author"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"Your Name Here" </span><span class="tag">/&gt;</span></li><li class="L5"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"language"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"English"</span> <span class="tag">/&gt;</span></li><li class="L6"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"revisit-after"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"15"</span> <span class="tag">/&gt;</span></li><li class="L7"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"robots"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"ALL, INDEX"</span> <span class="tag">/&gt;</span></li><li class="L8"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"Revisit-After"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"30 Days"</span> <span class="tag">/&gt;</span></li><li class="L9"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"revised"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"6/10/99"</span> <span class="tag">/&gt;</span></li></ol></pre>
+					
 				</dd>
 				<dt>&lt;body&gt;</dt>
 				<dd>Everything inside this element is shown inside the main browser window.</dd>
@@ -150,10 +130,7 @@
 			<p>
 				Use these characters to add HTML comments to your files.
 			</p>
-			<div class="alert alert-info">
-<pre>
-&lt;!-- this is a comment --&gt;
-</pre> 
+			<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="pln">&lt;!-- this is a comment --&gt;</span></li></ol></pre>
 			</div>
 			<p>
 				USE COMMENTS! No matter how familiar you are with the page when you are writing it, you may come back to it later, or have someone else work on it. Comments will make your page much easier to understand.
@@ -306,15 +283,9 @@
 					<p>
 						In your html you have an unordered list with an <code>id</code> attribute:
 					</p>
-					<div class="alert alert-info">
-<pre>
-&lt;ul id="questions"&gt;
-       &lt;li&gt;&lt;a href="#answer1"&gt;Question one&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href="#answer2"&gt;Question two&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href="#answer3"&gt;Question three&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</pre> 
-					</div>
+
+					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;ul</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"questions"</span><span class="tag">&gt;</span></li><li class="L1"><span class="tag">&lt;li&gt;</span><span class="tag">&lt;a</span> <span class="atn">&lt;href</span><span class="pun">=</span><span class="atv">"#answer1"</span><span class="tag">&gt;</span><span class="pln">Question one</span><span class="tag">&lt;/a&gt;</span><span class="tag">&lt;/li&gt;</span></li><li class="L2"><span class="tag">&lt;li&gt;</span><span class="tag">&lt;a</span> <span class="atn">&lt;href</span><span class="pun">=</span><span class="atv">"#answer2"</span><span class="tag">&gt;</span><span class="pln">Question two</span><span class="tag">&lt;/a&gt;</span><span class="tag">&lt;/li&gt;</span></li><li class="L3"><span class="tag">&lt;li&gt;</span><span class="tag">&lt;a</span> <span class="atn">&lt;href</span><span class="pun">=</span><span class="atv">"#answer3"</span><span class="tag">&gt;</span><span class="pln">Question three</span><span class="tag">&lt;/a&gt;</span><span class="tag">&lt;/li&gt;</span></li><li class="L4"><span class="tag">&lt;/ul&gt;</span></li></ol></pre>
+
 					<p>
 						In your navigation at the top, add an internal page link:
 					</p>
@@ -473,15 +444,9 @@
 					<p>
 						HTML5 has introduced a new element to contain images and their caption so the two are associated.
 					</p>
-					<div class="alert alert-info">
-<pre>
-&lt;figure&gt;
-       &lt;img src="images/otters.jpg" alt="Photograph of two sea otters floating in water" /&gt;
-       &lt;br /&gt;
-       &lt;figcaption&gt;Sea otters hold hands when they sleep so they don't drift away from each other.&lt;/figcaption&gt;
-&lt;/figure&gt;
-</pre> 
-					</div>
+		
+					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;figure&gt;</span></li><li class="L1"><span class="tag">&lt;img</span> <span class="atn">src</span><span class="pun">=</span><span class="atv">"images/otters.jpg"</span> <span class="atn">alt</span><span class="pun">=</span><span class="atv">"Photograph of two sea otters floating in water"</span> <span class="tag">/&gt;</span></li><li class="L2"><span class="tag">&lt;br /&gt;</span></li><li class="L3"><span class="tag">&lt;figcaption&gt;</span><span class="pln">Sea otters hold hands when they sleep so they don't drift away from each other.</span><span class="tag">&lt;/figcaption&gt;</span></li><li class="L4"><span class="tag">&lt;/figure&gt;</span></li></ol></pre>
+
 					<p>
 						You can have more than one image inside the &lt;figure&gt; element as long as they all share the same caption. <cite><small>Textbook page 120</small></cite>
 					</p>
@@ -707,17 +672,7 @@
 					<p>
 						Checkboxes are used when you want the user to select one or more options of a limited number of choices. A checkbox input takes the form of a square box, with a check mark or an "x" character appearing when the box is selected.
 					</p>
-					<div class="alert alert-info">
-<pre>
-&lt;p&gt;If Yes:&lt;/p&gt;
-&lt;p&gt;&lt;input name="powers" type="checkbox" value="fly" /&gt; Fly&lt;/p&gt;
-&lt;p&gt;&lt;input name="powers" type="checkbox" value="bulletproof" /&gt; Bulletproof&lt;/p&gt;
-&lt;p&gt;&lt;input name="powers" type="checkbox" value="strength" /&gt; Superhuman Strength&lt;/p&gt;
-&lt;p&gt;&lt;input name="powers" type="checkbox" value="vision" /&gt; X-Ray Vision&lt;/p&gt;
-&lt;p&gt;&lt;input name="powers" type="checkbox" value="other" /&gt; Other&lt;/p&gt;
-</pre> 
-					</div>
-					<p>
+					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;p&gt;</span><span class="pln">If Yes:</span><span class="tag">&lt;/p&gt;</span></li><li class="L1"><span class="tag">&lt;p&gt;</span><span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"powers"</span> <span class="atn">type</span><span class="ptn">=</span><span class="atv">"checkbox"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"fly"</span> <span class="tag">/&gt;</span> <span class="pln">Fly</span><span class="tag">&lt;/p&gt;</span></li><li class="L2"><span class="tag">&lt;p&gt;</span><span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"powers"</span> <span class="atn">type</span><span class="ptn">=</span><span class="atv">"checkbox"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"bulletproof"</span> <span class="tag">/&gt;</span> <span class="pln">Bulletproof</span><span class="tag">&lt;/p&gt;</span></li><li class="L3"><span class="tag">&lt;p&gt;</span><span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"powers"</span> <span class="atn">type</span><span class="ptn">=</span><span class="atv">"checkbox"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"strength"</span> <span class="tag">/&gt;</span> <span class="pln">Superhuman Strength</span><span class="tag">&lt;/p&gt;</span></li><li class="L4"><span class="tag">&lt;p&gt;</span><span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"powers"</span> <span class="atn">type</span><span class="ptn">=</span><span class="atv">"checkbox"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"vision"</span> <span class="tag">/&gt;</span><span class="pln"> X-Ray Vision</span><span class="tag">&lt;/p&gt;</span></li><li class="L5"><span class="tag">&lt;p&gt;</span><span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"powers"</span> <span class="atn">type</span><span class="ptn">=</span><span class="atv">"checkbox"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"other"</span> <span class="tag">/&gt;</span> <span class="pln">Other</span><span class="tag">&lt;/p&gt;</span></li></ol></pre>					<p>
 						If Yes:
 					</p>
 					<p>
@@ -770,10 +725,8 @@
 					<p>
 						The <code>&lt;textarea&gt;</code> element is similar in some ways to the text input element, but it allows multiple lines of input rather than just one. It uses a pair of attributes, cols and rows, to control its size, and instead of using a value attribute to preset any textual content, it uses the content of the element itself. It's a container element, rather than a self-closing element.
 					</p>
-<pre>
-&lt;p&gt;If other, please list:&lt;br /&gt;
-&lt;textarea name="other_powers" cols="20" rows="5"&gt;&lt;/textarea&gt;&lt;/p&gt;
-</pre> 
+
+					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L<#num#>"><span class="tag">&lt;p&gt;</span><span class="pln">If other, please list:</span><span class="tag">&lt;br /&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;textarea</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"other_powers"</span> <span class="atn">cols</span><span class="pun">=</span><span class="atv">"20"</span> <span class="atn">rows</span><span class="pun">=</span><span class="atv">"5"</span><span class="tag">&gt;&lt;/textarea&gt;&lt;/p&gt;</span></li></ol></pre>
 					<p>
 						If other, please list:<br>
 <textarea name="other_powers" cols="20" rows="5">
@@ -794,30 +747,15 @@
 					<p>
 						We can add the <strong>selected</strong> attribute to any option and that will be the one that the browser displays by default.
 					</p>
-					<div class="alert alert-info">
-<pre>
-&lt;select name="myHero"&gt;
-       &lt;option selected="selected"&gt;Superman&lt;/option&gt;
-       &lt;option&gt;Batman&lt;/option&gt;
-       &lt;option&gt;Wonder Woman&lt;/option&gt;
-       &lt;option&gt;Green Lantern&lt;/option&gt;
-       &lt;option&gt;Flash&lt;/option&gt;
-       &lt;option&gt;Spiderman&lt;/option&gt;
-       &lt;option&gt;Ironman&lt;/option&gt;
-       &lt;option&gt;Captain America&lt;/option&gt;
-       &lt;option&gt;Daredevil&lt;/option&gt;
-       &lt;option&gt;Wolverine&lt;/option&gt;
-&lt;/select&gt;
-</pre> 
-					</div>
+					<p><code> &lt;option selected="selected"&gt;Ironman&lt;/option&gt;</code></p>
 					<select name="myHero">
-						<option selected="selected"> Superman </option>
+						<option> Superman </option>
 						<option> Batman </option>
 						<option> Wonder Woman </option>
 						<option> Green Lantern </option>
 						<option> Flash </option>
 						<option> Spiderman </option>
-						<option> Ironman </option>
+						<option selected="selected"> Ironman </option>
 						<option> Captain America </option>
 						<option> Daredevil </option>
 						<option> Wolverine </option>
@@ -882,34 +820,15 @@
 						The <code>&lt;fieldset&gt;</code> element allows web authors to divide form controls into thematically linked sections, making it easier for users to work through the form while also enhancing accessibility for assistive devices. Most browsers will display a <code>&lt;fieldset&gt;</code> with a simple border.
 					</p>
 				</div>
-				<div class="alert alert-info">
-<pre>
-&lt;fieldset&gt;
-       &lt;p&gt;Name&lt;input name="fullname" type="text" /&gt;
-       &lt;p&gt;E-Mail&lt;input name="email" type="text" /&gt;
-&lt;/fieldset&gt;&lt;/p&gt;
-</pre> 
-				</div>
+				<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;fieldset&gt;</span></li><li class="L1"><span class="pln">Name</span> <span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"fullname"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"text"</span> <span class="tag">/&gt;</span></li><li class="L2"><span class="pln">E-Mail</span> <span class="tag">&lt;input</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"email"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"text"</span> <span class="tag">/&gt;</span></li><li class="L3"><span class="tag">&lt;/fieldset&gt;</span></li></ol></pre>
+
 				<h3>
 					Label
 				</h3>
 				<p>
 					<code>&lt;label&gt;</code>, also increases both usability and accessibility. This element is used to form an association between a textual label and a form control. In visual browsers, a user can then bring focus to the form control by clicking the associated label text as well as within the control itself.
 				</p>
-				<div class="alert alert-info">
-<pre>
-&lt;p&gt;Do You have superpowers?&lt;/p&gt;
-  &lt;p&gt;
-    &lt;input id="yes" name="super" type="radio" value="Yes" checked="checked" /&gt;
-    &lt;label for="yes"&gt;Yes&lt;/label&gt;
-  &lt;/p&gt;
-  &lt;p&gt;
-    &lt;input id="no" type="radio" name="super" value="No" /&gt;
-    &lt;label for="no"&gt; No&lt;/label&gt;
-  &lt;/p&gt;
-</pre> 
-				</div>
-				<p>
+				<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L<#num#>"><span class="tag">&lt;p&gt;</span><span class="pln">Do You have superpowers?</span><span class="tag">&lt;/p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;input</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"yes"</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"super"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"radio"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"Yes"</span> <span class="atn">checked</span><span class="pun">=</span><span class="atv">"checked"</span> <span class="tag">/&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;label</span> <span class="atn">for</span><span class="pun">=</span><span class="atv">"yes"</span><span class="tag">&gt;</span><span class="pln">Yes</span><span class="tag">&lt;/label&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;/p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;input</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"no"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"radio"</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"super"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"No"</span> <span class="tag">/&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;label</span> <span class="atn">for</span><span class="pun">=</span><span class="atv">"no"</span><span class="tag">&gt;</span> <span class="pln">No</span><span class="tag">&lt;/label&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;/p&gt;</span></li></ol></pre>				<p>
 					Using the for attribute can be laborious. Each form control requires a unique id attribute to pair up with the label's for value, which involves a fair amount of hand-coding if your form is long. But it is well worth it. Without it you are asking your user to move a flea around the screen with their mouse and try to land it in a tiny little circle and click. This gives them a wider margin on control.
 				</p>
 				<p>

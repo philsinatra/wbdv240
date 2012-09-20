@@ -5950,6 +5950,16 @@ a.badge:hover {
 
     More info at: http://lesselements.com
 -----------------------------------------------------*/
+body {
+  background-color: whiteSmoke;
+}
+.container-fluid {
+  margin: 0 auto;
+  max-width: 960px;
+}
+.container-content {
+  background-color: white;
+}
 .img-rounded {
   -webkit-border-top-right-radius: 5px;
   -webkit-border-bottom-right-radius: 5px;
@@ -6034,4 +6044,14 @@ ol.linenums li {
   color: #bebec5;
   line-height: 20px;
   text-shadow: 0 1px 0 #fff;
+}
+/* Faded out hr */
+hr.soften {
+  height: 1px;
+  margin: 35px 0;
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-image: -ms-linear-gradient(left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  border: 0;
 }

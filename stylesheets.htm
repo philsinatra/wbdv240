@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,33 +22,33 @@
 </head>
 <body>
 <div class="navbar navbar-inverse navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container-fluid">
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"></a> <a class="brand" href="index.htm">WBDV 240</a> 
-      <div class="nav-collapse collapse">
-        <p class="navbar-text pull-right">
-          Web Authoring I
-        </p>
-        <ul class="nav">
-          <li><a href="index.htm">Home</a></li>
-          <li><a href="hypertext.htm">HTML</a></li>
-          <li class="active"><a href="stylesheets.htm">CSS</a></li>
-        </ul>
-      </div>
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.htm">WBDV 240</a> 
+			<div class="nav-collapse collapse">
+				<p class="navbar-text pull-right">
+					Web Authoring I 
+				</p>
+				<ul class="nav">
+					<li><a href="index.htm">Home</a></li>
+					<li><a href="hypertext.htm">HTML</a></li>
+					<li class="active"><a href="stylesheets.htm">CSS</a></li>
+				</ul>
+			</div>
 
 <!--/.nav-collapse -->
-    </div>
-  </div>
+		</div>
+	</div>
 </div>
-<div class="container-fluid">
+<div class="container-fluid container-content">
   <div class="row-fluid">
     <div class="span12">
-      <p>
-        <a href="//dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">Do websites need to look exactly the same in every browser?</a>
-      </p>
       <h1>
         Adding Styles to a Page
       </h1>
+      <p>
+        <a href="//dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">Do websites need to look exactly the same in every browser?</a>
+      </p>      
       <p>
         Proper use of CSS and HTML means separation of content from design. HTML defines the structure of the content, CSS is the W3C standard for defining the visual presentation for web pages, ultimately resulting in the separation of content and design.
       </p>
@@ -199,9 +199,10 @@ html {
       <p>
         The point of having style guidelines is to have a common vocabulary of coding so people can concentrate on what you're saying rather than on how you're saying it. We present global style rules here so people know the vocabulary, but local style is also important. If code you add to a file looks drastically different from the existing code around it, it throws readers out of their rhythm when they go to read it. Avoid this.
       </p>
-      <h2>
+      <hr class="soften">
+      <h1>
         Comments
-      </h2>
+      </h1>
       <p>
         <code>/*This is a CSS comment*/</code>
       </p>
@@ -214,6 +215,7 @@ CSS look like this
 */
 </pre> 
       </div>
+      <hr class="soften">
       <h1>
         Cascade
       </h1>
@@ -234,7 +236,7 @@ CSS look like this
         <code>body { color:blue; }</code>
         then all text onthe page is going tobe blue, there is no need to say <code>h1, h2, h3, p { color: blue; }</code> 
       </p>
-      <hr>
+      <hr class="soften">
       <h1>
         Reset
       </h1>
@@ -250,7 +252,7 @@ CSS look like this
       <p>
         <a href="http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/" target="_blank" class="btn">Killer Collection of CSS Resets</a>
       </p>
-      <hr>
+      <hr class="soften">
       <h1>
         Color
       </h1>
@@ -413,7 +415,7 @@ p {
 }
 </pre> 
       </div>
-      <hr>
+      <hr class="soften">
       <h1>
         Font
       </h1>
@@ -848,7 +850,7 @@ h3 {
   text-transform: capitalize;
 </pre> 
       </div>
-      <hr>
+      <hr class="soften">
       <h1>
         Borders
       </h1>
@@ -888,7 +890,7 @@ border: 5px solid green;
 border-radius: 25px;
 </pre> 
       </div>
-      <hr>
+      <hr class="soften">
       <h1>
         Display
       </h1>
@@ -904,6 +906,7 @@ border-radius: 25px;
         <dt>Inline</dt>
         <dd>Takes up only as much width as is needed, and does not foce line breaks.</dd>
       </dl>
+      <hr class="soften">      
       <h1>
         Width/Height
       </h1>
@@ -934,7 +937,7 @@ max-width:
 min-width:
 </pre> 
       </div>
-      <hr>
+      <hr class="soften">
       <h1>
         The Box Model
       </h1>
@@ -1015,6 +1018,7 @@ div {
       <p>
         Since the issue between browsers is with the way it tries to calculate margin and padding in width, the width then deals with the collapse, here we are removing the gray areas in this formula 
       </p>
+      <hr class="soften">      
       <h1>
         Margin
       </h1>
@@ -1062,7 +1066,7 @@ margin-left
         <li>Length can be set in px or em</li>
         <li>% not used often in margins </li>
       </ul>
-      <hr>
+      <hr class="soften">
       <h1>
         Padding
       </h1>
@@ -1079,6 +1083,7 @@ padding-left
 padding: 
 </pre> 
       </div>
+      <hr class="soften">      
       <h1>
         Float
       </h1>
@@ -1109,6 +1114,7 @@ padding: 
       <p>
         There are three options for float, Left, Right and None. 
       </p>
+      <hr class="soften">      
       <h1>
         Position
       </h1>
@@ -1127,7 +1133,7 @@ padding: 
         <li>relative</li>
         <li>absolute</li>
       </ul>
-      <hr>
+      <hr class="soften">
       <h1>
         Background
       </h1>
@@ -1184,11 +1190,9 @@ body {
       <p>
         <a href="//www.colorzilla.com/gradient-editor/" target="_blank" class="btn">Gradient Generator</a> 
       </p>
-      <hr>
+      <hr class="soften">
     </div>
-
 <!--/row-->
-    <hr>
   </div>
   <footer> 
   <p>

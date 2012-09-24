@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Drexel University WBDV 240 Lecture Notes">
+	<meta name="author" content="Phil Sinatra">
+	<title>WBDV 240</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/base.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/responsive_custom.css" />
+	<script src="assets/js/min/bootstrap-ck.js"></script> 
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.htm">WBDV 240</a> 
+			<div class="nav-collapse collapse">
+				<p class="navbar-text pull-right">
+					Web Authoring I 
+				</p>
+				<ul class="nav">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="hypertext.html">HTML</a></li>
+					<li class="active"><a href="stylesheets.html">CSS</a></li>
+				</ul>
+			</div>
+
+<!--/.nav-collapse -->
+		</div>
+	</div>
+</div>
+<div class="container-fluid container-content">
+	<div class="row-fluid">
+		<div class="span12">
+			<h1>
+				Adding Styles to a Page 
+			</h1>
+			<p>
+			<a href="//dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">Do websites need to look exactly the same in every browser?</a> 
+			</p>
+			<p>
+				Proper use of CSS and HTML means separation of content from design. HTML defines the structure of the content, CSS is the W3C standard for defining the visual presentation for web pages, ultimately resulting in the separation of content and design. 
+			</p>
+			<p>
+				There are three ways to add styles to a page: 
+			</p>
+			<ol>
+				<li>add style to the element directly<br>
+				<code>&lt;p style="color:blue;"&gt;this is blue&lt;/p&gt;</code></li>
+				<li style="margin-top:10px">add the list of rules into the <code>&lt;head&gt;</code> element of the HTML document<br>
+<pre>
+&lt;head&gt;
+       &lt;style type="text/css"&gt;
+       /* &lt;![CDATA[ */
+               p {
+                       color: black;
+               }
+               #navigation p {
+                       color: blue;
+                       font-weight: bold;
+               }
+       /* ]]&gt; */
+       &lt;/style&gt;
+&lt;/head&gt;
+</pre> </li>
+				<li>attach a stylesheet to the html document<br>
+				<code>&lt;link rel="stylesheet" type="text/css" href="stylesheet.css" /&gt;</code></li>
+			</ol>
+			<h2>
+				CSS Import 
+			</h2>
+			<p>
+				Stylesheets can be split up into more organized files, and then imported as needed using the <code>@import</code> rule: 
+			</p>
+			<p>
+				<code>@import url('path/to/stylesheet.css');</code> 
+			</p>
+			<h2>
+				Rules/Best Practices 
+			</h2>
+			<p>
+				Stylesheets are broken down into rules, each rule consists of a <strong>selector</strong> and a <strong>declaration</strong>. 
+			</p>
+			<dl> 
+				<dt>rule</dt>
+				<dd>defines what part of the HTML document the rule is applied to</dd>
+				<dt>declaration</dt>
+				<dd>a set of property/value pairs that determine how the elements will look</dd>
+			</dl>
+			<div class="alert alert-block">
+<pre>
+body {
+       color: blue;
+}
+</pre> 
+			</div>
+			<h2>
+				Formatting Rules 
+			</h2>
+			<p>
+				Put declarations in alphabetical order in order to achieve consistent code in a way that is easy to remember and maintain. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+background: fuchsia;
+border: 1px solid;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+color: black;
+text-align: center;
+text-indent: 2em;
+</pre> 
+			</div>
+			<p>
+				Indent all block content, that is rules within rules as well as declarations, so to reflect hierarchy and improve understanding. 
+			</p>
+			<p>
+				Use a semicolon after every declaration. 
+			</p>
+			<p>
+				Always use a single space between property and value (but no space between property and colon) for consistency reasons. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+@media screen, projection {
+  html {
+    background: #fff;
+    color: #444;
+  }
+}
+</pre> 
+			</div>
+			<p>
+				Always start a new line for each selector and declaration. 
+			</p>
+			<div class="alert alert-error">
+<pre style="background: transparent; border: none">
+/* Not recommended */
+a:focus, a:active {
+  position: relative; top: 1px;
+}
+</pre> 
+			</div>
+			<div class="alert alert-success">
+<pre style="background: transparent; border: none">
+/* Recommended */
+h1,
+h2,
+h3 {
+  font-weight: normal;
+  line-height: 1.2;
+}
+</pre> 
+			</div>
+			<p>
+				Always put a line between rules. 
+			</p>
+			<p>
+				When quoting attribute selectors and property values, use single ('') rather than double ("") quotation marks. Do not use quotation marks in URI values (url()). 
+			</p>
+			<div class="alert alert-error">
+<pre style="background: transparent; border: none">
+/* Not recommended */
+@import url("//www.google.com/css/maia.css");
+
+html {
+  font-family: "open sans", arial, sans-serif;
+}
+</pre> 
+			</div>
+			<div class="alert alert-success">
+<pre style="background: transparent; border: none">
+/* Recommended */
+@import url(//www.google.com/css/maia.css);
+
+html {
+  font-family: 'open sans', arial, sans-serif;
+}
+</pre> 
+			</div>
+			<p>
+				<strong>Be consistent.</strong> 
+			</p>
+			<p>
+				If you're editing code, take a few minutes to look at the code around you and determine its style. If they use spaces around all their arithmetic operators, you should too. If their comments have little boxes of hash marks around them, make your comments have little boxes of hash marks around them too. 
+			</p>
+			<p>
+				The point of having style guidelines is to have a common vocabulary of coding so people can concentrate on what you're saying rather than on how you're saying it. We present global style rules here so people know the vocabulary, but local style is also important. If code you add to a file looks drastically different from the existing code around it, it throws readers out of their rhythm when they go to read it. Avoid this. 
+			</p>
+			<hr class="soften">
+			<h1>
+				Comments 
+			</h1>
+			<p>
+				<code>/*This is a CSS comment*/</code> 
+			</p>
+			<div class="alert alert-block">
+<pre>
+/* 
+Multiple line
+Comments in 
+CSS look like this
+*/
+</pre> 
+			</div>
+			<hr class="soften">
+			<h1>
+				Cascade 
+			</h1>
+			<p>
+				Style sheets allow style information to be specified in many ways. Styles can be specified inside a single HTML element, inside the &lt;head&gt; element of an HTML page, or in an external CSS file. Even multiple external style sheets can be referenced inside a single HTML document. 
+			</p>
+			<p>
+				So, What style will be used when there is more than one style specified for an HTML element? 
+			</p>
+			<p>
+				The value closest to the element in question is the one that is applied. 
+			</p>
+			<h2>
+				Inheritance 
+			</h2>
+			<p>
+				Properties are inherited by descendants.<br>
+				If you say <code>body { color:blue; }</code> then all text onthe page is going tobe blue, there is no need to say <code>h1, h2, h3, p { color: blue; }</code> 
+			</p>
+			<hr class="soften">
+			<h1>
+				Reset 
+			</h1>
+			<ul class="thumbnails" style="margin-top:10px;">
+				<li class="span2"><a href="#" class="thumbnail"><img src="images/ericmeyer.png" alt="eric meyer"></a></li>
+			</ul>
+			<p>
+				Modern browsers implement their own generalized CSS rules, often which conflict with designer styles. Using a set of global CSS reset styles enable designers to make assumptions about default browser behavior. 
+			</p>
+			<p>
+			<a href="http://meyerweb.com/eric/tools/css/reset/" target="_blank" class="btn">Eric Meyer's Reset</a> 
+			</p>
+			<p>
+			<a href="http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/" target="_blank" class="btn">Killer Collection of CSS Resets</a> 
+			</p>
+			<hr class="soften">
+			<h1>
+				Color 
+			</h1>
+			<p>
+				Another key component of a compelling web site is the use of an interesting and appropriate color scheme. Color choices define a web site at a glance. 
+			</p>
+			<p>
+				Your visitor's perception of your website will be influenced by the colors that you use. 
+			</p>
+			<p>
+				Their perception of color is influenced by: 
+			</p>
+			<ul>
+				<li>Culture</li>
+				<li>Age</li>
+				<li>Gender</li>
+				<li>Individual Taste</li>
+			</ul>
+			<p>
+				The single most important thing you can do to build appeal, mood, and ambiance for your site is to select an appropriate color scheme.&nbsp; There really are no 'bad colors' — only bad colors combinations. Any color can look attractive when placed with appropriate color companions. Even though web colors are mixed differently than traditional media, that doesn't mean that you need to learn all new theories to make color work on the web; the old color theories about pleasing color schemes that you learned in Design Tools and Design for Media II still hold true. 
+			</p>
+			<p>
+				When you choose your own colors, you need to consider both: 
+			</p>
+			<ul>
+				<li>the audience</li>
+				<li>the purpose of the site.</li>
+			</ul>
+			<p>
+				Colors evoke particular associations and emotions in our minds. Here is a summary of some of those associations for the Western world, your Visual Design for the Modern Web book goes into much more detail… 
+			</p>
+			<ul>
+				<li><span style="color:yellow">Yellow</span>: cheerful, sunny, upbeat, happy, luminous, intense.</li>
+				<li><span style="color:orange">Orange</span>: energetic, cheerful, glowing, vital, upbeat, playful, happy, comedic,festive, loud, popular with children.</li>
+				<li><span style="color:red">Red</span>: Attention-demanding, energetic, exciting, courageous, hot, aggressive,dynamic, fiery, intense, passionate, sexy, bloody, warning, angry, prideful.</li>
+				<li><span style="color:purple">Purple</span>: rich, elegant, creative, spiritual, confident, eccentric, sensual, daring,futuristic.</li>
+				<li><span style="color:blue">Blue</span>: tranquil, calm, peaceful, meditative, restful, reliable, traditional, clean,fresh, cool, icy, alluding to sky and water, divine, cold, sad.</li>
+				<li><span style="color:green">Green</span>: natural, fresh, clean, healthy, hopeful, youthful, abundant, rebirth, spring,soothing, cool, clean, woodsy.</li>
+				<li><span style="color:brown">Brown</span>: durable, earthy, rustic, organic, healthy, ethnic, substantial, solid, timeless,reliable, stable, antiquity, permanent, drab, dirty.</li>
+				<li><span style="color:white; background: black">White</span>: pure, clean, chaste, pristine, innocent, bright, clarity, hygienic, healthy,stark, minimalist, cold.</li>
+				<li><strong>Black</strong>: sophistication, elegance, chic, dramatic, mysterious, powerful, stylized,somber, ominous, foreboding, death, depression, despair, fear.</li>
+			</ul>
+			<p>
+				Again, these are western (aka American) base interpretations. If you are planning a co-op abroad, it would behoove you to do some research into color usage in the part of the world that you are targeting. 
+			</p>
+			<h2>
+				Color Wheels 
+			</h2>
+			<p>
+				Circular color diagrams—commonly referred to as color wheels—were invented by Newton and remain a common starting point for creative types wanting to understand the relationship between colors and also for creating color schemes. 
+			</p>
+			<p>
+				On any standard color wheel, the three primary colors are each placed one-third of the way around the wheel, with secondary colors equally spaced between them—secondary colors being a mix of two primary colors. Between secondary and primary colors are tertiary colors, the result of mixing primary and secondary colors. Some color wheels blend the colors together,creating a continuous shift from one color to another, while others have rather more defined blocks of color; however, in all cases, the positioning is the same. 
+			</p>
+			<h2>
+				Color Harmonies 
+			</h2>
+			<p>
+				You should also understand the concepts of Color Theory and relational colors, like Complimentary, Split Compliment, Tetradic, Triadic, Monochromatic and Analogous colors, Right? If you have no idea what I am talking about you need to do some extra research. You should have learned all of this in Design Tools and Design for Media II. 
+			</p>
+			<p>
+				Here are some good things to keep in mind… 
+			</p>
+			<ul>
+				<li>Simple schemes are the easiest color combinations for beginning designers to use, so, most of the time, you should limit your color scheme to variations of two or at most three colors.&nbsp;</li>
+				<li>Keep things simple—using too many colors results in garish schemes.</li>
+				<li>Generally avoid entirely monochromatic schemes—inject an adjacent color for added interest. Create contrast by adding a complementary color. Work with a color wheel, and be mindful of how different schemes work. Use tints and shades of hues.</li>
+				<li>Try to keep saturation and value levels the same throughout the scheme.</li>
+				<li>Don't rely on color to get a message across—people relate to colors differently and even see colors differently.</li>
+				<li>Trust your gut—feelings play an important part when creating color schemes. What feels right is often a good starting point.</li>
+			</ul>
+			<h2>
+				Color Proportions 
+			</h2>
+			<p>
+				When repeating colors throughout the site, you shouldn't use equal amounts of each color. In a three-color scheme, for instance, using 33% of each color on a page would lead to a boring page without a focal point. Instead, you might use one color for the page background (perhaps 60% of the color on the page), another color for elements like headers or graphics that need a certain amount of emphasis (perhaps 30% of the page), and reserve the third color—usually the most striking—for items that you want to give the most emphasis 
+			</p>
+			<h2>
+				Inspiration for Color Schemes 
+			</h2>
+			<ul>
+				<li>A favorite sweater, coffee mug, throw pillow.</li>
+				<li>Ads on TV.</li>
+				<li>Opening credits of movies.</li>
+				<li>Catalogs, advertisements, and fashion and decorating magazines.</li>
+				<li>Displays in gift, home, and fashion stores.</li>
+				<li>Paint samples and palette brochures from paint and decorating stores.</li>
+				<li>Fabrics in decorating stores.</li>
+				<li>Reference books for artists.</li>
+				<li>A box of Crayola Crayons.</li>
+			</ul>
+			<p>
+				Check out Crate and Barrel or Urban Outfitters to see the trendiest colors systems being used today. 
+			</p>
+			<p>
+			<a href="http://kuler.adobe.com" class="btn" target="_blank">Adobe Kuler</a> 
+			</p>
+			<h2>
+				Default Colors 
+			</h2>
+			<p>
+				Most modern browsers default to the same basic color system. 
+			</p>
+			<ul>
+				<li>body = white</li>
+				<li>text = black</li>
+				<li>link = blue</li>
+				<li>link:visited = purple</li>
+				<li>link:hover = inherited</li>
+				<li>link:active = red</li>
+			</ul>
+			<p>
+				Specifically look at the default link colors: blue for unvisited links, red for active links, and purple for visited links. These colors obviously clash with many color schemes we might want to use. We can, of course, use CSS to change our default link colors. But should we do that? 
+			</p>
+			<p>
+				There is indeed controversy on the issue. Usability experts often claim that we are interfering with the visual cues that users have come to expect when we change the colors of navigational elements; after all, making our pages user-friendly is more important than making them color-coordinated. 
+			</p>
+			<p>
+				Still, web surfers are far more sophisticated than they were just a few years ago. They know to look for other link affordances—color emphasis, underline, font change, or a mouseover effect—to lead them to the navigation. As long as we provide at least one (perhaps all) of these other cues, it can be quite acceptable to change navigational colors. 
+			</p>
+			<p>
+				<strong>How many colors will you need for your site?&nbsp;</strong> 
+			</p>
+			<p>
+				I would start with three base colors,then create variations on saturation and brightness to extend the family. Wether or not you need more than three is going to be up to your design. 
+			</p>
+			<h3>
+				Other factors about choosing colors 
+			</h3>
+			<p>
+				<strong>Variables:&nbsp;</strong> 
+			</p>
+			<ul>
+				<li>system (mac/pc/unix, etc..)</li>
+				<li>monitors (lcd, plasma, cathode, etc...)</li>
+				<li>color/graphics cards,&nbsp;</li>
+				<li>environment: the ambient lighting, fluorescent, halogen, led, sun, pitch black.&nbsp;</li>
+			</ul>
+			<p>
+				Then there is the individual users eyes and varying degrees of color blindness. There are hundreds of types of color blindness. Color blindness does not mean people only see in shades of gray. Some confuse yellow and green, some cannot see red,… hundreds of variations. 
+			</p>
+			<h2>
+				Defining Colors 
+			</h2>
+			<p>
+				In css the color property defines the foreground color of the relevant css element, which for text, sets it color. Hexadecimal numbers must be preceded with the hash mark and terminated with the semi-colon, and NO spaces in between. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+p {
+  color: #000000;
+}
+ 
+p {
+  color: black;
+}
+ 
+p {
+  color: rgb(0,0,0);
+}
+</pre> 
+			</div>
+			<hr class="soften">
+			<h1>
+				Font 
+			</h1>
+			<p>
+				Good typography is just as important on a web page as it is in any other medium. The fact that it appears on a computer screen and not on a piece of paper is immaterial, it should still be pleasing to look at and easy to read. 
+			</p>
+			&nbsp; 
+			<p>
+				Part of being easy to read is spelling and&nbsp; grammar. Sites with grammatical and spelling errors look unprofessional. You will be marked down for spelling and grammatical errors. No whining. Deal with it. You are creating a professional document here. Just because you are learning how to be a professional web developer, that does not mean you do not need to use a spell checker. 
+			</p>
+			<p>
+				As readers scan a page they are subconsciously aware of the functionality of typography: first they survey the overall graphic patterns or visual hierarchy of the page, then they start to read. 
+			</p>
+			&nbsp; 
+			<p>
+				TYPOGRAPHY helps the reader understand the form, and absorb the substance of the page content.&nbsp; 
+			</p>
+			&nbsp; 
+			<p>
+				Designing for a computer screen has a slew of problems. The biggest one being the elastic nature of a web page. It has to work across different computer platforms and screen sizes. 
+			</p>
+			&nbsp; 
+			<p>
+				Good typography establishes a visual hierarchy for rendering prose on the page by providing visual punctuation and graphic accents that help readers understand relations between pictures and prose, headlines and paragraphs. 
+			</p>
+			&nbsp; 
+			<p>
+				Unlike printed pages, web pages are built on the fly each time they are loaded into a Web browser. 
+			</p>
+			&nbsp; 
+			<p>
+				Each line of text, each headline, each unique font and type style is re-created by a complex interaction of the Web browser, the Web server, and the operating system of the reader's computer. The process is fraught with possibilities for the unexpected: 
+			</p>
+			<ul>
+				<li>a missing font</li>
+				<li>an out-of-date browser</li>
+				<li>or a peculiar set of font preferences (face, style, color, size) designated by the reader.</li>
+			</ul>
+			<p>
+				You should regard your Web page layouts and typography as suggestions of how your pages should be rendered. 
+			</p>
+			<p>
+			<a href="//dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">http://dowebsitesneedtolookexactlythesameineverybrowser.com</a> 
+			</p>
+			<p>
+				Good typography depends on the visual contrast between one font and another and between text blocks, headlines, and the surrounding white space. Nothing attracts the eye and brain of the reader like strong contrast and distinctive patterns, and you can achieve those attributes only by carefully designing them into your pages. 
+			</p>
+			&nbsp; 
+			<p>
+				If you cram every page with dense text, readers see a wall of gray and will instinctively reject the lack of visual contrast. Just making things uniformly bigger does not help. Even boldface fonts quickly become monotonous, because if everything is bold then nothing stands out. 
+			</p>
+			&nbsp; 
+			<p>
+				Regular, repeating patterns organize pages of text and graphics to help the reader to establish the location and organization of your information and increase legibility. 
+			</p>
+			<h2>
+				Font Families and WebSafe Fonts 
+			</h2>
+			<p>
+				The fonts you use for your website are an important decision, as they will often reflect your site's tone and affect its visual impact. 
+			</p>
+			<p>
+				Usually the only time the general public recognizes a font is when it is annoying or misused, because of this a lot of people do not put much stock or thought into typography. But as you will come to learn, while it is not well recognized, it is one of the most important parts of visual design. 
+			</p>
+			&nbsp; 
+			<p>
+				Each typeface has a unique tone that should produce a harmonious fit between the verbal and visual flow of your content. With the first versions of HTML, Web authors had no control over typefaces ("fonts" in personal computer terminology). Fonts were set by the browser, so pages were viewed in whatever font the user specified in his or her browser preferences. The more recent versions of HTML and CSS allow designers to specify the typeface. This is useful not only for aesthetic reasons but also because of the differing dimensions of typefaces. A layout that is carefully designed using one face may not format correctly in another. 
+			</p>
+			&nbsp; 
+			<p>
+				They emotional characteristics of the typefaces you choose should be consistent with the sensibility of the site you are designing. 
+			</p>
+			<p>
+				That said, you must remember that web typography is variable. 
+			</p>
+			&nbsp; 
+			<p>
+				In specifying typefaces you should choose from the resident default fonts for most operating systems. If you specify a font that is not on the user's machine, the browser will display your pages using the user-specified default font. 
+			</p>
+			<p>
+				Bear in mind, too, that users can set their browser preferences to ignore font tags and display all pages using their designated default font. 
+			</p>
+			&nbsp; 
+			<p>
+				Because browsers render text via system fonts, if your end users don't have the same fonts installed in their system as you do, they won't see your design like you do, rendering your choices pointless. 
+			</p>
+			<hr width="50%">
+			<p>
+				Generic Fonts are the fonts that should be available on EVERYONE'S computer/mobile device. That is because these tell the device to use the built in defaults that match these basic characteristics. 
+			</p>
+			<dl> 
+				<dt>serif</dt>
+				<dd>Serif Fonts are fonts that have serifs or little tails on the characters. Most browsers will display serif fonts as either Times New Roman (Win) or Times (Mac).</dd>
+				<dt>sans-serif</dt>
+				<dd>Sans-Serif Fonts are fonts that don't have serifs on the characters. Most browsers will display sans-serif fonts as either Arial (Win) or Helvetica (Mac). Some will also display Verdana.</dd>
+				<dt>monospace</dt>
+				<dd>Monospace Fonts are fonts that take up the same amount of space on a page despite the character. For example, the letter i takes up the same amount of room as the letter M. In Serif and Sans-Serif fonts, the letter i is much narrower that the M. Most browsers will display monospace fonts as either Courier New (Win) or Courier (Mac).</dd>
+				<dt>cursive</dt>
+				<dd>Cursive Fonts are flowing fonts that look hand written. Unfortunately, cursive fonts are much less standardized than the other types of fonts. However, systems will display in a variety of faces... Comic Sans, MS Monotype Corsiva, Bradley Hand, French Script, Temptus, or Mistral, as the default cursive font.</dd>
+				<dt>fantasy</dt>
+				<dd>Fantasy Fonts are fancy or decorative fonts. Unfortunately, fantasy fonts are much less standardized than the other types of fonts. However, systems can display a wide variety of faces such as: Impact, Papyrus, Copperplate, Curls, Felix, Engravers, Rockwell,&nbsp;Comic Sans, MS Monotype Corsiva, Bradley Hand, French Script, Temptus, or Mistral (is there an echo in here?)... the list goes on and one. If you are familiar with these fonts you will know that they have nothing in common. Some serif, some sans, some really designey, some gothic&hellip; I guess thats why they call it Fantasy.</dd>
+			</dl>
+			<p>
+				These are our absolute fall backs, if all the other fonts we specify are not available at least we can be sure it will render in one of these categories.&nbsp; 
+			</p>
+			<h2>
+				Specifying a Font in CSS 
+			</h2>
+			<p>
+				The font-family property enables you to specify a list of font face values, starting with your preferred first choice, continuing with alternates (in case your choice isn't installed on the user's machine), and terminating in a generic font family, which causes the browser to substitute a similar font (think of it as a last resort). 
+			</p>
+			<div class="alert alert-block">
+<pre>
+selector {
+       font-family: preferred, 'alterate 1', 'alterate 2', generic;
+}
+</pre> 
+			</div>
+			<p>
+				These lists could be as long as you want. The most common generic font family names are serif and sans-serif, although when you're using monospace fonts (such as Courier New), you should end your list with monospace. 
+			</p>
+			<p>
+				&nbsp; Multiple-word font family names must be quoted (such as "Trebuchet MS" and "Times New Roman"). Single-word font family names should never be quoted. 
+			</p>
+			<p>
+				Examples: 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h1 {
+       font-family: 'Bell Gothic', Brittanic, Arial, Helvetica, sans-serif;
+}
+ 
+p {
+       font-family: Georgia, 'Times New Roman', Times, serif;
+}
+</pre> 
+			</div>
+			<p>
+			<a href="http://www.google.com/#hl=en&amp;sugexp=les%3B&amp;gs_nf=1&amp;cp=12&amp;gs_id=1a&amp;xhr=t&amp;q=better+font+stacks&amp;pf=p&amp;sclient=psy-ab&amp;oq=better+font+&amp;gs_l=&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=405c4b511f2a1632&amp;biw=1125&amp;bih=844" target="_blank">Google Better Font Stacks</a> 
+			</p>
+			<h3>
+				@font-face 
+			</h3>
+			<p>
+			<a href="http://www.font-face.com" class="btn" target="_blank">@font-face</a> 
+			</p>
+			<p>
+				The basics are pretty simple to implement the @font-face rule, but it is possible to add lots of options to extend its features. 
+			</p>
+			<p>
+				Initially you define the rule, "font-family" is what you want to call the font, "src" is where it can be found, include a "font-weight" (not needed for normal, but required by everything else, bold, thin etc). 
+			</p>
+			<div class="alert alert-block">
+<pre>
+@font-face {
+    font-family: DeliciousRoman;
+    src: url(http://www.font-face.com/fonts/delicious/Delicious-Roman.otf);
+    font-weight:400;
+}
+</pre> 
+				<p>
+					Then just use it like any other font in any other style rule. 
+				</p>
+<pre>
+p {
+    font-family: DeliciousRoman, Helvetica, Arial, sans-serif;
+}
+</pre> 
+			</div>
+			<ul>
+				<li><a href="//www.fontsquirrel.com" target="_blank">fontsquirrel.com</a></li>
+				<li><a href="//www.google.com/webfonts" target="_blank">google fonts</a></li>
+			</ul>
+			<h2>
+				Font Size 
+			</h2>
+			<p>
+				Setting the size of type is a matter of some controversy. The Web is supposed to be a universal medium where users of all kinds have equal access to information. As opposed to a printed medium, where the layout and type are fixed, Web pages should adapt to meet the needs of all users, so that, for example, low-vision users can set the type of Web documents to display at a size that they find legible. But these adjustments can skew a page layout and send the designer, who diligently designed the page around a specific size of type, into violent fits of rage. And though variation thwarts the designer who worked to fashion the layout, it is undeniable that the low-vision user ought to be able to gain access to the content. 
+			</p>
+			<p>
+				With CSS, designers have many methods for setting type size, although, as with many other CSS properties, all are not fully supported. The W3C recommends that you let users set the base font size in their browser and that you set all variations using the "em" unit. An em in the Web context is the same as the "x" height or font height, which makes it a relative unit and therefore flexible. For example, if the user-set default is 12-point, then a 2-em text indent would be 24-point, but if the user used the text zoom feature of the browser to change the size to 16-point, the indent would change to 32-point to reflect the larger type size. 
+			</p>
+			<p>
+				People have the ability to bump up the type size in their browser, if you let them, that is. 
+			</p>
+			<p>
+				If in CSS you set your font as a defined pt size it is not scalable by the user. If you set is using em, %, or relative sizing (small, large, etc) it will all scale proportionally as people increase their browsers font size. I prefer em. 
+			</p>
+			<p>
+				You can also use points to define your type sizes, but bear in mind that this carryover from the print medium has little meaning on a computer screen. Because monitors display at different resolutions, 12-point type on one screen could approximate 14-point type on another. This can be particularly problematic for small point sizes. For example, 6-point type is legible on a Windows display, where the default resolution is 96 ppi, but on a Macintosh, at 72 ppi, it is illegible. 
+			</p>
+			<p>
+				If the integrity of your layout depends on specific type sizes, the most dependable option right now - until there is better CSS support - is to use pixel units in your style declarations. Text defined using pixels will be the same size regardless of the browser's default font size and resolution settings. But with smart design and CSS development there really is no need to use pt. 
+			</p>
+			<p>
+				It is common for people to set their navigation in pt sizes so the design of those do not break if the user increases the text size, but to keep the content set in ems so the main focus of their attention will increase if needed. 
+			</p>
+			<h3>
+				Targeted, resizable (method 1) 
+			</h3>
+			<p>
+				The system works by first setting a base font size of 62.5% using a body selector: 
+			</p>
+			<div class="alert alert-block">
+<pre>
+body {
+       font-size: 62.5%;
+}
+</pre> 
+			</div>
+			<p>
+				Since most browsers have a default font size of 16 pixels, the previous rule then sets the default size to 62.5% of that value—in other words, 10 pixels. From here, ems can be used to define font sizes of specific elements, using values that are one-tenth of the target pixel size: 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h1 {
+       font-size: 2.0em; /* will be the equivalent of 20px */
+}
+ 
+p {
+       font-size: 1.2em; /* will be the equivalent of 12px */
+}
+</pre> 
+			</div>
+			<p>
+				The system isn't perfect—relative values defined in ems can be inherited, so if a list item is within another list item, the size of the nested item(s) may increase or decrease, depending on the value assigned to the parent. It is worth noting, however, that this method is somewhat reliant on the user—if someone has changed the default font size in their browser, your design may not look as intended on their browser, since the value defined for body may be 62.5% of something other than 16 pixels. Still, few people muck around with their browser settings, and the general consensus in the industry is that the 62.5% method is the one to go for. 
+			</p>
+			<h3>
+				Targeted, resizable (method 2) 
+			</h3>
+			<p>
+				A newer method is to use a new CSS size <strong>rem</strong>, which works the same as the previous <strong>em</strong> example, except sizes do not inherit their parent's properties. Instead, font-sizes are tied to the root level font size, and since there can be only one root element, this method eliminates some confusion. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h1 {
+  font-size: 2.0em; /* will be the equivalent of 20px */
+}
+
+h1 a {
+  font-size: 1.2em; /* will be the equivalent of 24px (20 * 1.2)
+}
+</pre> 
+			</div>
+			<p>
+				This is confusing because 1.2 is less than 2.0, however the end font size will actually be 4px larger. We can eliminate this problem using the <strong>rem</strong> font size. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+html { 
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 1.4rem; /* 14px */
+}
+
+h1 a {
+  font-size: 1.2rem; /* 12px */
+}
+</pre> 
+			</div>
+			<p class="alert">
+				<strong>Note:</strong> This method will not work in older versions of IE, so a fallback must be provided. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+html {
+  font-size: 62.5%;
+}
+
+h1 {
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+
+h1 a {
+  font-size: 12px;
+  font-size: 1.2rem;
+}
+</pre> 
+			</div>
+			<h2>
+				Font Variant 
+			</h2>
+			<p>
+				The font-variant property has two available values: normal (the default) and small-caps. Small caps are often used to de-emphasize uppercase letters in abbreviations and acronyms, and are similar in size to a typeface's lowercase characters. This property only affects lowercase letters, and display of small caps varies across browsers and platforms— for example, older versions of Internet Explorer simply render such text entirely in normal caps (i.e., in standard uppercase letters). 
+			</p>
+			<p>
+				<code>font-variant:</code> 
+			</p>
+			<h2>
+				Font Weight 
+			</h2>
+			<p>
+				The font-weight property is intended to make a font heavier or lighter, and despite the various available values, only bold and normal are in general use. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+.intro {
+  font-weight: bold;
+}
+</pre> 
+			</div>
+			<h2>
+				Line Height 
+			</h2>
+			<p>
+				In print this is called "leading". Increasing the leading slightly increases legibility, too much decreases it, Line-Height gives your page an added sense of design rather than using the default. 
+			</p>
+			<p>
+				The difference between the font-size and line-height measurements is the leading value. Half the value is applied above the text and half below. 
+			</p>
+			&nbsp; 
+			<p>
+				Many web designers who have no graphic design experience ignore the line-height property, but, as mentioned earlier, it's essential for improving the legibility of a web page. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h2 {
+  font-size: 1.3em;
+  line-height: 1.6em;
+}
+</pre> 
+			</div>
+			<div class="alert alert-success">
+				<h3>
+					Shorthand 
+				</h3>
+				<p>
+					Group the font size, line height, and font-family properties into a single shorthand property: 
+				</p>
+				<code>font: 12px/18px Arial, sans-serif;</code> 
+			</div>
+			<p>
+			<a href="//impressivewebs.com/css-font-shorthand-cheat-sheet.pdf" class="btn" target="_blank">Download the CSS Font Shorthand Cheat Sheet (PDF)</a> 
+			</p>
+			<h2>
+				Letter Spacing and Word Spacing 
+			</h2>
+			<p>
+				A small increase in the letter-spacing value can help further distinguish headings from body copy. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h1 {
+  letter-spacing: 3px;
+}
+h2 {
+  word-spacing: 2px;
+}
+</pre> 
+			</div>
+			<h2>
+				:hover/visited/focus/active 
+			</h2>
+			<p>
+				Apply styles to different states of elements using various pseudo classes. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+a:link { color:#FF0000; }      /* unvisited link */
+a:visited { color:#00FF00; }  /* visited link */
+a:hover { color:#FF00FF; }  /* mouse over link */
+a:active { color:#0000FF; }  /* selected link */
+</pre> 
+			</div>
+			<h2>
+				Text Alignment 
+			</h2>
+			<div class="alert alert-block">
+<pre>
+h1 {text-decoration:centered}
+h2 {text-decoration:left} /* default */
+h3 {text-decoration:right}
+h4 {text-decoration:justified}
+</pre> 
+			</div>
+			<h2>
+				Text Decoration 
+			</h2>
+			<p>
+				The text-decoration property specifies the decoration added to text. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h1 {text-decoration:overline}
+h2 {text-decoration:line-through}
+h3 {text-decoration:underline}
+h4 {text-decoration:blink}
+</pre> 
+			</div>
+			<h2>
+				Text Indenting 
+			</h2>
+			<p>
+				Text indenting indents the first line of a block of text, like tabbing in the first line of a paragraph. Professionally set text the first paragraph is not indented, but every subsequent paragraph is indented to help visually identify the start of a new paragraph. 
+			</p>
+			<p>
+				The proper way to do this in CSS is to use the adjacent sibling selector (+) 
+			</p>
+			<div class="alert alert-block">
+<pre>
+p+p {
+  text-indent: 1.5 em;
+}
+</pre> 
+			</div>
+			<p>
+				To state this in plain english, apply text indent to all p tags that follow p tags. 
+			</p>
+			<h2>
+				Text Transform 
+			</h2>
+			<p>
+				The text-transform property enables you to change the case of letters within an element. 
+			</p>
+			&nbsp; 
+			<p>
+				The uppercase and lowercase values force the text of the applied element into the relevant case regardless of the original content (e.g., enabling you to override the case of the original content for ensuring that headings are consistent site-wide), whereas capitalize sets the first letter of each word in uppercase, it does not lower-case subsequent letters. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+h1 {
+  text-transform: uppercase;
+}
+h2 {
+  text-transform: lowercase;
+}
+h3 {
+  text-transform: capitalize;
+</pre> 
+			</div>
+			<hr class="soften">
+			<h1>
+				Borders 
+			</h1>
+			<p>
+				The CSS border properties allow you to specify the style and color of an element's border. In HTML we use tables to create borders around a text, but with the CSS border properties we can create borders with nice effects, and it can be applied to any element. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+border-width : px
+border-style : none, hidden, dotted, dashed, solid, double, groove, ridge, inset, outset
+border-color : hex, rgb, name
+</pre> 
+			</div>
+			<p>
+				All can be set for -top -right -bottom -left 
+			</p>
+			<div class="alert alert-success" style="margin-top: 10px">
+				<p>
+					There is a shorthand for specifying border properties: 
+				</p>
+				<p>
+					<code>border: 5px solid green;</code> 
+				</p>
+				<p>
+					The values <b>must</b> be given in the correct order for the properties to display correctly. The correct order is <em>thickness style color</em>. 
+				</p>
+			</div>
+			<h2>
+				Border Radius 
+			</h2>
+			<p>
+				<code>border-radius:25px;</code> 
+			</p>
+			<div style="border: 5px solid green; border-radius:25px;">
+<pre style="background: transparent; border: none">
+border: 5px solid green;      
+border-radius: 25px;
+</pre> 
+			</div>
+			<hr class="soften">
+			<h1>
+				Display 
+			</h1>
+			<p>
+				The <a href="//www.w3schools.com/cssref/pr_class_display.asp" target="_blank">display property</a> defines how certain HTML elements are displayed. 
+			</p>
+			<p>
+				<code>display:</code> 
+			</p>
+			<dl> 
+				<dt>Block</dt>
+				<dd>Takes up the full width available, width a new line break before and after.</dd>
+				<dt>Inline</dt>
+				<dd>Takes up only as much width as is needed, and does not foce line breaks.</dd>
+			</dl>
+			<hr class="soften">
+			<h1>
+				Width/Height 
+			</h1>
+			<p>
+				The width and height properties are used to give an element a specific width or height. Values can be given in px, em or %. 
+			</p>
+
+<!-- 
+      <div style="width: 500px; height: 50px; border: 1px solid; padding: 10px;">
+        <p>
+          <code>&lt;div style="width: 500px; height: 50px; border: 1px solid;"&gt;</code>
+        </p>
+      </div>
+      <br>
+      <div style="width: 50%; height: 50px; border: 1px solid; padding: 10px;">
+        <p>
+          <code>&lt;div style="width: 50%; height: 50px; border: 1px solid;"&gt;</code>
+        </p>
+      </div>
+ -->
+			<p>
+				There are also min and max values for both height and width that will allow you to specify a minimum or maximum value for either property. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+max-height:
+min-height:
+max-width:
+min-width:
+</pre> 
+			</div>
+			<hr class="soften">
+			<h1>
+				The Box Model 
+			</h1>
+			<p>
+				The box model explains how elements are displayed and how they interact with each other. 
+			</p>
+			<p>
+				Every element on the page is considered a rectangular box which includes: 
+			</p>
+			<ul>
+				<li>content</li>
+				<li>padding</li>
+				<li>border</li>
+				<li>margin</li>
+			</ul>
+			<p>
+				In css width and height declare the content area by adding padding, border, and margin, you will not affect the size of the content area but you wil affect the size of the element box. 
+			</p>
+			<p>
+				Example: I want a div that is 100px wide, but has 10px of margin, a 2px border, and 5px of padding. 
+			</p>
+			<div class="alert alert-success">
+				<p>
+					width = totalWidth - (marginLeft + borderLeft + paddingLeft + paddingRight + borderRight + marginRight)<br>
+					-- so --<br>
+					100-(10+2+5+5+2+10) 
+				</p>
+			</div>
+			<div class="alert alert-block">
+<pre style="background:transparent; border: none">
+div {
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid black;
+  width: 68px
+}
+</pre> 
+			</div>
+			<p>
+				Unfortunately IE versions below 7,  width includes content, padding and border, but not the margin. We are almost out of the woods with this one, but not quite. It is important to know about this issue should you get a job designing sites where a client mandates it be compatible with IE6 (this usually happens because they know they are targeting a specific age or geographic region that is know to still have a high percentage of users using this browser, or the client does not want to update their browser.) 
+			</p>
+			<p>
+				IE7 pretty much fixed this issue but it has issues with something called&hellip; 
+			</p>
+			<h2>
+				Margin Collapsing 
+			</h2>
+			<p>
+				When two or more margins meet they collapse to create a single margin. The actual margin will be equal to the larger of the two margins. 
+			</p>
+			<p>
+				When an element is inside another element with no padding, the top and bottom margins collapse. 
+			</p>
+			<p>
+				If you have an empty element with no content or padding, the top and bottom margins will collapse upon themselves. 
+			</p>
+			<p>
+				One of the best ways to eliminate most box model cross-browser issues, is to apply this rule: 
+			</p>
+			<div class="alert alert-success">
+				<p>
+					For all block level non content holding elements: (div, ul, ol, dl, table, tr, form)  
+				</p>
+				<ul>
+					<li>add margin </li>
+					<li>zero the padding</li>
+					<li>assign width</li>
+				</ul>
+				<p>
+					For all content holding elements (h1-6, p, li, dd, dt, td)  
+				</p>
+				<ul>
+					<li>zero the margin </li>
+					<li>use padding</li>
+					<li>width: 100% (if needed)</li>
+				</ul>
+			</div>
+			<p>
+				Since the issue between browsers is with the way it tries to calculate margin and padding in width, the width then deals with the collapse, here we are removing the gray areas in this formula 
+			</p>
+			<hr class="soften">
+			<h1>
+				Margin 
+			</h1>
+			<p>
+				The CSS margin properties define the space around elements. It is possible to use negative values to overlap content. The top, right, bottom, and left margin can be changed independently using separate properties. A shorthand margin property can also be used to change all of the margins at once. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+margin-top
+margin-right
+margin-bottom
+margin-left
+</pre> 
+			</div>
+			<p>
+				margin - A shorthand property for setting the margin properties in one declaration 
+			</p>
+			<div class="alert alert-block">
+				margin: 10px 20px 30px 40px; 
+			</div>
+			<p>
+				going clockwise: 10px top, 20px right, 30px bottom, 40px left 
+			</p>
+			<div class="alert alert-block">
+				margin: 10px 20px 30px; 
+			</div>
+			<p>
+				going clockwise: 10px top, 20px right, 30px bottom, 20px left  (since left is not declared, it borrows from the right) 
+			</p>
+			<div class="alert alert-block">
+				margin: 10px 20px; 
+			</div>
+			<p>
+				going clockwise: 10px top and bottom, 20px right and left 
+			</p>
+			<div class="alert alert-block">
+				margin: 10px; 
+			</div>
+			<p>
+				10px all the way around 
+			</p>
+			<ul>
+				<li>CSS margin properties: auto, length, %</li>
+				<li>Auto automatically figures out the amount of room available and divides by two.</li>
+				<li>Length can be set in px or em</li>
+				<li>% not used often in margins </li>
+			</ul>
+			<hr class="soften">
+			<h1>
+				Padding 
+			</h1>
+			<p>
+				The CSS padding properties define the space between the element border and the element content. Negative values are not allowed. The top, right, bottom, and left padding can be changed independently using separate properties. A shorthand padding property is also created to control multiple sides at once. 
+			</p>
+			<div class="alert alert-block">
+<pre>
+padding-top
+padding-right
+padding-bottom
+padding-left
+
+padding: 
+</pre> 
+			</div>
+			<hr class="soften">
+			<h1>
+				Float 
+			</h1>
+			<p>
+				Float sets where an image or a text will appear in another element : left, right, none 
+			</p>
+			<p>
+				<b>There is no float center!</b> 
+			</p>
+			<p>
+				With the float property you can shift an object all the way to the left or the right until it's outer edges touch either it's containing box/element or another floated object. Standard block level elements reflow themselves as if the floated elements were not inline, but they do flow their text around the floated elements. If there is not enough horizontal space in the viewport, the floated item fill float down until there is enough space. It is possible for them to get stuck. 
+			</p>
+			<p>
+				<code>clear</code> - Sets the sides of an element where other floating elements are not allowed : left, right, both, none 
+			</p>
+			<p>
+				<code>display</code> - Sets how/if an element is displayed : none, in-line, block 
+			</p>
+			<p>
+				<code>visibility</code> - Sets if an element should be visible or invisible : visible, hidden 
+			</p>
+			<p>
+				It's fairly easy to confuse the display and visibility properties, because it would seem that they do much the same thing. However, the two properties are in fact quite different. The visibility property determines whether a given element is visible or not (visibility="visible|hidden"). However, when visibility is set to hidden, the element being hidden still occupies its same place in the layout of the page. 
+			</p>
+			<p>
+				You can use the float and margin properties to enable body copy to wrap around an image with a class of photo. If you have been doing your reading you should already know what the float property does. Right? The float property will be defined in more detail in a later class, but basically it pulls the element out of the flow of the document and tells the other elements to ignore it's BLOCK level status and just fill in the remaining space around the item. 
+			</p>
+			<p>
+				There are three options for float, Left, Right and None. 
+			</p>
+			<hr class="soften">
+			<h1>
+				Position 
+			</h1>
+			<p>
+				The CSS positioning properties allow you to position an element. It can also place an element behind another, and specify what should happen when an element's content is too big. 
+			</p>
+			<p>
+				Elements can be positioned using the top, bottom, left, and right properties. However, these properties will not work unless the position property is set first. They also work differently depending on the positioning method. 
+			</p>
+			<p>
+				There are four different positioning methods. 
+			</p>
+			<ul>
+				<li>static</li>
+				<li>fixed</li>
+				<li>relative</li>
+				<li>absolute</li>
+			</ul>
+			<hr class="soften">
+			<h1>
+				Background 
+			</h1>
+			<p>
+				Background images, like all images, take time to download, while background colors alone do not. As a result, we should use background images cautiously, making sure the added impact is worth the resulting download hit. Another consideration is that busy background images are usually not conducive to good design; rarely should a page background be the focus of attention. Still, a subtle background image can enhance the ambiance of a site. 
+			</p>
+			<p>
+				The CSS background property allow you to control the background color of an element, set an image as the background, repeat a background image vertically or horizontally, and position an image on a page. 
+			</p>
+			<dl> 
+				<dt> background-color                </dt>
+				<dd> Sets the background color of an element<br>
+					     : color-rgb, color-hex, color-name, transparent </dd>
+				<dt> background-image                </dt>
+				<dd> Sets an image as the background<br>
+					     :url, none </dd>
+				<dt> background-repeat                </dt>
+				<dd> Sets if/how a background image will be repeated<br>
+					    : repeat, repeat-x, repeat-y, no-repeat </dd>
+				<dt> background-attachment                </dt>
+				<dd> Sets whether a background image is fixed or scrolls with the rest of the page<br>
+					     : scroll, fixed </dd>
+				<dt> background-position                </dt>
+				<dd> Sets the starting position of a background image<br>
+					     :top/center/bottom right/center/left, x% y%, xpos ypos </dd>
+			</dl>
+			<h2>
+				Full-screen Background Images 
+			</h2>
+			<p>
+				A full-screen background image is, of course, intended to fill the browser window from the upper left corner to the lower right corner. A full-screen JPG background photo has the potential to be a huge file, with a resulting huge download hit. 
+			</p>
+			  
+			<p>
+				The first consideration for a full-screen background image is its display size. If it's large enough to fill larger browser windows (say, 1600 x 1200 pixels), it can appear truncated and incomplete when displayed on smaller windows (like 800 x 600 pixels). Using a smaller image as a background for the entire page won't work, either, because, as we have seen, it often tiles unattractively to fill the entire page. A photograph rarely works under these circumstances, although a well-planned abstract design might. In any case, you need to test a full-screen background at multiple window sizes. 
+			</p>
+			  
+			<p>
+				Full-screen background images scroll by default, meaning that they move along with the content as the user scrolls down a page. We can use CSS to lock a background image in place so that it doesn't scroll: 
+			</p>
+			<div class="alert alert-block">
+<pre>
+body {
+  background-image: url(img/wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-color: #666;
+  background-attachment:fixed;
+}</pre> 
+			</div>
+			<h2>
+				Gradients 
+			</h2>
+			<p>
+			<a href="//www.colorzilla.com/gradient-editor/" target="_blank" class="btn">Gradient Generator</a> 
+			</p>
+			<hr class="soften">
+		</div>
+
+<!--/row-->
+	</div>
+	<footer> 
+	<p>
+		© Drexel University 
+	</p>
+	</footer> 
+</div>
+</body>
+</html>

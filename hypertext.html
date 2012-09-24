@@ -1,24 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Drexel University WBDV 240 Lecture Notes">
 	<meta name="author" content="Phil Sinatra">
-	<title>WBDV 240 - HTML</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/base.css">
-	<style type="text/css">
-	body {
-		/* 60px to make the container go all the way to the bottom of the topbar */      
-		padding-top: 60px; 
-	}
-	</style> 
-	<link rel="stylesheet" type="text/css" href="assets/css/responsive_custom.css">
-	<script src="assets/js/min/bootstrap-ck.js" type="text/javascript"></script>
+	<title>WBDV 240</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/base.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/responsive_custom.css" />
+	<script src="assets/js/min/bootstrap-ck.js"></script> 
 	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 </head>
 <body>
 <div class="navbar navbar-inverse navbar-fixed-top">
@@ -30,9 +24,9 @@
 					Web Authoring I 
 				</p>
 				<ul class="nav">
-					<li><a href="index.htm">Home</a></li>
-					<li class="active"><a href="hypertext.htm">HTML</a></li>
-					<li><a href="stylesheets.htm">CSS</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li class="active"><a href="hypertext.html">HTML</a></li>
+					<li><a href="stylesheets.html">CSS</a></li>
 				</ul>
 			</div>
 
@@ -726,7 +720,7 @@
 						The <code>&lt;textarea&gt;</code> element is similar in some ways to the text input element, but it allows multiple lines of input rather than just one. It uses a pair of attributes, cols and rows, to control its size, and instead of using a value attribute to preset any textual content, it uses the content of the element itself. It's a container element, rather than a self-closing element.
 					</p>
 
-					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L<#num#>"><span class="tag">&lt;p&gt;</span><span class="pln">If other, please list:</span><span class="tag">&lt;br /&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;textarea</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"other_powers"</span> <span class="atn">cols</span><span class="pun">=</span><span class="atv">"20"</span> <span class="atn">rows</span><span class="pun">=</span><span class="atv">"5"</span><span class="tag">&gt;&lt;/textarea&gt;&lt;/p&gt;</span></li></ol></pre>
+					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L1"><span class="tag">&lt;p&gt;</span><span class="pln">If other, please list:</span><span class="tag">&lt;br /&gt;</span></li><li class="L2"><span class="tag">&lt;textarea</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"other_powers"</span> <span class="atn">cols</span><span class="pun">=</span><span class="atv">"20"</span> <span class="atn">rows</span><span class="pun">=</span><span class="atv">"5"</span><span class="tag">&gt;&lt;/textarea&gt;&lt;/p&gt;</span></li></ol></pre>
 					<p>
 						If other, please list:<br>
 <textarea name="other_powers" cols="20" rows="5">
@@ -828,7 +822,7 @@
 				<p>
 					<code>&lt;label&gt;</code>, also increases both usability and accessibility. This element is used to form an association between a textual label and a form control. In visual browsers, a user can then bring focus to the form control by clicking the associated label text as well as within the control itself.
 				</p>
-				<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L<#num#>"><span class="tag">&lt;p&gt;</span><span class="pln">Do You have superpowers?</span><span class="tag">&lt;/p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;input</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"yes"</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"super"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"radio"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"Yes"</span> <span class="atn">checked</span><span class="pun">=</span><span class="atv">"checked"</span> <span class="tag">/&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;label</span> <span class="atn">for</span><span class="pun">=</span><span class="atv">"yes"</span><span class="tag">&gt;</span><span class="pln">Yes</span><span class="tag">&lt;/label&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;/p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;p&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;input</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"no"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"radio"</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"super"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"No"</span> <span class="tag">/&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;label</span> <span class="atn">for</span><span class="pun">=</span><span class="atv">"no"</span><span class="tag">&gt;</span> <span class="pln">No</span><span class="tag">&lt;/label&gt;</span></li><li class="L<#num#>"><span class="tag">&lt;/p&gt;</span></li></ol></pre>				<p>
+				<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L1"><span class="tag">&lt;p&gt;</span><span class="pln">Do You have superpowers?</span><span class="tag">&lt;/p&gt;</span></li><li class="L2"><span class="tag">&lt;p&gt;</span></li><li class="L3"><span class="tag">&lt;input</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"yes"</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"super"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"radio"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"Yes"</span> <span class="atn">checked</span><span class="pun">=</span><span class="atv">"checked"</span> <span class="tag">/&gt;</span></li><li class="L4"><span class="tag">&lt;label</span> <span class="atn">for</span><span class="pun">=</span><span class="atv">"yes"</span><span class="tag">&gt;</span><span class="pln">Yes</span><span class="tag">&lt;/label&gt;</span></li><li class="L5"><span class="tag">&lt;/p&gt;</span></li><li class="L6"><span class="tag">&lt;p&gt;</span></li><li class="L7"><span class="tag">&lt;input</span> <span class="atn">id</span><span class="pun">=</span><span class="atv">"no"</span> <span class="atn">type</span><span class="pun">=</span><span class="atv">"radio"</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"super"</span> <span class="atn">value</span><span class="pun">=</span><span class="atv">"No"</span> <span class="tag">/&gt;</span></li><li class="L8"><span class="tag">&lt;label</span> <span class="atn">for</span><span class="pun">=</span><span class="atv">"no"</span><span class="tag">&gt;</span> <span class="pln">No</span><span class="tag">&lt;/label&gt;</span></li><li class="L9"><span class="tag">&lt;/p&gt;</span></li></ol></pre>				<p>
 					Using the for attribute can be laborious. Each form control requires a unique id attribute to pair up with the label's for value, which involves a fair amount of hand-coding if your form is long. But it is well worth it. Without it you are asking your user to move a flea around the screen with their mouse and try to land it in a tiny little circle and click. This gives them a wider margin on control.
 				</p>
 				<p>
@@ -1102,6 +1096,9 @@
 <!--/span12-->
 		</div>
 <!--/row-->
+
+		<hr class="soften">
+
 		<footer> 
 		<p>
 			© Drexel University

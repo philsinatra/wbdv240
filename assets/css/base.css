@@ -6055,3 +6055,10 @@ hr.soften {
   background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
   border: 0;
 }
+.html5-logo {
+  background: url(../../images/HTML5-logo.svg) no-repeat center center;
+  background-size: contain;
+  display: block;
+  height: 160px;
+  margin: 0 auto;
+}

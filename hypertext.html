@@ -8,7 +8,7 @@
 	<title>WBDV 240</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/base.css" />
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive_custom.css" />
-	<script src="assets/js/min/bootstrap-ck.js"></script> 
+	<script src="assets/js/min/bootstrap-ck.js"></script>
 	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,10 +18,10 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container-fluid">
-			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.htm">WBDV 240</a> 
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.htm">WBDV 240</a>
 			<div class="nav-collapse collapse">
 				<p class="navbar-text pull-right">
-					Web Authoring I 
+					Web Authoring I
 				</p>
 				<ul class="nav">
 					<li><a href="index.html">Home</a></li>
@@ -46,9 +46,9 @@
 			<p>
 				<em>HTML uses <strong>elements</strong> to describe the structure of pages.</em><cite><small>Textbook page 21</small></cite>
 			</p>
-			
+
 			<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;html&gt;</span></li><li class="L1"><span class="tag">&lt;body&gt;</span></li><li class="L2"><span class="tag">&lt;h1&gt;</span><span class="pln">This is the Main Heading!</span><span class="tag">&lt;/h1&gt;</span></li><li class="L3"><span class="tag">&lt;p&gt;</span><span class="pln">This text might be an introduction to the rest of the page.</span><span class="tag">&lt;/p&gt;</span></li><li class="L4"><span class="tag">&lt;h2&gt;</span><span class="pln">This is a Sub-heading</span><span class="tag">&lt;/h2&gt;</span></li><li class="L5"><span class="tag">&lt;p&gt;</span><span class="pln">Many long articles have sub-headings so to help you follow the structure of what is being written.</span><span class="tag">&lt;/p&gt;</span></li><li class="L6"><span class="tag">&lt;/body&gt;</span></li><li class="L7"><span class="tag">&lt;/html&gt;</span></li></ol></pre>
-			
+
 			<p>
 				Each element has an opening and closing <code>tag</code>.<cite><small>Textbook page 23</small></cite>
 			</p>
@@ -60,9 +60,9 @@
 				<li>Attributes are always specified in the start tag of an HTML element.</li>
 				<li>Attribute values should always be enclosed in quotes.</li>
 			</ul>
-			
+
 			<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;img</span> <span class="atn">src</span><span class="pun">=</span><span class="atv">"images/myimage.jpg"</span> <span class="atn">alt</span><span class="pun">=</span><span class="atv">"My Image"</span><span class="tag">&gt;</span></li></ol></pre>
-			
+
 			<ul>
 				<li><code>img</code> is the element: an image element</li>
 				<li><code>src</code> and <code>alt</code> are the names of attributes</li>
@@ -94,7 +94,7 @@
 				<li>title</li>
 				<li>body</li>
 			</ol>
-			<dl> 
+			<dl>
 				<dt>DOCTYPE declaration</dt>
 				<dd> The first tag in your HTML document is the DOCTYPE. The DTD indicates to a web browser what markup you're using, thereby enabling the browser to accurately display the document. NOTE: The DOCTYPE declaration is not a part of the HTML document itself. It is not an HTML element, and it should not have a closing tag. <br>
 					<code>&lt;!DOCTYPE html&gt;</code>
@@ -109,11 +109,11 @@
 				<dt>&lt;title&gt;</dt>
 				<dd>The text between the &lt;title&gt; tags is the title of your document. The title is shown at the top of the browser window (or in the tab if using a tab based browser). It is what the browser default to when making a bookmark.</dd>
 				<dt>&lt;meta&gt;</dt>
-				<dd> Previously used by search engines but their abuse lead to new search engine technology. currently the only really valuable meta tags are: 
-				
-					
+				<dd> Previously used by search engines but their abuse lead to new search engine technology. currently the only really valuable meta tags are:
+
+
 <pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">""</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">""</span> <span class="tag">/&gt;</span></li><li class="L1"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"keywords"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"comma, separated, list, of, relevant, words"</span> <span class="tag">/&gt;</span></li><li class="L2"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"description"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"Brief summary about the page."</span> <span class="tag">/&gt;</span></li><li class="L3"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"copyright"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"Copyright ©2007 Company. All Rights Reserved."</span> <span class="tag">/&gt;</span></li><li class="L4"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"author"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"Your Name Here" </span><span class="tag">/&gt;</span></li><li class="L5"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"language"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"English"</span> <span class="tag">/&gt;</span></li><li class="L6"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"revisit-after"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"15"</span> <span class="tag">/&gt;</span></li><li class="L7"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"robots"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"ALL, INDEX"</span> <span class="tag">/&gt;</span></li><li class="L8"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"Revisit-After"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"30 Days"</span> <span class="tag">/&gt;</span></li><li class="L9"><span class="tag">&lt;meta</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"revised"</span> <span class="atn">content</span><span class="pun">=</span><span class="atv">"6/10/99"</span> <span class="tag">/&gt;</span></li></ol></pre>
-					
+
 				</dd>
 				<dt>&lt;body&gt;</dt>
 				<dd>Everything inside this element is shown inside the main browser window.</dd>
@@ -139,7 +139,7 @@
 			</p>
 			<ul>
 				<li>paragraphs <code>&lt;p&gt;&lt;/p&gt;</code></li>
-				<li>headings <code>&lt;h1&gt;&lt;/h1&gt;</code></li>			
+				<li>headings <code>&lt;h1&gt;&lt;/h1&gt;</code></li>
 				<li>abbreviations</li>
 				<li>address</li>
 				<li>bold</li>
@@ -169,7 +169,7 @@
 				The greatest site architecture is irrelevant if no one can figure out how to access the pages inside that architecture. Web surfers are impatient — they want to get to the good stuff effortlessly. They rarely expend any time figuring out unwieldy navigation; it's so much easier to ask Google to suggest another site. As a result, navigation must help visitors to find what they want easily.
 			</p>
 			<p>
-				If, as a side benefit, you can expose them to what you want them to discover, so much the better. Navigation should do the following:
+				If, as a side benefit, you can expose them to what you want them to discover, so much the better.
 			</p>
 			<p>
 				Navigation should do the following:
@@ -203,7 +203,7 @@
 			<p>
 				Navigation types - there are essentially three types of navigation online:
 			</p>
-			<dl> 
+			<dl>
 				<dt>Inline navigation</dt>
 				<dd>General links within web page content areas, jump from one location to another location on the same page, without reloading the page.</dd>
 				<dt>Site navigation</dt>
@@ -247,9 +247,9 @@
 			<h3>
 				Different ways to write a link
 			</h3>
-			<dl> 
+			<dl>
 				<dt>Relative link</dt>
-				<dd> 
+				<dd>
 					<p>
 						Locates a file in relation to the document. Used for linking to another page on the same site.<br>
 						../ means move up one directory<br>
@@ -266,7 +266,7 @@
 					</p>
 				</dd>
 				<dt>Internal page link</dt>
-				<dd> 
+				<dd>
 					<p>
 						Along with linking to other documents, it's possible to link to another point in the same web page. This is handy for things like a FAQ (frequently asked questions) list, enabling the visitor to jump directly to an answer and then back to the list of questions; or for top-of-page links, enabling a user single-click access to return to the likely location of a page's masthead and navigation, if they've scrolled to the bottom of a long document.
 					</p>
@@ -290,7 +290,7 @@
 					</p>
 				</dd>
 				<dt>Absolute link</dt>
-				<dd> 
+				<dd>
 					<p>
 						Includes a full URL. Used for linking to a page on another site.<br>
 					</p>
@@ -302,7 +302,7 @@
 					</p>
 				</dd>
 				<dt>Email link</dt>
-				<dd> 
+				<dd>
 					<p>
 						Used to trigger the default email client to open and create an email message.
 					</p>
@@ -351,12 +351,12 @@
 				Avoid web clichés like spinning globes, spiders and webs, or animated envelopes for email. A spinning globe might be appropriate for NASA, but is not appropriate for, say, a site selling golf clubs, just because the site is on the "world wide web".
 			</p>
 			<div style="margin-bottom: 20px;">
-				<video src="//philsinatra.com/videos/dialmegformurder/stockphotos.m4v" controls></video> 
+				<video src="//philsinatra.com/videos/dialmegformurder/stockphotos.m4v" controls></video>
 				<div style="margin-bottom: 20px;">
 					<h2>
 						What type of image should I use?
 					</h2>
-					<dl> 
+					<dl>
 						<dt>.jpg</dt>
 						<dd>(Joint Photographic Experts Group)&nbsp; - supports millions of colors - best for photographs or images that require smooth color transitions and continuous tones. Uses lossy compression which removes information the eye doesn't need, but as compression rates increase this removal info becomes very apparent, and artifacts become more prevalent. As a general rule you should not go much above 50%</dd>
 						<dt>.gif</dt>
@@ -408,7 +408,7 @@
 					<p>
 						<code>&lt;img src="myimage.jpg" width="75" height="155" alt="My image" title="my image" /&gt;</code>
 					</p>
-					<dl> 
+					<dl>
 						<dt>src</dt>
 						<dd>the url that defines the location of the image</dd>
 						<dt>width &amp; height</dt>
@@ -440,7 +440,7 @@
 					<p>
 						HTML5 has introduced a new element to contain images and their caption so the two are associated.
 					</p>
-		
+
 					<pre class="prettyprint linenums" style="margin-bottom: 18px;"><ol class="linenums"><li class="L0"><span class="tag">&lt;figure&gt;</span></li><li class="L1"><span class="tag">&lt;img</span> <span class="atn">src</span><span class="pun">=</span><span class="atv">"images/otters.jpg"</span> <span class="atn">alt</span><span class="pun">=</span><span class="atv">"Photograph of two sea otters floating in water"</span> <span class="tag">/&gt;</span></li><li class="L2"><span class="tag">&lt;br /&gt;</span></li><li class="L3"><span class="tag">&lt;figcaption&gt;</span><span class="pln">Sea otters hold hands when they sleep so they don't drift away from each other.</span><span class="tag">&lt;/figcaption&gt;</span></li><li class="L4"><span class="tag">&lt;/figure&gt;</span></li></ol></pre>
 
 					<p>
@@ -529,11 +529,11 @@
 					<h3>
 						Form tag attributes
 					</h3>
-					<dl> 
+					<dl>
 						<dt>action</dt>
 						<dd>The action attribute tells the user agent what it's supposed to do with the contents of the form when the form is submitted. (X)HTML does not actually provide any native mechanism for dealing with form data. All it can do is pass on the information to a form handler (a web page or script), which can be written in PHP, Perl, ASP, and so on. In our case when we use the mailto scripts it automatically opens the default browser, populates the To: field with the provided e-mail address, and dumps the from data into the body of the e-mail.</dd>
 						<dt>method</dt>
-						<dd> 
+						<dd>
 							<p>
 								The method attribute informs the user agent how the form data should be passed to the form handler. The two possible values are <strong>get</strong> and <strong>post</strong>.
 							</p>
@@ -786,22 +786,22 @@
           &lt;option value="wol"&gt;Wolverine&lt;/option&gt;
        &lt;/optgroup&gt;
 &lt;/select&gt;
-</pre> 
+</pre>
 					</div>
 					<select name="myHero">
-						<optgroup label="DC Comics"> 
+						<optgroup label="DC Comics">
 						<option value="sup" selected> Superman </option>
 						<option value="bat"> Batman </option>
 						<option value="won"> Wonder Woman </option>
 						<option value="gre"> Green Lantern </option>
 						<option value="fla"> Flash </option>
-						</optgroup> <optgroup label="Marvel Comics"> 
+						</optgroup> <optgroup label="Marvel Comics">
 						<option value="spi" selected> Spiderman </option>
 						<option value="iro"> Ironman </option>
 						<option value="cap"> Captain America </option>
 						<option value="dar"> Daredevil </option>
 						<option value="wol"> Wolverine </option>
-						</optgroup> 
+						</optgroup>
 					</select>
 					<p>
 						The label attribute used here is supported across browsers. A benefit of using <code>&lt;optgroup&gt;</code> tags to divide your <code>&lt;option&gt;</code> elements is that the <code>&lt;optgroup&gt;</code> label cannot be selected, nor can its value be submitted as data, whereas in the former example the web author would either have to live with erroneous submissions or provide a client- or server-side validator to ensure such dividers had not been submitted. Also, using <code>&lt;optgroup&gt;</code> is a clear example of using the right tag for the right job.
@@ -936,7 +936,7 @@
 				<p>
 					<a href="http://www.instacss.com/#css/display" target="_blank">HTML elements can be displayed various ways.</a>
 				</p>
-				<dl> 
+				<dl>
 					<dt>Block</dt>
 					<dd>Takes up the full width available, width a new line break before and after.</dd>
 					<dt>Inline</dt>
@@ -1035,7 +1035,7 @@
 					<code>&lt;iframe src="http://w3schools.com"&gt;&lt;/ifram&gt;</code>
 				</p>
 				<div class="hidden-phone">
-				<iframe src="//w3schools.com" style="width: 90%"></iframe> 
+				<iframe src="//w3schools.com" style="width: 90%"></iframe>
 				</div>
 
 				<hr class="soften">
@@ -1104,11 +1104,11 @@
 
 		<hr class="soften">
 
-		<footer> 
+		<footer>
 		<p>
 			© Drexel University
 		</p>
-		</footer> 
+		</footer>
 	</div>
 </body>
 </html>

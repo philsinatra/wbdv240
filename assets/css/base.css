@@ -6035,6 +6035,7 @@ body {
 }
 /* Specify class=linenums on a pre to get line numbering */
 ol.linenums {
+  font-size: .9em;
   margin: 0 0 0 33px;
   /* IE indents via margin-left */
 
@@ -6044,6 +6045,14 @@ ol.linenums li {
   color: #bebec5;
   line-height: 20px;
   text-shadow: 0 1px 0 #fff;
+}
+li.L0,
+li.L2,
+li.L4,
+li.L6,
+li.L8,
+li.L10 {
+  background: #eee;
 }
 /* Faded out hr */
 hr.soften {

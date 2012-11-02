@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>jQuery Cycle</title>
+<!--
+	A jQuery slideshow plugin example
+	Source: http://jquery.malsup.com/cycle/
+-->
+
+<!-- Load jquery -->
+<script src="scripts/jquery-1.8.2.min.js"></script>
+
+<!-- Load cycle plugin -->
+<script src="scripts/jquery.cycle.all.js"></script>
+
+<script>
+$(document).ready(function() {
+    $('.slideshow').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+});
+</script>
+
+</head>
+<body>
+	<div class="slideshow">
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach1.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach2.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach3.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach4.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach5.jpg" width="200" height="200" />
+	</div>
+</body>
+</html>

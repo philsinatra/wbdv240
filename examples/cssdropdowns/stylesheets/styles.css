@@ -1,5 +1,5 @@
 /* http://csswizardry.com/2011/02/creating-a-pure-css-dropdown-menu/ */
-@import url('reset.css');
+@import url('../../_css/reset.css');
 
 body {
 	background: #efefef;

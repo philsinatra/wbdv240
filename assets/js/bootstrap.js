@@ -11,3 +11,12 @@
 //	@codekit-prepend "bootstrap-collapse.js"
 //	@codekit-prepend "bootstrap-carousel.js"
 //	@codekit-prepend "bootstrap-typeahead.js"
+
+function showHide(el) {
+	if ($('#' + el).hasClass('hide'))
+		$('#' + el).removeClass('hide');
+	else
+		$('#' + el).addClass('hide');
+
+	return false;
+}

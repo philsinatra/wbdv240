@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Kite+One);
 /*!
  * Bootstrap v2.1.1
  *
@@ -6083,16 +6084,43 @@ hr.soften {
   margin: 20px 0;
 }
 .assignment {
-  background: #f5f5f5;
-  border: 1px solid #cfcfcf;
   padding: 10px;
 }
 .assignment .assign-title {
-  font-weight: bold;
+  font-size: 1.5em;
+  font-style: italic;
 }
 .assignment .assign-due {
-  color: red;
+  color: #990000;
+  font-weight: bold;
 }
-h2 a:hover {
+h2.cal-week a {
+  background: grey;
+  color: #999999;
+  text-shadow: none;
+  background-color: #f7f7f7;
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f4f4f4);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f9f9f9), to(#f4f4f4));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f4f4f4);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f4f4f4);
+  background-image: linear-gradient(to bottom, #f9f9f9, #f4f4f4);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff9f9f9', endColorstr='#fff4f4f4', GradientType=0);
+  border-color: #f4f4f4 #f4f4f4 #cecece;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border: 1px solid #e8e8e8;
+  font-family: 'Kite One', Arial, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  display: block;
+  font-size: 14px;
+  margin: 0;
+  padding: 8px;
+}
+h2.cal-week a:hover {
   text-decoration: none;
+}
+.written {
+  font-family: 'Kite One', Arial, sans-serif;
+  margin: 30px 0 0;
 }

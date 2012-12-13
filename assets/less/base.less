@@ -1,5 +1,7 @@
 @import 'bootstrap.less';
 @import "elements.less";
+@import url(http://fonts.googleapis.com/css?family=Kite+One);
+
 
 body {
 	background-color: white;
@@ -110,19 +112,44 @@ hr.soften {
 }
 
 .assignment {
-	background: rgb(245, 245, 245);
-	border: 1px solid rgb(207, 207, 207);
+//	background: rgb(245, 245, 245);
+//	border: 1px solid rgb(207, 207, 207);
+	
+//	.gradientBar(rgb(249, 249, 249), rgb(244, 244, 244), #333, none); 
+//	border: 1px solid rgb(232, 232, 232);	
+	
 	padding: 10px;
 
 	.assign-title {
-		font-weight: bold;
+		font-size: 1.5em;
+		font-style: italic;
 	}
 
 	.assign-due {
-		color: red;
+		color: #990000;
+		font-weight: bold;
 	}
 }
 
-h2 a:hover {
+h2.cal-week a {
+	background: grey;
+	.gradientBar(rgb(249, 249, 249), rgb(244, 244, 244), #999, none); 
+	border: 1px solid rgb(232, 232, 232);
+	font-family: 'Kite One', Arial, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+	display: block;
+	font-size: 14px;
+	margin: 0;
+	padding: 8px;
+}
+
+h2.cal-week a:hover {
 	text-decoration: none;
+}
+
+.written {
+	font-family: 'Kite One', Arial, sans-serif;
+	margin: 30px 0 0;
 }

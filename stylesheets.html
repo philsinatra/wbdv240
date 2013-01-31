@@ -523,16 +523,24 @@ p {
 				Generic Fonts are the fonts that should be available on EVERYONE'S computer/mobile device. That is because these tell the device to use the built in defaults that match these basic characteristics.
 			</p>
 			<dl>
+				<span style="font-family: serif; font-size: 1.2em">
 				<dt>serif</dt>
 				<dd>Serif Fonts are fonts that have serifs or little tails on the characters. Most browsers will display serif fonts as either Times New Roman (Win) or Times (Mac).</dd>
+				</span>
 				<dt>sans-serif</dt>
 				<dd>Sans-Serif Fonts are fonts that don't have serifs on the characters. Most browsers will display sans-serif fonts as either Arial (Win) or Helvetica (Mac). Some will also display Verdana.</dd>
+				<span style="font-family: monospace">
 				<dt>monospace</dt>
 				<dd>Monospace Fonts are fonts that take up the same amount of space on a page despite the character. For example, the letter i takes up the same amount of room as the letter M. In Serif and Sans-Serif fonts, the letter i is much narrower that the M. Most browsers will display monospace fonts as either Courier New (Win) or Courier (Mac).</dd>
+				</span>
+				<span style="font-family: cursive">
 				<dt>cursive</dt>
 				<dd>Cursive Fonts are flowing fonts that look hand written. Unfortunately, cursive fonts are much less standardized than the other types of fonts. However, systems will display in a variety of faces... Comic Sans, MS Monotype Corsiva, Bradley Hand, French Script, Temptus, or Mistral, as the default cursive font.</dd>
+				</span>
+				<span style="font-family: fantasy">
 				<dt>fantasy</dt>
 				<dd>Fantasy Fonts are fancy or decorative fonts. Unfortunately, fantasy fonts are much less standardized than the other types of fonts. However, systems can display a wide variety of faces such as: Impact, Papyrus, Copperplate, Curls, Felix, Engravers, Rockwell,&nbsp;Comic Sans, MS Monotype Corsiva, Bradley Hand, French Script, Temptus, or Mistral (is there an echo in here?)... the list goes on and one. If you are familiar with these fonts you will know that they have nothing in common. Some serif, some sans, some really designey, some gothic&hellip; I guess thats why they call it Fantasy.</dd>
+				</span>
 			</dl>
 			<p>
 				These are our absolute fall backs, if all the other fonts we specify are not available at least we can be sure it will render in one of these categories.&nbsp;
@@ -630,8 +638,40 @@ p {
 			<p>
 				It is common for people to set their navigation in pt sizes so the design of those do not break if the user increases the text size, but to keep the content set in ems so the main focus of their attention will increase if needed.
 			</p>
+			<h3>Targeted, resizeable (method 1)</h3>
+			<p>
+				My preferred method of dealing with font-size is to setup the base font-size for the body to be 100%, and use <i>em</i> units for other element font sizes.
+			</p>
+			<div class="alert alert-block">
+<pre>				
+body {
+	font: 100%/1.4 Arial, sans-serif; /* base font size = 16px */
+}				
+
+h1 {
+	font-size: 1.5em; /* 24/16 */
+}
+
+p {
+	font-size: 1em; /* 16/16 */
+}
+
+small {
+	font-size: 0.75em; /* 12/16 */
+}
+
+#mast {
+	font-size: 1.5em; /* 24/16 */
+}
+
+#mast p {
+	/* size is based on parent element's size, in this case 24 */
+	font-size: 0.75em; /* 18/24 */
+}
+</pre>
+			</div>			
 			<h3>
-				Targeted, resizable (method 1)
+				Targeted, resizable (method 2)
 			</h3>
 			<p>
 				The system works by first setting a base font size of 62.5% using a body selector:
@@ -661,7 +701,7 @@ p {
 				The system isn't perfect—relative values defined in ems can be inherited, so if a list item is within another list item, the size of the nested item(s) may increase or decrease, depending on the value assigned to the parent. It is worth noting, however, that this method is somewhat reliant on the user—if someone has changed the default font size in their browser, your design may not look as intended on their browser, since the value defined for body may be 62.5% of something other than 16 pixels. Still, few people muck around with their browser settings, and the general consensus in the industry is that the 62.5% method is the one to go for.
 			</p>
 			<h3>
-				Targeted, resizable (method 2)
+				Targeted, resizable (method 3)
 			</h3>
 			<p>
 				A newer method is to use a new CSS size <strong>rem</strong>, which works the same as the previous <strong>em</strong> example, except sizes do not inherit their parent's properties. Instead, font-sizes are tied to the root level font size, and since there can be only one root element, this method eliminates some confusion.
@@ -715,6 +755,7 @@ h1 a {
 }
 </pre>
 			</div>
+
 			<h2>
 				Font Variant
 			</h2>
@@ -765,6 +806,7 @@ h2 {
 				<p>
 					Group the font size, line height, and font-family properties into a single shorthand property:
 				</p>
+				<code>font: 100%/1.4 Arial, sans-serif;</code><br />
 				<code>font: 12px/18px Arial, sans-serif;</code>
 			</div>
 			<p>

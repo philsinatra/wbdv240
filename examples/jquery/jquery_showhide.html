@@ -3,57 +3,66 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Untitled</title>
-	
 	<style>
-	body {
-		background: lightgrey;
-	}
+	body { background: lightgrey; }
 	
 	.contain {
-		border: 1px solid black;
-		display: block;
+		border: 1px solid grey;
 		width: 320px;
-	}
-	
-	#nav-main {
-		display: none;
 	}
 	
 	a {
 		background: white;
 		color: black;
 		display: block;
-		font: 18px/18px Arial, sans-serif;
-		padding: 20px;
+		font: 18px/12px Arial, sans-serif;
+		padding: 10px;
 		text-decoration: none;
 	}
 	
-	a:hover {
-		background: blue;
-		color: white;
-	}
+	a:hover { background: lightblue; }
 	
-	.hidden {
-		display: none;
-	}
+	#sub-nav a { border-top: 1px solid lightgrey; }
 	</style>
-	
+
+	<!-- Load in a copy of jquery, in this case being hosted by Google -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script>
-	function showHide() {
-		if ($('#nav-main').css('display') == 'none') {
-			$('#nav-main').slideDown('slow');
-		} 
+	//	show/hide the submenu when the main button is clicked.
+	function showHide () {
+		//	The menu button was clicked...
+		//	Is the sub navigation list visibile?
+		if ($('#sub-nav').css('display') == 'none') {
+			$('#sub-nav').slideDown('fast', function() {
+				console.log ('Submenu is visible');
+			});
+		}
 		else {
-			$('#nav-main').slideUp('slow');
+			$('#sub-nav').slideUp('fast', function() {
+				console.log ('Submenu is hidden');
+			});
 		}
 	}
+	//	Document Object Model (DOM) is ready.
+	//	Let's do something fun. 
+	$(document).ready(function() {
+		//	If the user has javascript, they can play with the interactive menu.
+		//	Hide the submenu initially so the user has to click to see the links.
+		$('#sub-nav').css('display', 'none');
+		//	Listen for when the menu button is clicked
+		$('#btn-menu').click(function(event) {
+			//	Prevent the default action of the link from happening.
+			event.preventDefault();
+			//	Call the show/hide function to toggle the display of the submenu.
+			showHide();
+		});
+	});
 	</script>
 </head>
 <body>
 	<div class="contain">
-		<a href="javascript:showHide()">Main Button</a>
-		<div id="nav-main">
+		<a href="jquery_showhide.html" id="btn-menu">Menu</a>
+		<div id="sub-nav">
 			<a href="#">Link One</a>
 			<a href="#">Link Two</a>
 			<a href="#">Link Three</a>						

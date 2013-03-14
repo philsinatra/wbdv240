@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Drexel University WBDV 240 Lecture Notes">
+	<meta name="author" content="Phil Sinatra">
+	<title>WBDV 240</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/base.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/responsive_custom.css" />
+	<script src="assets/js/min/bootstrap-ck.js"></script>
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.html">WBDV 240</a>
+			<div class="nav-collapse collapse">
+				<p class="navbar-text pull-right">
+					Web Authoring I
+				</p>
+				<ul class="nav">
+					<li class="active"><a href="syllabus.html">Syllabus</a></li>
+					<li><a href="calendar.html">Calendar</a></li>
+					<li><a href="resources.html">Resources</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							Lecture Notes
+							<b class="caret"></b>
+						</a>
+						<ul class="dropdown-menu">
+							<li><a href="index_lecture.html">General</a></li>
+							<li><a href="hypertext.html">HTML</a></li>
+							<li><a href="stylesheets.html">CSS</a></li>
+							<li><a href="goldenratio.html">Golden Ratio</a></li>							
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid container-content">
+	<div class="row-fluid">
+		<div class="span12">
+			<section>
+				<h1>The Golden Ratio</h1>
+				<p>
+					We perceive visual appeal based on ratio (i.e. <a href="http://en.wikipedia.org/wiki/Golden_ratio" target="_blank">The Golden Ratio</a>). For thousands of years artists, designers, architects, etc. have either intentionally or unintentionally used a common ratio in their work that is aesthetically pleasing. What is the magic number? 1.62 (actually 1.618…) 
+				</p>
+				<p align="center"><img title="golden-ratio" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/golden-ratio.jpeg" alt="golden ratio" width="600" height="235"> </p>
+				<p>
+					Using the golden ratio is very simple. Lets say you want to find the width of your Main Content and Sidebar columns. You would take the total width of your content area (we’ll use 900px for this example) and divide that by 1.62. As shown in the example above we divide 900px by 1.62 and get 555.55px. We don’t need to be exact so we will round it off to 555px. Now you know your main content element will be 555px wide and your sidebar will be 345px! How easy is that?! 
+				</p>
+				<p align="center"><img title="220px-Golden_ratio_line" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/220px-Golden_ratio_line.png" alt="golden ratio line" width="220" height="127"> <img title="220px-SimilarGoldenRectangles" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/220px-SimilarGoldenRectangles.png" alt="Golden Rule" width="220" height="202"> </p>
+				<p>
+					But wait! The fun doesn’t stop there. You can also apply the Golden Ratio to other element’s width in relation to its height or vice-versa. This produces aesthetically pleasing elements with the Golden Ratio proportions. 
+				</p>
+				<p align="center"><img title="golden-ratio-box" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/golden-ratio-box.jpeg" alt="golden ratio box" width="391" height="327"> </p>
+				<p>
+					This method has been used since Pythagoras and Euclid in ancient Greece and plays off the basic ratios as seen in nature. 
+				</p>
+				<p align="center"><img title="Fibonacci" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/Fibonacci.png" alt="Fibonacci" width="802" height="497"> </p>
+				<h2>
+					Examples in nature: 
+				</h2>
+				<p align="center"><img title="NautilusCutawaySpiral" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/NautilusCutawaySpiral.jpeg" alt="spiral" width="402" height="304"> <img width="402" height="304" title="Irene and the Golden Ratio" src="http://philsinatra.net/blog/wp-content/uploads/2012/07/Irene-and-the-Golden-Ratio.jpeg" alt="Irene and the Golden Ratio"> </p>
+				<p align="center"><img alt="twitter ratio" src="http://rack.2.mshcdn.com/media/ZgkyMDEyLzAzLzE2LzEyXzA4XzE3XzM3NV9maWxl/7b0efeb7"></p>
+				<p>
+					There is a css framework that builds upon this called The Golden Grid ( <a href="http://code.google.com/p/the-golden-grid/" target="_blank">http://code.google.com/p/the-golden-grid/</a> ) than can help you maintain the aspect ratio in your column and typographical layout. 
+				</p>
+			</section>
+		</div>
+	</div>
+	<footer>
+	<p>
+		© Drexel University
+	</p>
+	</footer>
+</div>
+
+<!-- end container-fluid container-content -->
+</body>
+
+</html>

@@ -32,19 +32,31 @@
 
 	<script>
 	$(document).ready(function() {
-		$('.slideshow').cycle({
+		//	Setup cycle options for each slideshow on the page.
+		//	Be sure to update the class, and ID information for the next and previous links.
+		$('.slideshow-1').cycle({
 			fx:     'fade',
 			speed:  'fast',
 			timeout: 2000,
-		    pause:	 true,
-			next:   '#next2',
-			prev:   '#prev2'
+		  pause:	 true,
+			next:   '#btn-next-1',
+			prev:   '#btn-prev-1'
+		});
+
+		$('.slideshow-2').cycle({
+			fx:     'fade',
+			speed:  'fast',
+			timeout: 2000,
+		  pause:	 true,
+			next:   '#btn-next-2',
+			prev:   '#btn-prev-2'
 		});
 	});
 	</script>
 </head>
 <body>
-	<div class="slideshow">
+<!-- 	Setup a unique div for each slideshow. Also setup an additional div for navigation controls. -->
+	<div class="slideshow-1">
 		<img src="http://cloud.github.com/downloads/malsup/cycle/beach1.jpg" width="200" height="200" />
 		<img src="http://cloud.github.com/downloads/malsup/cycle/beach2.jpg" width="200" height="200" />
 		<img src="http://cloud.github.com/downloads/malsup/cycle/beach3.jpg" width="200" height="200" />
@@ -52,7 +64,18 @@
 		<img src="http://cloud.github.com/downloads/malsup/cycle/beach5.jpg" width="200" height="200" />
 	</div>
 	<div class="nav">
-		<a id="prev2" href="#">Prev</a> <a id="next2" href="#">Next</a>
+		<a id="btn-prev-1" href="#">Prev</a> <a id="btn-next-1" href="#">Next</a>
+	</div>
+
+	<div class="slideshow-2">
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach2.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach1.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach4.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach3.jpg" width="200" height="200" />
+		<img src="http://cloud.github.com/downloads/malsup/cycle/beach5.jpg" width="200" height="200" />
+	</div>
+	<div class="nav">
+		<a id="btn-prev-2" href="#">Prev</a> <a id="btn-next-2" href="#">Next</a>
 	</div>
 </body>
 </html>

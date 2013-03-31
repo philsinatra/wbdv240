@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Drexel University WBDV 240 Lecture Notes">
 	<meta name="author" content="Phil Sinatra">
-	<title>WBDV 240</title>
+	<title>WBDV 240 - CSS</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/base.css" />
 	<link rel="stylesheet" type="text/css" href="assets/css/responsive_custom.css" />
 	<script src="assets/js/min/bootstrap-ck.js"></script>
@@ -18,11 +18,12 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container-fluid">
-			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.html">WBDV 240</a>
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="#">WBDV 240</a>
 			<div class="nav-collapse collapse">
 				<p class="navbar-text pull-right">
 					Web Authoring I
 				</p>
+<!--
 				<ul class="nav">
 					<li><a href="syllabus.html">Syllabus</a></li>
 					<li><a href="calendar.html">Calendar</a></li>
@@ -40,6 +41,7 @@
 						</ul>
 					</li>
 				</ul>
+-->
 			</div>
 
 <!--/.nav-collapse -->
@@ -50,10 +52,10 @@
 	<div class="row-fluid">
 		<div class="span12">
 			<h1>
-				Adding Styles to a Page
+				CSS - Adding Styles to a Page
 			</h1>
 			<p>
-			<a href="//dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">Do websites need to look exactly the same in every browser?</a>
+			<a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">Do websites need to look exactly the same in every browser?</a>
 			</p>
 			<p>
 				Proper use of CSS and HTML means separation of content from design. HTML defines the structure of the content, CSS is the W3C standard for defining the visual presentation for web pages, ultimately resulting in the separation of content and design.
@@ -179,7 +181,7 @@ h3 {
 			<div class="alert alert-error">
 <pre style="background: transparent; border: none">
 /* Not recommended */
-@import url("//www.google.com/css/maia.css");
+@import url("http://www.google.com/css/maia.css");
 
 html {
   font-family: "open sans", arial, sans-serif;
@@ -475,7 +477,7 @@ p {
 				You should regard your Web page layouts and typography as suggestions of how your pages should be rendered.
 			</p>
 			<p>
-			<a href="//dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">http://dowebsitesneedtolookexactlythesameineverybrowser.com</a>
+			<a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com" target="_blank">http://dowebsitesneedtolookexactlythesameineverybrowser.com</a>
 			</p>
 			<p>
 				Good typography depends on the visual contrast between one font and another and between text blocks, headlines, and the surrounding white space. Nothing attracts the eye and brain of the reader like strong contrast and distinctive patterns, and you can achieve those attributes only by carefully designing them into your pages.
@@ -612,8 +614,8 @@ p {
 </pre>
 			</div>
 			<ul>
-				<li><a href="//www.fontsquirrel.com" target="_blank">fontsquirrel.com</a></li>
-				<li><a href="//www.google.com/webfonts" target="_blank">google fonts</a></li>
+				<li><a href="http://www.fontsquirrel.com" target="_blank">fontsquirrel.com</a></li>
+				<li><a href="http://www.google.com/webfonts" target="_blank">google fonts</a></li>
 			</ul>
 			<h2>
 				Font Size
@@ -644,10 +646,10 @@ p {
 				My preferred method of dealing with font-size is to setup the base font-size for the body to be 100%, and use <i>em</i> units for other element font sizes.
 			</p>
 			<div class="alert alert-block">
-<pre>				
+<pre>
 body {
 	font: 100%/1.4 Arial, sans-serif; /* base font size = 16px */
-}				
+}
 
 h1 {
 	font-size: 1.5em; /* 24/16 */
@@ -670,7 +672,7 @@ small {
 	font-size: 0.75em; /* 18/24 */
 }
 </pre>
-			</div>			
+			</div>
 			<h3>
 				Targeted, resizable (method 2)
 			</h3>
@@ -811,7 +813,7 @@ h2 {
 				<code>font: 12px/18px Arial, sans-serif;</code>
 			</div>
 			<p>
-			<a href="//impressivewebs.com/css-font-shorthand-cheat-sheet.pdf" class="btn" target="_blank">Download the CSS Font Shorthand Cheat Sheet (PDF)</a>
+			<a href="http://impressivewebs.com/css-font-shorthand-cheat-sheet.pdf" class="btn" target="_blank">Download the CSS Font Shorthand Cheat Sheet (PDF)</a>
 			</p>
 			<h2>
 				Letter Spacing and Word Spacing
@@ -850,7 +852,7 @@ a:active { color:#0000FF; }  /* selected link */
 <pre>
 h1 { text-align:center }
 h2 { text-align:left } /* default */
-h3 { text-align:right } 
+h3 { text-align:right }
 h4 { text-align:justified }
 </pre>
 			</div>
@@ -909,7 +911,7 @@ h3 { text-transform: capitalize; }
 				Display
 			</h1>
 			<p>
-				The <a href="//www.w3schools.com/cssref/pr_class_display.asp" target="_blank">display property</a> defines how certain HTML elements are displayed.
+				The <a href="http://www.w3schools.com/cssref/pr_class_display.asp" target="_blank">display property</a> defines how certain HTML elements are displayed.
 			</p>
 			<p>
 				<code>display:</code>
@@ -929,7 +931,7 @@ h3 { text-transform: capitalize; }
 			</p>
 			<div class="alert alert-block">
 <pre>
-div { 
+div {
 	height: 200px;
 	width: 500px;
 }
@@ -1022,7 +1024,7 @@ padding-right
 padding-bottom
 padding-left
 
-padding: 
+padding:
 </pre>
 			</div>
 			<hr class="soften">
@@ -1134,7 +1136,7 @@ div {
 			</p>
 			<div class="alert alert-success">
 				<p>
-					For all block level non content holding elements: (div, ul, ol, dl, table, tr, form) 
+					For all block level non content holding elements: (div, ul, ol, dl, table, tr, form)
 				</p>
 				<ul>
 					<li>add margin </li>
@@ -1142,7 +1144,7 @@ div {
 					<li>assign width</li>
 				</ul>
 				<p>
-					For all content holding elements (h1-6, p, li, dd, dt, td) 
+					For all content holding elements (h1-6, p, li, dd, dt, td)
 				</p>
 				<ul>
 					<li>zero the margin </li>
@@ -1237,11 +1239,11 @@ div {
 			<p>
 				A full-screen background image is, of course, intended to fill the browser window from the upper left corner to the lower right corner. A full-screen JPG background photo has the potential to be a huge file, with a resulting huge download hit.
 			</p>
-			 
+
 			<p>
 				The first consideration for a full-screen background image is its display size. If it's large enough to fill larger browser windows (say, 1600 x 1200 pixels), it can appear truncated and incomplete when displayed on smaller windows (like 800 x 600 pixels). Using a smaller image as a background for the entire page won't work, either, because, as we have seen, it often tiles unattractively to fill the entire page. A photograph rarely works under these circumstances, although a well-planned abstract design might. In any case, you need to test a full-screen background at multiple window sizes.
 			</p>
-			 
+
 			<p>
 				Full-screen background images scroll by default, meaning that they move along with the content as the user scrolls down a page. We can use CSS to lock a background image in place so that it doesn't scroll:
 			</p>
@@ -1259,7 +1261,7 @@ body {
 				Gradients
 			</h2>
 			<p>
-			<a href="//www.colorzilla.com/gradient-editor/" target="_blank" class="btn">Gradient Generator</a>
+			<a href="http://www.colorzilla.com/gradient-editor/" target="_blank" class="btn">Gradient Generator</a>
 			</p>
 			<hr class="soften">
 		</div>

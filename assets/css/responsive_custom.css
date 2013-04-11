@@ -992,12 +992,7 @@
 }
 @media (min-width: 960px) {
   body {
-    background-color: whiteSmoke;
     padding-top: 40px;
-  }
-  .container-content {
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
   }
 }
 @media (max-width: 979px) {

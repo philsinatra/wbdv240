@@ -1,10 +1,22 @@
 @import 'bootstrap.less';
 @import "elements.less";
-@import url(http://fonts.googleapis.com/css?family=Kite+One);
+@import url(http://fonts.googleapis.com/css?family=Antic+Didone);
 
+@customBG: rgb(251, 249, 241);
 
 body {
-	background-color: white;
+	background-color: @customBG !important;
+	font: 18px/24px 'Antic Didone', Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-inner { 
+	font-family: @baseFontFamily;
+	font-size: @baseFontSize;
+  line-height: @baseLineHeight;
+}
+
+.hero-unit {
+	background: transparent;
 }
 
 .container-fluid {
@@ -13,7 +25,10 @@ body {
 }
 
 .container-content {
-	background-color: white;
+//	background-color: white;
+	background: transparent;
+	p, li, dt, dd, address { line-height: 30px; }
+	li, dd { margin-bottom: 5px;}	
 }
 
 .img-rounded {
@@ -133,9 +148,10 @@ hr.soften {
 
 h2.cal-week a {
 	background: grey;
-	.gradientBar(rgb(249, 249, 249), rgb(244, 244, 244), #999, none); 
-	border: 1px solid rgb(232, 232, 232);
-	font-family: 'Kite One', Arial, sans-serif;
+//	.gradientBar(rgb(249, 249, 249), rgb(244, 244, 244), #999, none); 
+	.gradientBar(darken(@customBG, 10%), @customBG);
+//	border: 1px solid rgb(232, 232, 232);
+	border: 1px solid darken(@customBG, 20%);
 	font-size: 14px;
 	font-style: italic;
 	font-weight: normal;
@@ -143,6 +159,7 @@ h2.cal-week a {
 	font-size: 14px;
 	margin: 0;
 	padding: 8px;
+	color: black;
 }
 
 h2.cal-week a:hover {

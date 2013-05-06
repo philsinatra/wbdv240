@@ -1,12 +1,9 @@
 @import 'bootstrap.less';
 @import "elements.less";
-@import url(http://fonts.googleapis.com/css?family=Antic+Didone);
-
-@customBG: rgb(251, 249, 241);
 
 body {
-	background-color: @customBG !important;
-	font: 18px/24px 'Antic Didone', Georgia, Times, 'Times New Roman', serif;
+	background-color: #efefef;
+	font: 100%/1.4 @sansFontFamily;
 }
 
 .navbar-inner { 
@@ -25,9 +22,11 @@ body {
 }
 
 .container-content {
-//	background-color: white;
-	background: transparent;
-	p, li, dt, dd, address { line-height: 30px; }
+	background-color: white;
+	border-bottom: 1px solid lightgray;	
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;	
+//	p, li, dt, dd, address { line-height: 30px; }
 	li, dd { margin-bottom: 5px;}	
 }
 
@@ -84,7 +83,7 @@ ol.linenums {
 ol.linenums li {
   padding-left: 12px;
   color: #bebec5;
-  line-height: 20px;
+//  line-height: 20px;
   text-shadow: 0 1px 0 #fff;
 }
 
@@ -148,15 +147,14 @@ hr.soften {
 
 h2.cal-week a {
 	background: grey;
-//	.gradientBar(rgb(249, 249, 249), rgb(244, 244, 244), #999, none); 
-	.gradientBar(darken(@customBG, 10%), @customBG);
-//	border: 1px solid rgb(232, 232, 232);
-	border: 1px solid darken(@customBG, 20%);
+	.gradientBar(rgb(249, 249, 249), rgb(244, 244, 244), #999, none); 
+	border: 1px solid rgb(232, 232, 232);
+//	.gradientBar(darken(@customBG, 10%), @customBG);	
+//	border: 1px solid darken(@customBG, 20%);
 	font-size: 14px;
 	font-style: italic;
 	font-weight: normal;
 	display: block;
-	font-size: 14px;
 	margin: 0;
 	padding: 8px;
 	color: black;

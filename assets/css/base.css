@@ -5986,8 +5986,13 @@ a.badge:hover {
     More info at: http://lesselements.com
 -----------------------------------------------------*/
 body {
-  background-color: #efefef;
+  background-color: #fff;
   font: 100%/1.4 CartoGothicStdBook, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: #efefef;
+  }
 }
 .navbar-inner {
   font-family: CartoGothicStdBook, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -6003,13 +6008,17 @@ body {
 }
 .container-content {
   background-color: white;
-  border-bottom: 1px solid lightgray;
-  border-left: 1px solid lightgray;
-  border-right: 1px solid lightgray;
 }
 .container-content li,
 .container-content dd {
   margin-bottom: 5px;
+}
+@media screen and (min-width: 768px) {
+  .container-content {
+    border-bottom: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+  }
 }
 .img-rounded {
   -webkit-border-top-right-radius: 5px;

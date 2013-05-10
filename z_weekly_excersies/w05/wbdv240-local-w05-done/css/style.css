@@ -1,0 +1,98 @@
+
+/* HTML STYLES */
+
+body {
+/*	margin: top right bottom left; */
+	/* margin: 0px; */
+	background-color: #fff;
+	font-family: sans-serif;
+}
+.wrapper {
+	max-width: 860px;
+	margin: 10px auto;
+	border: 2px solid #6F6F6F;
+}
+header {
+	background: #ccc;
+	display: block;
+	padding: 20px 0;
+}
+#branding {
+	background: #AFAFAF;
+	color: #fff;
+	display: block;
+	font-size: 36px;
+	margin-left: 30px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+}
+
+nav,
+footer {
+	background: #6F6F6F;
+	display: block;
+	padding: 0 0;
+}
+
+footer {
+	text-align: right;
+}
+
+nav ul li,
+footer ul li {
+	display: inline-block;
+}
+
+footer ul {
+	margin-right: 10px;
+}
+
+/*
+	Order of anchor elements is important
+	link, visited, hover, active
+*/
+
+nav ul li a,
+footer ul li a {
+	color: #f00;
+	display: inline-block;
+	padding: 8px 18px;
+	text-decoration: none;
+}
+
+nav ul li a:hover,
+footer ul li a:hover {
+	background: #AFAFAF;
+	color: #000;
+}
+
+nav ul li a:active,
+footer ul li a:active {
+	background: #AFAFAF;
+	color: #fff;
+}
+
+section {
+	float: left;
+	max-width: 600px;
+	border-right: 1px solid #6F6F6F;
+	font-family: 'Molle', cursive, 'Times New Roman', Times, serif;
+	padding: 10px;
+}
+
+aside {
+  float: left;
+  max-width: 200px;
+  font-family: 'Molle', cursive, 'Times New Roman', Times, serif;
+  padding: 10px;
+}
+
+section p, aside p {
+	margin-bottom: 20px;
+}
+
+
+footer {
+  clear: both;
+}

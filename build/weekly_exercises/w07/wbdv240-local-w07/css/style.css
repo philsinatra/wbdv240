@@ -1,0 +1,22 @@
+
+/* HTML STYLES */
+
+body {
+/*	margin: top right bottom left; */
+	/* margin: 0px; */
+	background-color: #fff;
+	font-family: sans-serif;
+}
+.wrapper {
+	max-width: 522px;
+	margin: 10px auto;
+	padding: 10px;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #045104;
+}
+img {
+	border: 1px solid #045104;
+}

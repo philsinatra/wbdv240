@@ -2,6 +2,8 @@
 @import "pure-min";
 @import "1.0.5";
 
+body { margin-bottom: 80px; }
+
 hr.soften {
   height: 1px;
   margin: 2em 0;
@@ -70,4 +72,15 @@ a.btn-week, a.btn-student {
 
 .pure-table {
 	width: 100%;
+}
+
+footer {
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+}
+
+.classphoto {
+	margin: 1em 0;
+	text-align: center; 
 }

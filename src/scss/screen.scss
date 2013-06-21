@@ -15,7 +15,10 @@
 
 body { 
 	font-family: 'proxima_novalight', Arial, sans-serif;
-	margin-bottom: 80px; 
+	
+	@media screen and (min-width: 768px) {
+		margin-bottom: 80px;
+	}
 }
 
 hr.soften {
@@ -89,9 +92,11 @@ a.btn-week, a.btn-student {
 }
 
 footer {
-	bottom: 0;
-	position: fixed;
-	width: 100%;
+	@media screen and (min-width: 768px) {
+		bottom: 0;
+		position: fixed;
+		width: 100%;	
+	}
 }
 
 .classphoto {

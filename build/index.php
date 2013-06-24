@@ -27,7 +27,7 @@
 
 					<div class="hero-cta pure-u-3-4">
 					<p>
-							<a class="pure-button pure-button-cta" href="syllabus.html">Get Started</a>
+							<a class="pure-button pure-button-cta" href="syllabus.php">Get Started</a>
 					</p>
 					<p>
 							<a href="//github.com/philsinatra/wbdv240" target="_blank">View on GitHub</a>

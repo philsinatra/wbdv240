@@ -40,7 +40,7 @@
 				<h2 class="content-subhead">Requirements</h2>				
 				<ul>
 					<li>DIGM 100</li>
-					<li><a href="http://htmlandcssbook.com" target="_blank">HTML and CSS: Design and Build Websites</a> (textbook)
+					<li><a href="http://htmlandcssbook.com" target="_blank">HTML and CSS: Design and Build Websites</a> (<a href="http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189%3FSubscriptionId%3DAKIAJYKJBAJTAUI7IXAQ%26tag%3Dcoursekit-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1118008189" target="_blank">Amazon</a>)
 						<ul><li>This book is now available in the <a href="http://innoserv.library.drexel.edu/search~S9?/tHTML+and+CSS:+Design+and+Build+Websites/thtml+and+css+design+and+build+websites/1%2C1%2C2%2CB/frameset&amp;FF=thtml+and+css+design+and+build+websites&amp;1%2C%2C2" target="_blank">Haggerty Library electronic resources</a>.</li></ul>
 					</li>
 					<li><a href="http://www.bluehost.com/track/UP/DREXEL" target="_blank">Self hosted web domain</a></li>

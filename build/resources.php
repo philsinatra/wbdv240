@@ -55,6 +55,9 @@
 										<li><a href="http://www.abookapart.com/products/" target="_blank">A Book Apart</a></li>
 										<li><a href="http://www.smashingmagazine.com/2012/05/08/the-smashing-book-3-redesign-the-web-is-out/" target="_blank">Smashing Books</a></li>
 									</ul>
+									<h2 class="content-subhead">Amazon Student</h2>
+									<p>Amazon Student members receive benefits such as six months of FREE Two-Day Shipping with Amazon Prime, and e-mail alerts for discounts and promotions. Current Amazon Prime members can also join the program. Discounts and promotions will be e-mailed to your Amazon.com e-mail account or made available on the Amazon Student membership page.</p>
+									<p><a href="http://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=DLJAQIXKJ6IM56X73TTP4RDUJI&ref_type=generic" target="_blank" class="pure-button">Amazon Student</a></p>
 								</div>
 						</div>
 				</div>				

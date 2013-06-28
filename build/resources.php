@@ -126,6 +126,13 @@
 					</div>
 				</div>
 				
+				<section id="tuts-psd">
+					<h1>Photoshop For Web Designers</h1>
+					<p>Tuts+ put together a free Photoshop course showing the process of designing a web page in Photoshop. You can review all 26 videos for FREE!</p>
+					<p align="center"><a href="http://cs6forwebdesign.tutsplus.com" target="_blank" class="pure-button">Launch Course</a></p>
+					
+				</section>
+				
 				<h2 class="content-subhead">Instructors</h2>								
 				<ul>
 					<li>Jervis Thompson: <a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></li>

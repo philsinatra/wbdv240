@@ -102,6 +102,12 @@
 							<li>Directory Structure</li>
 						</ul>
 						</li>
+						<li>FTP Setup 
+						<ul>
+							<li>ftp access</li>
+							<li>upload/download </li>
+						</ul>
+						</li>						
 						<li>Programming Introduction 
 						<ul>
 							<li>New Document</li>
@@ -144,9 +150,8 @@
 					<p>
 						Make sure you are using your html tags properly and that they are properly nested. Do not worry about visual design, focus on adding content and HTML syntax/nesting. 
 					</p>
-					<p>
-						All of your html pages will be linked together via a simple navigation list at the top of each page. 
-					</p>				
+					<h2>Extra Credit</h2>
+					<p>There is an extra credit opportunity available with this assignment. For two additional points, create a simple set of links on all of your html pages that allows the user to navigate from one page to another. All of your pages have to have links to all of your other pages.</p>			
 				
 					<hr class="soften">
 
@@ -172,7 +177,33 @@
 						File name for your site map image should be in this format: <b>wbdv240s###_jwt123_sitemap.jpg</b> [replace ### with your class section number, replace jwt23 with your drexel email account prefix] 
 					</p>
 
-					<hr class="soften">				
+					<hr class="soften">			
+					
+					<h3>
+						How to turn in homework
+					</h3>
+					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk02s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<ul>
+						<li>Valid URL direct link to your web "index.html" page.</li>
+						<li>Attach your site map zip file.</li>
+					</ul>
+					
+					<dl>
+						<dt>
+							Valid URL direct link to each web page
+						</dt>
+						<dd>
+							There are a minimum of four pages that need to be created and posted online. You should be submitting <b>at least</b> four individual valid links in your email that will open each of the four pages you have created and posted to your website. If you create more than four pages you can submit additional links. An example link would look like <code>http://yourname.com/about.html</code>
+						</dd>
+						<dt>
+							Site Map zip file
+						</dt>
+						<dd>
+							Put all files related to your site map in a folder and zip that folder. Attach the zip file to the email you submit with your page links.
+						</dd>
+					</dl>
+								
+					<hr class="soften">						
 
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p> 
 					<ul>
@@ -198,12 +229,6 @@
 					</p>
 					<ul>
 						<li>Homework reading assignment review</li>
-						<li>FTP Setup 
-						<ul>
-							<li>ftp access</li>
-							<li>upload/download </li>
-						</ul>
-						</li>
 						<li>Links 
 						<ul>
 							<li>Link to other pages</li>
@@ -271,7 +296,6 @@
 						</li>
 					</ul>
 
-
 					<aside><p>Week 3 Assignments</p></aside> 
 					<p>
 						<b>Build Wireframes</b>: Due: Midnight the night before next class 
@@ -310,7 +334,7 @@
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk02s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Attach your wireframe zip file.</li>

@@ -8,32 +8,32 @@
 		<a href="#menu" id="menuLink" class="pure-menu-link">
 			<img src="img/navicon-png2x.png" width="20" alt="Menu toggle">
 		</a>
-		
+
 		<!-- Side Menu -->
 		<div class="pure-u" id="menu">
 			<div class="pure-menu pure-menu-open">
 				<?php include_once 'includes/_sidemenu.php'; ?>
 			</div>
 		</div>
-		<!-- / Side Menu -->		
-		
+		<!-- / Side Menu -->
+
 		<!-- Main Content Area -->
 		<div class="pure-u" id="main">
-		
+
 			<div class="header pure-u-1">
 				<h1 class="pure-u-1">Resources</h1>
 				<h2 class="pure-u">The Goodies</h2>
 			</div>
 			<!-- / .header -->
-			
+
 			<div class="content">
 				<p style="text-align:center;"><img alt="HTML and CSS" src="http://htmlandcssbook.com/images/slideshow-home/triplicate.jpg" style="margin-top: -18px; border-bottom: 1px solid #efefef;"></p>
-				
+
 				<div class="pure-g-r">
 						<div class="pure-u-1-2">
 								<div class="l-box">
 									<p><img alt="HTML and CSS Handbook" src="http://ecx.images-amazon.com/images/I/41K27gRbYmL._SL160_.jpg"></p>
-									<h2 class="content-subhead">HTML and CSS Handbook (Required)</h2>								
+									<h2 class="content-subhead">HTML and CSS Handbook (Required)</h2>
 									<p>
 										by Jon Duckett
 									</p>
@@ -44,13 +44,13 @@
 										<li>Official Website: <a href="http://www.htmlandcssbook.com/" target="_blank">http://www.htmlandcssbook.com/</a></li>
 										<li>Amazon: <a href="http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189%3FSubscriptionId%3DAKIAJYKJBAJTAUI7IXAQ%26tag%3Dcoursekit-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1118008189" target="_blank">amazon.com</a></li>
 										<li>Electronic Version: <a href="http://innoserv.library.drexel.edu/search~S9?/tHTML+and+CSS:+Design+and+Build+Websites/thtml+and+css+design+and+build+websites/1%2C1%2C2%2CB/frameset&amp;FF=thtml+and+css+design+and+build+websites&amp;1%2C%2C2" target="_blank">Haggerty Library</a>.</li>
-									</ul>									
+									</ul>
 								</div>
 						</div>
 
 						<div class="pure-u-1-2">
-								<div class="l-box"> 
-									<h2 class="content-subhead">Other Great Books</h2>				
+								<div class="l-box">
+									<h2 class="content-subhead">Other Great Books</h2>
 									<ul>
 										<li><a href="http://www.abookapart.com/products/" target="_blank">A Book Apart</a></li>
 										<li><a href="http://www.smashingmagazine.com/2012/05/08/the-smashing-book-3-redesign-the-web-is-out/" target="_blank">Smashing Books</a></li>
@@ -60,15 +60,15 @@
 									<p><a href="http://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=DLJAQIXKJ6IM56X73TTP4RDUJI&ref_type=generic" target="_blank" class="pure-button">Amazon Student</a></p>
 								</div>
 						</div>
-				</div>				
-				
-				<h2 class="content-subhead">Links</h2>				
-				
+				</div>
+
+				<h2 class="content-subhead">Links</h2>
+
 				<div class="pure-g-r">
 					<div class="pure-u-1-3">
 						<div class="l-box">
 							<h3>HTML</h3>
-							<dl> 
+							<dl>
 								<dt><a target="_blank" href="http://www.w3schools.com/html/html5_intro.asp">W3 Schools HTML5</a></dt>
 								<dd>HTML5 is The New HTML Standard</dd>
 								<dt><a target="_blank" href="http://diveintohtml5.info">Dive Into HTML5</a></dt>
@@ -83,8 +83,8 @@
 								<dd>prettyPhoto is a jQuery Lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media Lightbox</dd>
 								<dt><a href="http://bradfrost.github.com/this-is-responsive/" target="_blank">This is Responsive</a></dt>
 								<dd> Patterns, resources and news for creating responsive web experiences. </dd>
-							</dl>	
-						</div>					
+							</dl>
+						</div>
 					</div>
 					<div class="pure-u-1-3">
 						<div class="l-box">
@@ -115,6 +115,10 @@
 								<dd>Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.</dd>
 								<dt><a target="_blank" href="https://kuler.adobe.com">Adobe Kuler</a></dt>
 								<dd>Color wheel and inspiration tool</dd>
+								<dt><a href="http://flatuicolors.com/" target="_blank">FlatUIColor</a></dt>
+								<dd>The online resource Flat UI Colors is a great place to start when attempting to focus your creative efforts on flat color schemes</dd>
+								<dt><a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a></dt>
+								<dd>Free high quality patterns for your next web project.</dd>
 								<dt><a target="_blank" href="http://www.mirovideoconverter.com">Miro Video Converter</a></dt>
 								<dd>Convert your video file format, for free</dd>
 								<dt><a target="_blank" href="http://handbrake.fr/downloads.php">HandBrake</a></dt>
@@ -125,33 +129,81 @@
 						</div>
 					</div>
 				</div>
-				
+
 				<section id="tuts-psd">
 					<h1>Photoshop For Web Designers</h1>
 					<p>Tuts+ put together a free Photoshop course showing the process of designing a web page in Photoshop. You can review all 26 videos for FREE!</p>
 					<p align="center"><a href="http://cs6forwebdesign.tutsplus.com" target="_blank" class="pure-button">Launch Course</a></p>
-					
 				</section>
-				
-				<h2 class="content-subhead">Instructors</h2>								
-				<ul>
-					<li>Jervis Thompson: <a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></li>
-					<li>Troy Finamore: <a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></li>				
-					<li>Phil Sinatra: <a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></li>
-				</ul>				
-				
+
+				<section id="tuts-starters">
+					<h1>10 Hand-Picked Tutorials for Beginning Web Designers</h1>
+					<p>So you’re starting to show interest in web design, but are having trouble figuring out where to start? Want to create awesome websites, learn how to code HTML/CSS, and learn about web standards and the user experience? If so, we have a list of hand-picked Envato tutorials that should get you started on your journey!</p>
+					<p align="center"><a href="http://net.tutsplus.com/articles/web-roundups/10-hand-picked-tutorials-for-beginning-web-designers/" target="_blank" class="pure-button">View Tutorials</a></p>
+				</section>
+
+				<section id="code-ranger">
+					<h1>Beautiful Code</h1>
+					<pre>var designers = 'Designers often get a bad rap for their code.';
+var engineers = 'Many engineering teams are wary of letting designers touch production code.';
+
+// But it's essential for designers to code their own design work.
+var harmony? = eval(designers + engineers);</pre>
+					<p>As designers, we're experts at making software simple and easy for customers to use, and we can do the same with the code we hand off to clients and engineers.</p>
+					<p align="center"><a href="http://zurb.com/article/1220/designing-code-how-to-use-design-principl" target="_blank" class="pure-button">View Article</a></p>
+				</section>
+
+				<h2 class="content-subhead">Instructors</h2>
+				<div class="pure-g-r instructor-contact">
+					<div class="pure-u-1-3">
+						<div class="l-box">
+							<h3>Jervis Thompson</h3>
+							<div class="avatar"><img src="images/avatar-jervo.jpg" alt="Jervo"></div>
+							<div class="contact-meta">
+								<a href="mailto:st966rc2@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
+								<a href="http://jervo.org" target="_blank"><i class="icon-globe icon-2x"></i></a>
+								<a href="https://twitter.com/jervo" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="pure-u-1-3">
+						<div class="l-box">
+							<h3>Troy Finamore</h3>
+							<div class="avatar"><img src="images/avatar-troy.png" alt="Troy"></div>
+							<div class="contact-meta">
+								<a href="mailto:twf23@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
+								<a href="https://twitter.com/findes" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="pure-u-1-3">
+						<div class="l-box">
+							<h3>Phil Sinatra</h3>
+							<div class="avatar"><img src="images/avatar-phil.jpg" alt="Phil"></div>
+							<div class="contact-meta">
+								<a href="mailto:ps42@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
+								<a href="http://philsinatra.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
+								<a href="https://plus.google.com/u/0/112353960021434026511/about" target="_blank"><i class="icon-google-plus icon-2x"></i></a>
+								<a href="http://www.linkedin.com/in/philsinatra" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+								<a href="https://twitter.com/philsinatra" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+								<a href="https://github.com/philsinatra" target="_blank"><i class="icon-github-alt icon-2x"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+
 			</div>
 			<!-- / .content -->
-			
+
 			<?php include 'includes/_footer.php'; ?>
-		</div>		
-		<!-- / Main Content Area -->		
-		
+		</div>
+		<!-- / Main Content Area -->
+
 	</div>
 	<!-- / #layout -->
-	
-	<script src="js/vendor/1.0.10.js"></script>	
+
+	<script src="js/vendor/1.0.10.js"></script>
 	<script src="js/core.min.js"></script>
-		
+
 </body>
 </html>

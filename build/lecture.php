@@ -8,33 +8,33 @@
 		<a href="#menu" id="menuLink" class="pure-menu-link">
 			<img src="img/navicon-png2x.png" width="20" alt="Menu toggle">
 		</a>
-		
+
 		<!-- Side Menu -->
 		<div class="pure-u" id="menu">
 			<div class="pure-menu pure-menu-open">
 				<?php include_once 'includes/_sidemenu.php'; ?>
 			</div>
 		</div>
-		<!-- / Side Menu -->		
-		
+		<!-- / Side Menu -->
+
 		<!-- Main Content Area -->
 		<div class="pure-u" id="main">
-		
+
 			<div class="header pure-u-1">
 				<h1 class="pure-u-1">Lecture Notes</h1>
 				<h2 class="pure-u">Additional Helpful Information</h2>
 			</div>
 			<!-- / .header -->
-			
+
 			<div class="content">
-				<h2 class="content-subhead">The PowerPoint Files</h2>				
+				<h2 class="content-subhead">The PowerPoint Files</h2>
 				<p>Download a copy of the PowerPoint files used during class lectures:</p>
 				<p><a href="wbdv240_ppt.zip" download="Lecture Powerpoint Files" class="pure-button pure-button-warning">PPT Files</a></p>
 				<hr class="soften">
-				<h2 class="content-subhead">What is HTML?</h2>				
+				<h2 class="content-subhead">What is HTML?</h2>
 				<p>HTML is actually a really easy language to learn. with just a little bit of tutelage and a few tags, you could put together basic web pages within a hour! At it's core HTML is no more than telling the browser what the content is, ie: this is a paragraph, this is a headline, this is an image.</p>
 				<p>HTML stands for HyperText Markup Language. But it was sloppy, there were no web standards, and every browser had quirks and displayed the information in different ways. So the W3C applied the rules for XML (or Extensible Markup Language, a markup language where everything has to be marked up correctly, which results in "well-formed" documents) to HTML, and XHTML was born.</p>
-				<h2 class="content-subhead">What is CSS?</h2>				
+				<h2 class="content-subhead">What is CSS?</h2>
 				<p>
 					CSS stands for Cascading Style Sheets and defines how XHTML elements are displayed. In our CSS documents we can tell the browser how to display our headlines and paragraph text.
 				</p>
@@ -43,16 +43,16 @@
 				</p>
 				<p>
 					This is the process of separating content from presentation. This is part of a larger discussion called Accessibility. It allows various browsers and interpreters to access the data equally. We will be discussing this in further detail later on in the course.
-				</p>				
+				</p>
 				<hr class="soften">
-				<h2 class="content-subhead">Web Technology</h2>				
+				<h2 class="content-subhead">Web Technology</h2>
 				<p>
 					Web design requires the knowledge of the technologies behind the surface design. The more you dig into this field you will find many specialized areas that go into building a website. From project planning, to information architecture, to visual design to client-side and server-side programming.
 				</p>
 				<p>
 					Every visual choice you make in the design will have a technological consequence. There are two different environments that are called upon in every web page interaction.: The <b>Client-Side</b> and The <b>Server-Side</b>.
 				</p>
-				
+
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
@@ -75,7 +75,7 @@
 								<dd> Used to make animations, games, banner ads, even entire websites. Requires browser plugin</dd>
 								<dt> Multimedia </dt>
 								<dd> Audio &amp; Video Requires browser plugin </dd>
-							</dl>						</div>					
+							</dl>						</div>
 					</div>
 					<div class="pure-u-1-2">
 						<div class="l-box">
@@ -90,43 +90,43 @@
 								<dt>AJAX</dt><dd>Asynchronous JavaScript and XML </dd>
 								<dt>PHP</dt>
 								<dt>Perl</dt>
-							</dl>						
+							</dl>
 						</div>
 					</div>
-				</div>			
-				
+				</div>
+
 				<hr class="soften">
-				
-				<h2 class="content-subhead">Software</h2>					
+
+				<h2 class="content-subhead">Software</h2>
 				<p>HTML5 is not software that has to be installed but rather a new version of the language HTML. Web browsers must support this new version of HTML in order to correctly display web pages using HTML5 functions. It is upon the developers of browsers to update their software to use HTML5; users simply must allow these updates to be done on their computers, but do not have to install additional software.</p>
 
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
 							<h3>
-								Mac 
+								Mac
 							</h3>
 							<ul>
-								<li>Editors 
+								<li>Editors
 								<ul>
 									<li>TextEdit</li>
+									<li><a href="http://sublimetext.com/2" target="_blank">Sublime Text 2</a></li>
 									<li><a href="http://brackets.io/" target="_blank">Adobe Brackets</a></li>
 									<li><a href="http://barebones.com/products/bbedit/index.html?utm_source=thedeck&amp;utm_medium=banner&amp;utm_campaign=bbedit" target="_blank">BBEdit</a></li>
-									<li><a href="http://sublimetext.com" target="_blank">Sublime</a></li>									
 									<li><a href="http://panic.com/coda/" target="_blank">Coda</a></li>
 									<li><a href="http://barebones.com/products/TextWrangler/" target="_blank">TextWrangler</a></li>
 									<li><a href="http://adobe.com/uk/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a></li>
 								</ul>
 								</li>
-								<li>FTP 
+								<li>FTP
 								<ul>
-									<li><a href="http://panic.com/transmit/" target="_blank">Transmit</a></li>
 									<li><a href="http://fetchsoftworks.com" target="_blank">Fetch</a></li>
+									<li><a href="http://panic.com/transmit/" target="_blank">Transmit</a></li>
 									<li><a href="http://adobe.com/uk/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a></li>
 								</ul>
 								</li>
-							</ul>							
-						</div>					
+							</ul>
+						</div>
 					</div>
 					<div class="pure-u-1-2">
 						<div class="l-box">
@@ -137,10 +137,10 @@
 								<li>Editors
 								<ul>
 									<li>Notepad</li>
-									<li><a href="http://brackets.io/" target="_blank">Adobe Brackets</a></li>									
+									<li><a href="http://sublimetext.com/2" target="_blank">Sublime Text 2</a></li>
+									<li><a href="http://brackets.io/" target="_blank">Adobe Brackets</a></li>
 									<li><a href="http://notepad-plus-plus.org" target="_blank">Notepad++</a></li>
 									<li><a href="http://adobe.com/uk/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a></li>
-									<li><a href="http://sublimetext.com" target="_blank">Sublime</a></li>
 								</ul>
 								</li>
 								<li>FTP
@@ -149,20 +149,20 @@
 									<li><a href="http://adobe.com/uk/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a></li>
 								</ul>
 								</li>
-							</ul>						
+							</ul>
 						</div>
 					</div>
-				</div>		
-				
+				</div>
+
 				<hr class="soften">
-				
-				<h2 class="content-subhead">Best Practices</h2>					
-				
+
+				<h2 class="content-subhead">Best Practices</h2>
+
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
 							<h3>
-								Programming 
+								Programming
 							</h3>
 							<ul>
 								<li>Never use a space in a file name</li>
@@ -188,14 +188,14 @@
 								</ul>
 								</li>
 							</ul>
-						</div>					
+						</div>
 					</div>
 					<div class="pure-u-1-2">
 						<div class="l-box">
 							<h3>
 								Directory Structure
 							</h3>
-							
+
 							<ul class="unstyled">
 								<li><i class="icon-folder-open"></i> wbdv240
 									<ul class="unstyled">
@@ -233,15 +233,15 @@
 										</li>
 									</ul>
 								</li>
-							</ul>							
-										
+							</ul>
+
 						</div>
 					</div>
-				</div>		
-				
+				</div>
+
 				<hr class="soften">
-				
-				<h2 class="content-subhead">FTP Setup</h2>								
+
+				<h2 class="content-subhead">FTP Setup</h2>
 				<p><img src="http://fetchsoftworks.com/i/blog/fetch-logo-128.png" alt="fetch" title="fetch"></p>
 
 				<h3>Fetch</h3>
@@ -258,28 +258,28 @@
 					<li>Fetch will confirm the file name that will be uploaded and saved. Click OK to upload.</li>
 					<li>When you look under public_html, you should see the newly uploaded file.</li>
 				</ol>
-				<p>You can also drag/drop files to and from Fetch, like you would move files in your Finder.</p>				
-				
+				<p>You can also drag/drop files to and from Fetch, like you would move files in your Finder.</p>
+
 				<p><img src="http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/dreamweaver/images/dreamweaver-cs6-logo-138x138.jpg.adimg.mw.138.png" alt="dreamweaver" title="dreamweaver"></p>
 				<h3>Dreamweaver</h3>
-				<p>Map your site in Dreamweaver</p>		
-				
-				
-				
+				<p>Map your site in Dreamweaver</p>
+
+
+
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
 							<p><img src="images/dw_managesites.gif" alt="manage sites"></p>
 							<p>1. Go to the Site menu and click on <b>Manage Sites</b></p>
-						</div>					
-					</div>
-					<div class="pure-u-1-2">
-						<div class="l-box">													
-							<p><img src="images/dw_managesiteswindow.gif" alt="manage sites window"></p>
-							<p>2. In the window that pops up, click on the New&hellip; button, and click on <b>Site</b> in the sub-menu that pops up</p>										
 						</div>
 					</div>
-				</div>	
+					<div class="pure-u-1-2">
+						<div class="l-box">
+							<p><img src="images/dw_managesiteswindow.gif" alt="manage sites window"></p>
+							<p>2. In the window that pops up, click on the New&hellip; button, and click on <b>Site</b> in the sub-menu that pops up</p>
+						</div>
+					</div>
+				</div>
 
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
@@ -291,10 +291,10 @@
 								<li> Enter a name into the <b>Site name</b> input box</li>
 								<li> Enter the absolute path to the directory where the content is stored on your computer, locally. You can also use the folder icon next to the input box to browse to the directory</li>
 							</ul>
-						</div>					
+						</div>
 					</div>
 					<div class="pure-u-1-2">
-						<div class="l-box">													
+						<div class="l-box">
 							<p><img src="images/dw_remoteinfo.gif" alt="manage sites"></p>
 							<p>
 								5. Go to the Remote Info option and fill out all the information
@@ -307,11 +307,11 @@
 								<li>Click the <b>Test</b> button to verify the information you entered is correct.</li>
 								<li>IF you have trouble, try checking the Use Secure FTP (SFTP) check box</li>
 								<li>Click the Ok button to exit the window and save the new site configuration.</li>
-							</ul>							
+							</ul>
 						</div>
 					</div>
-				</div>	
-				
+				</div>
+
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
@@ -323,31 +323,31 @@
 								<li>Select the root folder in the <b>Files</b> sub-window</li>
 								<li>Click the <b>Put</b> (the up arrow) button to upload the files to the server</li>
 								<li>Enter your ftp password if prompted if you did not tell Dreamweaver to save your password when you set up the site.</li>
-							</ul>							
-						</div>					
-					</div>
-					<div class="pure-u-1-2">
-						<div class="l-box">													
-							<iframe width="420" height="315" src="http://www.youtube.com/embed/__oDRVhVR7A" frameborder="0" allowfullscreen></iframe>			
+							</ul>
 						</div>
 					</div>
-				</div>	
-				
-				
-																			
-				
+					<div class="pure-u-1-2">
+						<div class="l-box">
+							<iframe width="420" height="315" src="http://www.youtube.com/embed/__oDRVhVR7A" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+
+
+
+
 			</div>
 			<!-- / .content -->
-			
+
 			<?php include 'includes/_footer.php'; ?>
-		</div>		
-		<!-- / Main Content Area -->		
-		
+		</div>
+		<!-- / Main Content Area -->
+
 	</div>
 	<!-- / #layout -->
-	
-	<script src="js/core.min.js"></script>	
+
+	<script src="js/core.min.js"></script>
 	<script src="js/vendor/1.0.10.js"></script>
-		
+
 </body>
 </html>

@@ -2,6 +2,7 @@
 @import "pure-min";
 @import "pure-1-0-5";
 
+@import "font-awesome";
 @font-face {
 	font-family: 'proxima_novalight';
 	src: url('../fonts/proximanova-light-webfont.eot');
@@ -13,9 +14,9 @@
 	font-style: normal;
 }
 
-body { 
+body {
 	font-family: 'proxima_novalight', Arial, sans-serif;
-	
+
 	@media screen and (min-width: 768px) {
 		margin-bottom: 80px;
 	}
@@ -95,24 +96,96 @@ footer {
 	@media screen and (min-width: 768px) {
 		bottom: 0;
 		position: fixed;
-		width: 100%;	
+		width: 100%;
 	}
 }
 
 .classphoto {
 	margin: 1em 0;
-	text-align: center; 
+	text-align: center;
 }
 
 #tuts-psd {
-	background: rgb(41, 69, 77);
-	color: rgb(231, 231, 231);
+	background: #44d58e;
+	color: white;
 	padding: 1em 2em;
 	min-height: 200px;
-	
+
 	h1 {
-		color: rgb(231, 231, 231);
+		color: white;
 		font-weight: normal;
 		text-align: center;
-	}	
+	}
+}
+
+#code-ranger {
+	background: #f26f63;
+	border: 1px solid #f26f63;
+	color: white;
+	// padding: 1em 2em;
+	margin: 20px 0;
+	min-height: 200px;
+
+	h1 {
+		background: #f26f63;
+		color: white;
+		display: block;
+		font-weight: normal;
+		margin: 0;
+		padding: 8px 0;
+		text-align: center;
+	}
+
+	p {
+		padding: 0 10px;
+	}
+
+	pre {
+		font-size: .8em;
+		margin-top: 0;
+		padding: 8px;
+	}
+}
+
+#tuts-starters {
+	background: #4dade2;
+	color: white;
+	margin: 20px 0;
+	min-height: 200px;
+	padding: 1em 2em;
+
+	h1 {
+		color: white;
+		font-weight: normal;
+		text-align: center;
+	}
+}
+
+.instructor-contact {
+	h3 {
+		text-align: center;
+	}
+}
+
+.avatar {
+	height: 235px;
+	text-align: center;
+	img {
+		max-width: 200px;
+	}
+}
+
+.contact-meta {
+	font-size: .8em;
+	text-align: center;
+
+	a {
+		color: #1f8dd6;
+		margin: 0 3px;
+		@include transition (color 0.3s ease-in-out);
+
+		&:hover {
+			color: darken(#1f8dd6, 20%);
+		}
+	}
 }

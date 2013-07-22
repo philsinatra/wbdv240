@@ -121,6 +121,8 @@
 								<dd>The online resource Flat UI Colors is a great place to start when attempting to focus your creative efforts on flat color schemes</dd>
 								<dt><a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a></dt>
 								<dd>Free high quality patterns for your next web project.</dd>
+								<dt><a href="http://discover-devtools.codeschool.com/" target="_blank">DevTools Code School</a></dt>
+								<dd>Explore and master Chrome Dev Tools</dd>
 								<dt><a target="_blank" href="http://www.mirovideoconverter.com">Miro Video Converter</a></dt>
 								<dd>Convert your video file format, for free</dd>
 								<dt><a target="_blank" href="http://handbrake.fr/downloads.php">HandBrake</a></dt>

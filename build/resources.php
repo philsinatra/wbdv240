@@ -96,6 +96,8 @@
 								<dd>The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on&hellip;</dd>
 								<dt><a target="_blank" href="http://www.colorzilla.com/gradient-editor/">CSS Gradient Editor</a></dt>
 								<dd>Quickly generate CSS gradients</dd>
+								<dt><a href="http://css3generator.com/" target="_blank">CSS3 Generator</a></dt>
+								<dd>Geneate shadow, radius, gradient and a bunch of other CSS3 code with this graphical interface.</dd>
 								<dt><a target="_blank" href="http://www.fontsquirrel.com">Font Squirrel</a></dt>
 								<dd>Web ready fonts for your website</dd>
 								<dt><a target="_blank" href="http://www.google.com/webfonts">Google Webfonts</a></dt>

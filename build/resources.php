@@ -71,6 +71,8 @@
 							<dl>
 								<dt><a target="_blank" href="http://www.w3schools.com/html/html5_intro.asp">W3 Schools HTML5</a></dt>
 								<dd>HTML5 is The New HTML Standard</dd>
+								<dt><a href="http://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a></dt>
+								<dd>This validator checks the markup validity of Web documents.</dd>
 								<dt><a target="_blank" href="http://diveintohtml5.info">Dive Into HTML5</a></dt>
 								<dd>Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards</dd>
 								<dt><a target="_blank" href="http://html5doctor.com">HTML5 Doctor</a></dt>
@@ -92,6 +94,8 @@
 							<dl>
 								<dt><a target="_blank" href="http://www.w3schools.com/css3/default.asp">W3 Schools CSS3</a></dt>
 								<dd>CSS3 is the latest standard for CSS</dd>
+								<dt><a href="http://csslint.net/" target="_blank">CSS Lint</a></dt>
+								<dd>CSS Lint is an open source CSS code quality tool.</dd>
 								<dt><a target="_blank" href="http://meyerweb.com/eric/tools/css/reset/">Eric Meyer's CSS Reset</a></dt>
 								<dd>The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on&hellip;</dd>
 								<dt><a target="_blank" href="http://www.colorzilla.com/gradient-editor/">CSS Gradient Editor</a></dt>

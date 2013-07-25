@@ -241,6 +241,35 @@
 
 				<hr class="soften">
 
+				<div class="pure-g-r">
+					<div class="pure-u-1-2">
+						<div class="l-box">
+							<h2 class="content-subhead">Sublime Text 2</h2>
+							<p>The primary editor being used during class is <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>. Here are some helpful links for setting up and customizing the editor:</p>
+							<ul>
+								<li><a href="http://wbond.net/sublime_packages/package_control" target="_blank">Package Control</a> <a href="#package-control-install"><i class="icon-circle-arrow-down"></i></a></li>
+								<li><a href="http://blog.alexmaccaw.com/sublime-text" target="_blank">Setting Up</a></li>
+								<li><a href="http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/?search_index=6" target="_blank">Essential Plugins</a></li>
+								<li><a href="http://docs.emmet.io" target="_blank">Emmet Documentation</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="pure-u-1-2">
+						<div class="l-box">
+							<p><img src="http://c758482.r82.cf2.rackcdn.com/sublime_text_icon_2181.png" alt="Sublime Text 2"></p>
+						</div>
+					</div>
+				</div>
+
+				<div id="package-control-install">
+					<h3 class="content-subhead">Installing the Package Manager</h3>
+					<p>The <a href="http://wbond.net/sublime_packages/package_control" target="_blank">Package Manager</a> is a tool for discovering, installing, updating and removing packages for Sublime Text 2.</p>
+					<p>To install the Package Manager, open Sublime Text 2 and access the console using the keyboard shortcut <code>ctrl+`</code>. In the console, copy/paste the following command:</p>
+					<pre><code>import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')</code></pre>
+				</div>
+
+				<hr class="soften">
+
 				<h2 class="content-subhead">FTP Setup</h2>
 				<p><img src="http://fetchsoftworks.com/i/blog/fetch-logo-128.png" alt="fetch" title="fetch"></p>
 

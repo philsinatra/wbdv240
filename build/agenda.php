@@ -709,7 +709,7 @@
 						<li>Validating and Debugging</li>
 						<li>Web Inspector</li>
 						<li>Console</li>
-						<li>WC3 Validation Services <a href="http://validator.w3.org/" target="_blank">HTML</a> / <a href="http://jigsaw.w3.org/css-validator/" target="_blank">CSS</a></li>
+						<li>WC3 Validation Services <a href="http://validator.w3.org/" target="_blank">HTML</a> / <a href="http://csslint.net" target="_blank">CSS</a></li>
 					</ul>
 
 					<aside><p>Week 8 Assignments</p></aside>

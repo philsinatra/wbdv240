@@ -597,8 +597,9 @@
 						<li>All IDM/WBDV majors and minors should take this course next quarter. <a href="http://tinyurl.com/cju7tge" target="_blank">Special Topics:Typography For Web Dev</a></li>
 					</ul>
 					<blockquote class="content-quote">Students will gain an understanding of typographic principles, as well as the HTML and CSS skills needed to implement them on the web, including how to; choose and embed fonts, apply typographic rules for the organization and display of information, create a vertical grid, and apply a typographic system across multiple web pages. Students will create rich, sophisticated Web sites with beautiful and elegant Web typography. This course will be in lieu of our Interactive Digital Media requirement of VSCM-247: On Screen Typography. Credits: 3.00 Tuesdays 6:30-9:20 pm</blockquote>
-					<p>Site of the Week</p>
+					<p>Sites of the Week</p>
 					<ul>
+						<li><a href="http://alistapart.com/article/css-positioning-101" target="_blank">CSS Positioning 101</a></li>
 						<li><a href="http://www.sitepoint.com/style-web-forms-css/" target="_blank">Style Web Forms Using CSS</a></li>
 					</ul>
 					<p>Today</p>

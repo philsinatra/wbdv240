@@ -603,7 +603,7 @@
 						<li><a href="http://www.sitepoint.com/style-web-forms-css/" target="_blank">Style Web Forms Using CSS</a></li>
 					</ul>
 					<p>Today</p>
-					<p><a href="weekly_excersies/w06/wbdv240-local-w06.zip" download="wbdv240-week6">Download</a> exercise files.</p>
+					<p><a href="weekly_exercises/w06/wbdv240-local-w06.zip" download="wbdv240-week6">Download</a> exercise files.</p>
 					<ul>
 						<li>CSS
 						<ul>
@@ -659,8 +659,8 @@
 						<li><a href="http://www.fancyapps.com/fancybox/" target="_blank">Fancy Box</a> Slide Shows</li>
 					</ul>
 					<p>Today</p>
-						<p><a href="weekly_excersies/w07/jquery_showhide.zip" download="wbdv240-week7-toggle">Download</a> Hide/Show navigation sample file.</p>
-					<p><a href="weekly_excersies/w07/wbdv240-local-w07.zip" download="wbdv240-week7">Download</a> Slide Show exercise files.</p>
+						<p><a href="weekly_exercises/w07/jquery_showhide.zip" download="wbdv240-week7-toggle">Download</a> Hide/Show navigation sample file.</p>
+					<p><a href="weekly_exercises/w07/wbdv240-local-w07.zip" download="wbdv240-week7">Download</a> Slide Show exercise files.</p>
 
 					<ul>
 						<li><a href="http://www.w3schools.com/js/default.asp" target="_blank">jQuery introduction</a></li>

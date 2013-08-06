@@ -182,7 +182,7 @@
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk02s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk01s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Attach your site map zip file.</li>
@@ -654,19 +654,22 @@
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 7</a></h2>
 				<section id="week7" class="agenda-week">
-					<p>Site of the Week</p>
+					<p>Sites of the Week</p>
 					<ul>
+						<li><a href="http://responsiveslides.com/" target="_blank">Responsive Slides</a></li>
 						<li><a href="http://www.fancyapps.com/fancybox/" target="_blank">Fancy Box</a> Slide Shows</li>
 					</ul>
 					<p>Today</p>
 						<p><a href="weekly_exercises/w07/jquery_showhide.zip" download="wbdv240-week7-toggle">Download</a> Hide/Show navigation sample file.</p>
-					<p><a href="weekly_exercises/w07/wbdv240-local-w07.zip" download="wbdv240-week7">Download</a> Slide Show exercise files.</p>
+						<p><a href="weekly_exercises/w07/wbdv240-local-w07.zip" download="wbdv240-week7">Download</a> exercise files.</p>
 
 					<ul>
-						<li><a href="http://www.w3schools.com/js/default.asp" target="_blank">jQuery introduction</a></li>
+						<li>Video/Audio/Flash</li>
+						<li><a href="http://www.w3schools.com/js/default.asp" target="_blank">Javascript introduction</a> and the <a href="http://www.codecademy.com/" target="_blank">Code Academy</a></li>
 						<li>Hide/Show navigation example</li>
 						<li>Build image slide show</li>
-						<li>Build vimeo video slide show</li>
+						<li>Build image lightbox slideshow</li>
+						<li>Build vimeo lightbox video player</li>
 					</ul>
 
 					<aside><p>Week 7 Assignments</p></aside>

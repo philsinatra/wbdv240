@@ -709,11 +709,18 @@
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 8</a></h2>
 				<section id="week8" class="agenda-week">
 					<p>Today</p>
+					<p><a href="weekly_exercises/w08/wbdv240-local-w08.zip" download="wbdv240-week6">Download</a> exercise files.</p>
 					<ul>
 						<li>Validating and Debugging</li>
-						<li>Web Inspector</li>
-						<li>Console</li>
 						<li>WC3 Validation Services <a href="http://validator.w3.org/" target="_blank">HTML</a> / <a href="http://csslint.net" target="_blank">CSS</a></li>
+						<li><a href="https://developers.google.com/chrome-developer-tools/" target="_blank">Chrome Dev Tools</a>
+							<ul>
+								<li>Web Inspector</li>
+								<li>Console</li>
+								<li>Debugging</li>
+								<li>Performance</li>
+							</ul>
+						</li>
 					</ul>
 
 					<aside><p>Week 8 Assignments</p></aside>

@@ -289,12 +289,19 @@
 				</ol>
 				<p>You can also drag/drop files to and from Fetch, like you would move files in your Finder.</p>
 
+				<hr class="soften">
+
+				<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png" height="200" width="200" alt="FileZilla"></p>
+				<h3>FileZilla</h3>
+				<div align="center">
+					<iframe width="80%" height="480" src="//www.youtube.com/embed/O3DudpEMPiY" frameborder="0" allowfullscreen></iframe>
+				</div>
+
+				<hr class="soften">
+
 				<p><img src="http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/dreamweaver/images/dreamweaver-cs6-logo-138x138.jpg.adimg.mw.138.png" alt="dreamweaver" title="dreamweaver"></p>
 				<h3>Dreamweaver</h3>
 				<p>Map your site in Dreamweaver</p>
-
-
-
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
@@ -361,10 +368,6 @@
 						</div>
 					</div>
 				</div>
-
-
-
-
 			</div>
 			<!-- / .content -->
 

@@ -709,7 +709,7 @@
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 8</a></h2>
 				<section id="week8" class="agenda-week">
 					<p>Today</p>
-					<p><a href="weekly_exercises/w08/wbdv240-local-w08.zip" download="wbdv240-week6">Download</a> exercise files.</p>
+					<p><a href="weekly_exercises/w08/wbdv240-local-w08.zip" download="wbdv240-week8">Download</a> exercise files.</p>
 					<ul>
 						<li>Validating and Debugging</li>
 						<li>WC3 Validation Services <a href="http://validator.w3.org/" target="_blank">HTML</a> / <a href="http://csslint.net" target="_blank">CSS</a></li>

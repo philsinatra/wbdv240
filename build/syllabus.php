@@ -31,11 +31,32 @@
 				<p>This course explores the principles and techniques for created modern web sites using HTML, CSS and javascript.</p>
 
 				<h2 class="content-subhead">Instructors</h2>
-				<ul>
-					<li>Jervis Thompson: <a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></li>
-					<li>Troy Finamore: <a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></li>
-					<li>Phil Sinatra: <a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></li>
-				</ul>
+				<table class="pure-table pure-table-bordered pure-table-striped">
+				    <thead>
+				        <tr>
+				            <th>Name</th>
+				            <th>Email</th>
+				            <!-- <th>Calendar</th> -->
+				        </tr>
+				    </thead>
+				    <tbody>
+				    	<tr>
+				    		<td>Phil Sinatra</td>
+				    		<td><a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></td>
+				    		<!-- <td></td> -->
+				    	</tr>
+				    	<tr>
+				    		<td>Jervis Thompson</td>
+				    		<td><a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></td>
+				    		<!-- <td><a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a></td> -->
+				    	</tr>
+				    	<tr>
+				    		<td>Troy Finamore</td>
+				    		<td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
+				    		<!-- <td></td> -->
+				    	</tr>
+				    </tbody>
+				  </table>
 
 				<h2 class="content-subhead">Requirements</h2>
 				<ul>

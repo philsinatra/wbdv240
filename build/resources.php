@@ -73,6 +73,8 @@
 								<dd>HTML5 is The New HTML Standard</dd>
 								<dt><a href="http://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a></dt>
 								<dd>This validator checks the markup validity of Web documents.</dd>
+								<dd><a href="https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif" target="_blank">Chrome Extension: Validity</a></dd>
+								<dt>Validity can be used to quickly validate your HTML documents from the address bar.</dt>
 								<dt><a target="_blank" href="http://diveintohtml5.info">Dive Into HTML5</a></dt>
 								<dd>Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards</dd>
 								<dt><a target="_blank" href="http://html5doctor.com">HTML5 Doctor</a></dt>

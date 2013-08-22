@@ -209,7 +209,6 @@
 					<li>64% or below = F</li>
 				</ul>
 
-
 				<h2 class="content-subhead">Honors</h2>
 				<p>An honors option is available to students in the Honors Program. If interested, please ask me about it.</p>
 
@@ -224,11 +223,8 @@
 					<li>Ask for Help</li>
 				</ul>
 
-
-
 				<h2 class="content-subhead">Academic Honesty Policy</h2>
-				<p>Drexel University is committed to a learning environment that embraces <a href="http://www.drexel.edu/provost/policies/academic_dishonesty.asp" target="_blank">academic honesty</a>. Faculty, students, and administrators share responsibility for maintaining this environment of academic honesty and integrity, accepting individual responsibility for all actions, personal and academic. Each member of our community is expected to read, understand, and uphold the values identified and described in our "Academic Polices, Procedures and Regulations" as written in the <a href="http://webcampus.drexelmed.edu/handbook/" target="_blank">official student handbook</a>. Instances of academic dishonesty, such as cheating and plagiarism, will be dealt with appropriately.</p>
-
+				<p>Drexel University is committed to a learning environment that embraces <a href="http://www.drexel.edu/provost/policies/academic_dishonesty.asp" target="_blank">academic honesty</a>. Faculty, students, and administrators share responsibility for maintaining this environment of academic honesty and integrity, accepting individual responsibility for all actions, personal and academic. Each member of our community is expected to read, understand, and uphold the values identified and described in our "Academic Polices, Procedures and Regulations" as written in the <a href="http://drexel.edu/studentaffairs/community_standards/studentHandbook/" target="_blank">official student handbook</a>. Instances of academic dishonesty, such as cheating and plagiarism, will be dealt with appropriately.</p>
 
 				<h2 class="content-subhead">American's With Disabilities </h2>
 				<p>In compliance with <a href="http://www.dol.gov/oasam/regs/statutes/sec504.htm#.UMYMHqXL0fI" target="_blank">Section 504 of the Rehabilitation Act of 1973</a>, the <a href="http://www.ada.gov/pubs/ada.htm" target="_blank">Americans with Disabilities Act of 1990</a>, and applicable federal and state laws, Drexel University ensures people with disabilities will have an equal opportunity to participate in its programs and activities. Members and guests of the Drexel community who have a disability need to register with the <a href="http://www.drexel.edu/oed/disabilityResources/" target="_blank">Office of Disability Services (ODS)</a>, if requesting auxiliary aids, accommodations, and services to participate in Drexel University’s programs. All requests for reasonable and appropriate auxiliary aids, academic adjustments, and services will be considered on a case-by-case basis and in a timely fashion.</p>
@@ -241,7 +237,6 @@
 				Fax: 215.895.1402<br />
 				E-mail: <a href="mailto:disability@drexel.edu">disability@drexel.edu</a>
 				</address>
-
 
 				<h2 class="content-subhead">Acknowledging Conditions and Obligations in Syllabus</h2>
 				<p>The student acknowledges receipt of this syllabus and the information herein contained by continuing to attend classes and turn in assignments.</p>

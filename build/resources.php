@@ -204,6 +204,13 @@ var harmony? = eval(designers + engineers);</pre>
 					</div>
 				</div>
 
+				<hr class="soften">
+
+				<h2 class="content-subhead">What Beautiful HTML Looks Like</h2>
+				<div class="pure-g-r instructor-contact">
+					<a href="images/Beautiful-HTML.png" target="_blank"><img src="images/Beautiful-HTML.png" alt="Beautiful HTML"></a>
+				</div>
+
 			</div>
 			<!-- / .content -->
 

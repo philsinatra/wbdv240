@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
 <html lang="en">
 <head>
 	<link rel="stylesheet" href="../css/screen.css">
@@ -32,6 +32,7 @@
 					<img alt="class photo" src="images/wbdv240-1304-s001.jpg">
 				</figure>
 
+				<!--
 				<h2 class="content-subhead"><a class="btn-student" data-toggle="student2">Bush, David</a></h2>
 				<section id="student2" class="student-info">
 					<table class="pure-table pure-table-bordered pure-table-striped">
@@ -107,6 +108,7 @@
 					    </tbody>
 					</table>
 				</section>
+				-->
 
 				<h2 class="content-subhead"><a class="btn-student" data-toggle="student3">Caswell, Thomas E</a></h2>
 				<section id="student3" class="student-info">
@@ -177,7 +179,17 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://www.tcaswell.com/public_html/index.html" target="_blank">Final</a>
+					            <?php
+					            /*
+											wrong email subject
+											resume provided as pdf, not coded in HTML
+											design changes do not match what was discussed in class
+											HTML validation errors (5)
+											video has no descriptive content
+											21/30
+											*/
+					            ?>
 					            <td></td>
 					        </tr>
 					    </tbody>
@@ -253,8 +265,8 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
-					            <td></td>
+					            <td><a href="http://austinlocicero.com/wbdv240/index.html" target="_blank">Final</a></td>
+					            <td><a href="http://austinlocicero.com/wbdv240/zen_garden/index.html" target="_blank">Zen Garden</a></td>
 					        </tr>
 					    </tbody>
 					</table>
@@ -329,7 +341,17 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://hollandmessina.com/index.htm" target="_blank">Final</a>
+					            <?php
+					            /*
+					            nav buttons do not fit properly
+					            resume is hard to read
+					            some content overlap in resume
+					            invalid CSS properties (20)
+					            custom font missing
+					            */
+					            ?>
+					            </td>
 					            <td></td>
 					        </tr>
 					    </tbody>
@@ -405,7 +427,19 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://neddieobi.com/index.html" target="_blank">Final</a>
+											<?php
+											/*
+											broken links in navigation
+											HTML validation errors (3) (7) (6) (7) (2) = 25+
+											repeated IDs
+											code formatting not pretty
+											invalid CSS properties
+											multiple CSS sheets, one for each page
+											capital letters in file names
+											*/
+											?>
+					            </td>
 					            <td></td>
 					        </tr>
 					    </tbody>
@@ -481,13 +515,23 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://nearlyhaven.com/index.html" target="_blank">Final</a>
+					            	<?php
+					            	/*
+					            	code not pretty
+					            	about me page is unpolished regarding layout
+					            	download resume button does not match midterm
+					            	download resume button suspiciously uses javascript we did not cover
+					            	*/
+					            	?>
+					            </td>
 					            <td></td>
 					        </tr>
 					    </tbody>
 					</table>
 				</section>
 
+				<!--
 				<h2 class="content-subhead"><a class="btn-student" data-toggle="student10">Overholt, Jacob P</a></h2>
 				<section id="student10" class="student-info">
 					<table class="pure-table pure-table-bordered pure-table-striped">
@@ -563,6 +607,7 @@
 					    </tbody>
 					</table>
 				</section>
+			-->
 
 				<h2 class="content-subhead"><a class="btn-student" data-toggle="student11">Stayman, Molly Lauren</a></h2>
 				<section id="student11" class="student-info">
@@ -597,7 +642,7 @@
 					        <tr>
 					            <td>WK04-07/17</td>
 					            <td></td>
-					            <tdHWK03 >-8 [subject]</td>
+					            <td>HWK03 -8 [subject]</td>
 					            <td></td>
 					        </tr>
 					        <tr>
@@ -633,7 +678,16 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://mstayman.com/" target="_blank">Final</a>
+					            	<?php
+					            	/*
+					            	HTML validation errors
+					            	broken image in slideshow
+					            	videos page is empty
+					            	inconsistent navigation - links to photos.html still exist
+					            	*/
+					            	?>
+					            </td>
 					            <td></td>
 					        </tr>
 					    </tbody>
@@ -709,7 +763,13 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://cora-bella.com/WBDV240/public_html/home.html" target="_blank">Final</a>
+					            	<?php
+					            	/*
+					            	<br> tags used for spacing
+					            	*/
+					            	?>
+					            </td>
 					            <td></td>
 					        </tr>
 					    </tbody>
@@ -785,7 +845,14 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
+					            <td><a href="http://jessicawolff.net/html_files/index.html" target="_blank">Final</a>
+					            	<?php
+					            	/*
+					            	portfolio page layout
+					            	homepage background does not fill entire screen
+					            	*/
+					            	?>
+					            </td>
 					            <td></td>
 					        </tr>
 					    </tbody>
@@ -861,8 +928,8 @@
 					        <tr>
 					            <td>WK10-08/28</td>
 					            <td></td>
-					            <td></td>
-					            <td></td>
+					            <td><a href="http://yawensdreamworks.com/" target="_blank">Final</a></td>
+					            <td><a href="http://yawensdreamworks.com/zengarden.html" target="_blank">Zen Garden</a></td>
 					        </tr>
 					    </tbody>
 					</table>

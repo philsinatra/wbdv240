@@ -90,8 +90,6 @@
 					<h3>Static HTML portfolio website</h3>
 					<p>Due Midnight before Week 11</p>
 					<p>Description: A multipage website programmed with HTML/CSS displaying the student's online portfolio.</p>
-					<p><b>How to submit your final:</b></p>
-					<p>You should be submitting one email to your instructor using the following format for the subject of the email: <b>wbdv240-hwk11-pjs42</b>. Replace pjs42 with your email prefix. Submissions not following this format will not be accepted, NO EXCEPTIONS!</p>
 					<p>
 						<u>Grading criteria:</u>
 					</p>

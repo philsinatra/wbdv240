@@ -189,3 +189,23 @@ footer {
 		}
 	}
 }
+
+.assignment {
+	font-size: 14px;
+
+	b {
+		color: black;
+		font-weight: bold;
+	}
+
+	.assignment-title {
+
+	}
+
+	.assignment-info {
+		border: 1px solid lightgray;
+		border-top: none;
+		margin-bottom: 1em;
+		padding: 0 1em;
+	}
+}

@@ -32,31 +32,37 @@
 
 				<h2 class="content-subhead">Instructors</h2>
 				<table class="pure-table pure-table-bordered pure-table-striped">
-				    <thead>
-				        <tr>
-				            <th>Name</th>
-				            <th>Email</th>
-				            <!-- <th>Calendar</th> -->
-				        </tr>
-				    </thead>
-				    <tbody>
-				    	<tr>
-				    		<td>Phil Sinatra</td>
-				    		<td><a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></td>
-				    		<!-- <td></td> -->
-				    	</tr>
-				    	<tr>
-				    		<td>Jervis Thompson</td>
-				    		<td><a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></td>
-				    		<!-- <td><a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a></td> -->
-				    	</tr>
-				    	<tr>
-				    		<td>Troy Finamore</td>
-				    		<td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
-				    		<!-- <td></td> -->
-				    	</tr>
-				    </tbody>
-				  </table>
+			    <thead>
+			        <tr>
+			            <th>Name</th>
+			            <th>Email</th>
+			            <th>Calendar</th>
+			        </tr>
+			    </thead>
+			    <tbody>
+			    	<tr>
+			    		<td>Phil Sinatra</td>
+			    		<td><a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></td>
+			    		<td><a href="https://www.google.com/calendar/embed?src=fj02v2f4vn246mqj13022hntgs%40group.calendar.google.com&ctz=America/New_York" target="_blank">Google</a></td>
+			    	</tr>
+			    	<tr>
+			    		<td>Jervis Thompson</td>
+			    		<td><a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></td>
+			    		<td><a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a></td>
+			    	</tr>
+			    	<tr>
+			    		<td>Troy Finamore</td>
+			    		<td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
+			    		<td></td>
+			    	</tr>
+			    </tbody>
+			  </table>
+
+				<h2 class="content-subhead">Helpful Links</h2>
+				<ul>
+					<li><a href="http://drexel.edu/provost/calendars/" target="_blank">Academic Calendar</a></li>
+					<li><a href="https://duapp2.drexel.edu/webtms_du/app" target="_blank">Term Master Schedule</a></li>
+				</ul>
 
 				<h2 class="content-subhead">Requirements</h2>
 				<ul>

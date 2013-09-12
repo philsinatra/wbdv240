@@ -53,22 +53,77 @@
 						</li>
 					</ul>
 					<aside><p>Week 1 Assignments</p></aside>
-					<p>
-						<b>Purchase/Setup Domain/Hosting</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						A requirement for this class is to have your own domain and hosting plan. Prior to week 2, you must have your domain and hosting established. Bring ALL hosting information (usually a few emails) to class so we can review accessing and uploading to your server.
-					</p>
-					<p>
-						Review Domain Names &amp; Hosting (textbook pages 487-488) prior to purchasing your domain and hosting plans. Suggested providers include (see who has a better deal, who is offering a discount for students, shop around):
-					</p>
-					<ul>
-						<li><a href="http://bluehost.com/cgi/info/up/students" target="_blank">Bluehost</a></li>
-						<li><a href="http://dreamhost.com/" target="_blank">Dreamhost</a></li>
-					</ul>
-
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Purchase/Setup Domain/Hosting</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									A requirement for this class is to have your own domain and hosting plan. Prior to week 2, you must have your domain and hosting established. Bring ALL hosting information (usually a few emails) to class so we can review accessing and uploading to your server.
+								</p>
+								<p>
+									Review Domain Names &amp; Hosting (textbook pages 487-488) prior to purchasing your domain and hosting plans. Suggested providers include (see who has a better deal, who is offering a discount for students, shop around):
+								</p>
+								<ul>
+									<li><a href="http://bluehost.com/cgi/info/up/students" target="_blank">Bluehost</a></li>
+									<li><a href="http://dreamhost.com/" target="_blank">Dreamhost</a></li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<div class="assignment-title"><b>Your Biography</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>Content developement is the key to success in web developement. The number one reason students struggle with this class is because they do not have a clear definition of the content that will be included in the project.</p>
+								<p>Using Microsoft Word, write your biography.<br>Minimum requirements:</p>
+								<dl>
+									<dt>Forward</dt>
+									<dd>
+										<ul>
+											<li>Two paragraphs that would serve as the <a href="http://en.wikipedia.org/wiki/Foreword" target="_blank">forward</a> to your personal biography</li>
+											<li>Two pictures that would be included in your <a href="http://en.wikipedia.org/wiki/Foreword" target="_blank">forward</a></li>
+										</ul>
+									</dd>
+									<dt>About Me</dt>
+									<dd>
+										<ul>
+											<li>Three paragraphs about yourself</li>
+											<li>Three pictures related to yourself</li>
+										</ul>
+									</dd>
+									<dt>Resume</dt>
+									<dd>A copy of your professional resume</dd>
+									<dt>Portfolio</dt>
+									<dd>
+										<ul>
+											<li>Five paragraphs about your work in whatever your professional career or studies are related to</li>
+											<li>Five pictures or graphics of your work</li>
+											<li>Three videos showing your work</li>
+										</ul>
+									</dd>
+									<dt>Contact Information</dt>
+									<dd>
+										Provide a list of at least three ways of getting in touch with you, for example:
+										<ul>
+											<li>Email Address</li>
+											<li>Phone Number</li>
+											<li>Facebook</li>
+											<li>Twitter</li>
+											<li>Google+</li>
+										</ul>
+									</dd>
+								</dl>
+							</div>
+						</li>
+					</ol>
 					<hr class="soften">
-
+					<h3>
+						How to turn in homework
+					</h3>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwkbios###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
+					<ul>
+						<li>A link to your registered domain (example: yourname.com)</li>
+						<li>Attach your biography word document, filename: wbdv240_bio_jwt23 (replace jwt23 with your Drexel email account prefix)</li>
+					</ul>
+					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 1: Structure</li>
@@ -77,7 +132,7 @@
 						<li>Read Chapter 18: Process and Design</li>
 						<li>Read: Domain Names and Hosting - pages 487-488</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 2</a></h2>
@@ -129,65 +184,65 @@
 						</li>
 					</ul>
 					<aside><p>Week 2 Assignments</p></aside>
-					<p>
-						<b>Build First Pages</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Create a minimum of four html pages to be part of your final project (an online portfolio). Using ONLY HTML tags, populate as much content as possible on all of the pages.
-					</p>
-					<p>
-						Suggested pages:
-					</p>
-					<ul>
-						<li>index (home page)</li>
-						<li>about</li>
-						<li>portfolio</li>
-						<li>resume</li>
-					</ul>
-					<p>
-						Example: content on your 'about' page could include -Your current program of study at Drexel, why you chose your field of study, how far along you are in the program. What makes you unique? What do you like to do? What are your hobbies? A brief explanation of your past experience with web design (before this class), including HTML, XHTML, CSS, graphics, etc. (There is no need to impress me, just be honest.) If you have used any other web technologies or web development packages, include that also.
-					</p>
-					<p>
-						Make sure you are using your html tags properly and that they are properly nested. Do not worry about visual design, focus on adding content and HTML syntax/nesting.
-					</p>
-					<h2>Extra Credit</h2>
-					<p>There is an extra credit opportunity available with this assignment. For two additional points, create a simple set of links on all of your html pages that allows the user to navigate from one page to another. All of your pages have to have links to all of your other pages.</p>
-
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Build First Pages</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Create a minimum of four html pages to be part of your final project (an online portfolio). Using ONLY HTML tags, populate as much content as possible on all of the pages.
+								</p>
+								<p>
+									Suggested pages:
+								</p>
+								<ul>
+									<li>index (home page)</li>
+									<li>about</li>
+									<li>portfolio</li>
+									<li>resume</li>
+								</ul>
+								<p>
+									Example: content on your 'about' page could include -Your current program of study at Drexel, why you chose your field of study, how far along you are in the program. What makes you unique? What do you like to do? What are your hobbies? A brief explanation of your past experience with web design (before this class), including HTML, XHTML, CSS, graphics, etc. (There is no need to impress me, just be honest.) If you have used any other web technologies or web development packages, include that also.
+								</p>
+								<p>
+									Make sure you are using your html tags properly and that they are properly nested. Do not worry about visual design, focus on adding content and HTML syntax/nesting.
+								</p>
+								<h2>Extra Credit</h2>
+								<p>There is an extra credit opportunity available with this assignment. For two additional points, create a simple set of links on all of your html pages that allows the user to navigate from one page to another. All of your pages have to have links to all of your other pages.</p>
+							</div>
+						</li>
+						<li>
+							<div class="assignment-title"><b>Site Map</b>: Due: Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Create the first draft of your Site Map (textbook page 461). To build a Site Map, you need to know what is going to appear on your site, so spend time brainstorming. If you were going on a job interview and your instructor was your potential employeer, what would you want to show them in your portfolio? Consider building a brainstorm chart, showing what makes you different. Ask yourself the 5 Whys, <a href="http://en.wikipedia.org/wiki/5_Whys" target="_blank">http://en.wikipedia.org/wiki/5_Whys</a>.
+								</p>
+								<p>
+									Once you have your brainstorming chart, build your Site Map. You can use paper and a pencil, or any software (Photoshop, Illustrator etc). If you draw on paper, scan your image so you can submit it online.
+								</p>
+								<p>
+									Site Map image should be:
+								</p>
+								<ul>
+									<li>150dpi</li>
+									<li>8.5 x 11</li>
+									<li>greyscale</li>
+									<li>.jpg file format</li>
+								</ul>
+								<p>
+									File name for your site map image should be in this format: <b>wbdv240s###_jwt123_sitemap.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]
+								</p>
+							</div>
+						</li>
+					</ol>
 					<hr class="soften">
-
-					<p>
-						<b>Site Map</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Create the first draft of your Site Map (textbook page 461). To build a Site Map, you need to know what is going to appear on your site, so spend time brainstorming. If you were going on a job interview and your instructor was your potential employeer, what would you want to show them in your portfolio? Consider building a brainstorm chart, showing what makes you different. Ask yourself the 5 Whys, <a href="http://en.wikipedia.org/wiki/5_Whys" target="_blank">http://en.wikipedia.org/wiki/5_Whys</a>.
-					</p>
-					<p>
-						Once you have your brainstorming chart, build your Site Map. You can use paper and a pencil, or any software (Photoshop, Illustrator etc). If you draw on paper, scan your image so you can submit it online.
-					</p>
-					<p>
-						Site Map image should be:
-					</p>
-					<ul>
-						<li>150dpi</li>
-						<li>8.5 x 11</li>
-						<li>greyscale</li>
-						<li>.jpg file format</li>
-					</ul>
-					<p>
-						File name for your site map image should be in this format: <b>wbdv240s###_jwt123_sitemap.jpg</b> [replace ### with your class section number, replace jwt23 with your drexel email account prefix]
-					</p>
-
-					<hr class="soften">
-
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk01s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk01s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Attach your site map zip file.</li>
 					</ul>
-
 					<dl>
 						<dt>
 							Valid URL direct link to each web page
@@ -202,9 +257,7 @@
 							Put all files related to your site map in a folder and zip that folder. Attach the zip file to the email you submit with your page links.
 						</dd>
 					</dl>
-
 					<hr class="soften">
-
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 4: Links</li>
@@ -212,9 +265,8 @@
 						<li>Read Chapter 6: Tables</li>
 						<li>Read Chapter 7: Forms</li>
 					</ul>
-
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
-</section>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 3</a></h2>
 				<section id="week3" class="agenda-week">
@@ -297,59 +349,61 @@
 					</ul>
 
 					<aside><p>Week 3 Assignments</p></aside>
-					<p>
-						<b>Build Wireframes</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Revisit your site map and make any additions/edits that are needed.
-					</p>
-					<p>
-						Build your first version of your Wireframes (text book page 463).
-					</p>
-					<p>
-						You should have a unique wireframe design for each of your web pages, even if the intended layout is similar or the same. Remember wireframes are simple sketches of how information will be laid out. What is the hierarchy?
-					</p>
-					<p>
-						You can use paper and a pencil, or any software (Photoshop, Illustrator etc). If you draw on paper, scan your image so you can submit it online.
-					</p>
-					<ul>
-						<li><a href="weekly_exercises/w03/local_html/images/wireframes.png" target="_blank">Good Example</a></li>
-						<li><a href="weekly_exercises/w03/local_html/images/wireframes-bad.jpg" target="_blank">Bad Example</a></li>
-					</ul>
-					<p>
-						Final images should be:
-					</p>
-					<ul>
-						<li>150dpi</li>
-						<li>8.5 x 11</li>
-						<li>greyscale</li>
-						<li>.jpg file format</li>
-					</ul>
-					<p>
-						Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
-					</p>
-					<p>
-						File names for your wireframe images should be in this format: <b>wbdv240s###_jwt123_wireframe_01.jpg</b> [replace ### with your class section number, replace jwt23 with your drexel email account prefix. Update file number 01 as needed]
-					</p>
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Build Wireframes</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Revisit your site map and make any additions/edits that are needed.
+								</p>
+								<p>
+									Build your first version of your Wireframes (text book page 463).
+								</p>
+								<p>
+									You should have a unique wireframe design for each of your web pages, even if the intended layout is similar or the same. Remember wireframes are simple sketches of how information will be laid out. What is the hierarchy?
+								</p>
+								<p>
+									You can use paper and a pencil, or any software (Photoshop, Illustrator etc). If you draw on paper, scan your image so you can submit it online.
+								</p>
+								<ul>
+									<li><a href="weekly_exercises/w03/local_html/images/wireframes.png" target="_blank">Good Example</a></li>
+									<li><a href="weekly_exercises/w03/local_html/images/wireframes-bad.jpg" target="_blank">Bad Example</a></li>
+								</ul>
+								<p>
+									Final images should be:
+								</p>
+								<ul>
+									<li>150dpi</li>
+									<li>8.5 x 11</li>
+									<li>greyscale</li>
+									<li>.jpg file format</li>
+								</ul>
+								<p>
+									Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
+								</p>
+								<p>
+									File names for your wireframe images should be in this format: <b>wbdv240s###_jwt123_wireframe_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
+								</p>
+							</div>
+						</li>
+					</ol>
+					<hr class="soften">
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Attach your wireframe zip file.</li>
 					</ul>
-
 					<hr class="soften">
-
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 8: Extra Markup</li>
 						<li>Read Chapter 10: Introducing CSS</li>
 						<li>Read Chapter 11: Color</li>
 					</ul>
-
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -411,62 +465,57 @@
 						</li>
 					</ul>
 
-
 					<aside><p>Week 4 Assignments</p></aside>
-					<p>
-						<b>Style Tiles</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Read the entire article at <a href="//styletil.es/" target="_blank">style tiles</a> and then develop <strong>three unique</strong> style tiles with a variety of design ideas for your final project. Style tiles consist of fonts, colors, and interface elements, they are not meant to be a full comp of your website. <strong>DO NOT</strong> simply copy the examples on the web, these need to be well thought out deliverables.
-					</p>
-					<p>
-						Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
-					</p>
-					<p>
-						File names for your wireframe images should be in this filename format: <b>wbdv240s###_jwt123_styletiles_01.jpg</b> [replace ### with your class section number, replace jwt23 with your drexel email account prefix. Update file number 01 as needed]
-					</p>
-
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Style Tiles</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Read the entire article at <a href="//styletil.es/" target="_blank">style tiles</a> and then develop <strong>three unique</strong> style tiles with a variety of design ideas for your final project. Style tiles consist of fonts, colors, and interface elements, they are not meant to be a full comp of your website. <strong>DO NOT</strong> simply copy the examples on the web, these need to be well thought out deliverables.
+								</p>
+								<p>
+									Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
+								</p>
+								<p>
+									File names for your wireframe images should be in this filename format: <b>wbdv240s###_jwt123_styletiles_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
+								</p>
+							</div>
+						</li>
+						<li>
+							<div class="assignment-title"><b>Structure HTML Contents</b>: Due: Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Using the box elements discussed in class, organize your content into appropriate divisions.
+								</p>
+								<ul>
+									<li><a href="http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box-borderless.html" target="_blank">http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box-borderless.html</a></li>
+									<li><a href="http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box.html" target="_blank">http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box.html</a></li>
+								</ul>
+								<p>
+									Attach a master stylesheet to all of your web pages.
+								</p>
+								<p>
+									Apply color and other css styles to tags and elements in all your pages using CSS techniques covered in your reading assignment and in class.
+								</p>
+							</div>
+						</li>
+						<li>
+							<div class="assignment-title"><b>Embed Videos</b>: Due: Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>Embed all of your Vimeo videos in appropriate pages. Make sure that video controllers match your color scheme and resize proportionally to page wide.</p>
+							</div>
+						</li>
+					</ol>
 					<hr class="soften">
-
-					<p>
-						<b>Structure HTML Contents</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Using the box elements discussed in class, organize your content into appropriate divisions.
-					</p>
-					<ul>
-						<li><a href="http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box-borderless.html" target="_blank">http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box-borderless.html</a></li>
-						<li><a href="http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box.html" target="_blank">http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box.html</a></li>
-					</ul>
-					<p>
-						Attach a master stylesheet to all of your web pages.
-					</p>
-					<p>
-						Apply color and other css styles to tags and elements in all your pages using CSS techniques covered in your reading assignment and in class.
-					</p>
-
-					<hr class="soften">
-
-					<p>
-						<b>Embed Videos</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Embed all of your Vimeo videos in appropriate pages. Make sure that video controllers match your color scheme and resize proportionally to page wide.
-					</p>
-
-					<hr class="soften">
-
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Attach your stylesheet zip file.</li>
 					</ul>
-
 					<hr class="soften">
-
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 12: Text</li>
@@ -474,11 +523,10 @@
 						<li>Read Chapter 14: Lists, Tables and Forms</li>
 					</ul>
 
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week5">Week 5</a></h2>
@@ -544,45 +592,43 @@
 					</ul>
 
 					<aside><p>Week 5 Assignments</p></aside>
-					<p>
-						<b>Full Size Comp - Midterm</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Refine your style tiles into a full size totally polished web design. This comp should look like a screen grab. This means no dummy text, actual art work, final font sizes, family and spacing well adjusted. You will need to show multiple screens (home page, portfolio page, single project page, etc).
-					</p>
-					<p>
-						Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
-					</p>
-					<p>
-						File names for your full size comp midterm images should be in this filename format: <b>wbdv240s###_jwt123_fullcomp_01.jpg</b> [replace ### with your class section number, replace jwt23 with your drexel email account prefix. Update file number 01 as needed]
-					</p>
-
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Midterm - Full Size Comp</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Refine your style tiles into a full size totally polished web design. This comp should look like a screen grab. This means no dummy text, actual art work, final font sizes, family and spacing well adjusted. You will need to show multiple screens (home page, portfolio page, single project page, etc).
+								</p>
+								<p>
+									Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
+								</p>
+								<p>
+									File names for your full size comp midterm images should be in this filename format: <b>wbdv240s###_jwt123_fullcomp_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
+								</p>
+							</div>
+						</li>
+					</ol>
+					<hr class="soften">
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240midterms###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240midterms###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Valid URL direct link to at least three web sites that inspire your web site design</li>
 						<li>Attach your full comp midterm zip file.</li>
 					</ul>
-
 					<hr class="soften">
-
-
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
-
 					<ul>
 						<li>Read Chapter 15: Layout</li>
 						<li>Read Chapter 16: Images</li>
 						<li>Read Chapter 17: HTML Layout</li>
 					</ul>
-
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week6">Week 6</a></h2>
@@ -592,11 +638,6 @@
 					</h3>
 					<p>In class critique of full comps.	</p>
 					<h3 class="written">Lecture Topics:</h3>
-					<p>Summer Quarter recommendation</p>
-					<ul>
-						<li>All IDM/WBDV majors and minors should take this course next quarter. <a href="http://tinyurl.com/cju7tge" target="_blank">Special Topics:Typography For Web Dev</a></li>
-					</ul>
-					<blockquote class="content-quote">Students will gain an understanding of typographic principles, as well as the HTML and CSS skills needed to implement them on the web, including how to; choose and embed fonts, apply typographic rules for the organization and display of information, create a vertical grid, and apply a typographic system across multiple web pages. Students will create rich, sophisticated Web sites with beautiful and elegant Web typography. This course will be in lieu of our Interactive Digital Media requirement of VSCM-247: On Screen Typography. Credits: 3.00 Tuesdays 6:30-9:20 pm</blockquote>
 					<p>Sites of the Week</p>
 					<ul>
 						<li><a href="http://alistapart.com/article/css-positioning-101" target="_blank">CSS Positioning 101</a></li>
@@ -636,20 +677,15 @@
 						<b>Comp Touch Ups</b>
 					</p>
 					<p>Cleanup and finalize you full comps based on classroom critiques. Complete detailed full comps are required to move forward in this course!</p>
-
 					<hr class="soften">
-
-
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 9: Flash, Video &amp; Audio</li>
 					</ul>
-
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 7</a></h2>
@@ -673,37 +709,37 @@
 					</ul>
 
 					<aside><p>Week 7 Assignments</p></aside>
-					<p>
-						<b>Slide Show</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Using the technique covered in class today build a slide show page for your web site. This slide show page should have at least 4 custom images OR 3 vimeo custom videos. Style the HTML5/CSS3 base page like the rest of your site.
-					</p>
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Slide Show</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Using the technique covered in class today build a slide show page for your web site. This slide show page should have at least 4 custom images OR 3 vimeo custom videos. Style the HTML5/CSS3 base page like the rest of your site.
+								</p>
+							</div>
+						</li>
+					</ol>
+					<hr class="soften">
 					<h3>
 						How to turn in homework
 					</h3>
 					<p>
-						Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk04s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]
+						Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk04s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]
 					</p>
 					<ul>
 						<li>Valid URL direct link to your slide show page.</li>
 					</ul>
-
-
 					<hr class="soften">
-
-
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 18: Process and Design (again)</li>
 						<li>Read Chapter 19: Practical Information</li>
 					</ul>
 
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 8</a></h2>
@@ -724,23 +760,27 @@
 					</ul>
 
 					<aside><p>Week 8 Assignments</p></aside>
-					<p>
-						<b>Validated web page</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Using the technique covered in class today pick one of your completed web pages and modify it so that it's HTML and CSS validates with zero errors.
-					</p>
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Validated web page</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Using the technique covered in class today pick one of your completed web pages and modify it so that it's HTML and CSS validates with zero errors.
+								</p>
+							</div>
+						</li>
+					</ol>
+					<hr class="soften">
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your drexel email account to your instructor email account, subject: "wbdv240hwk05s###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]</p>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk05s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your valid HTML/CSS page.</li>
 					</ul>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week9">Week 9</a></h2>
@@ -758,29 +798,33 @@
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10</a></h2>
 				<section id="week10" class="agenda-week">
 					<aside><p>Week 10 Assignments</p></aside>
-					<p>
-						<b>Final Project</b>: Due: Midnight the night before next class
-					</p>
-					<p>
-						Using course syllabus guidelines and topics covered in class, complete your final project web site.
-					</p>
-					<p>
-						Copy all of your final project web site files into one folder and zip it.
-					</p>
-					<p>
-						Folder name for your final project folder should be in the following format: <b>wbdv240s###_jwt123_finalproject</b> [replace ### with your class section number, replace jwt23 with your drexel email account prefix.]
-					</p>
+					<ol class="assignment">
+						<li>
+							<div class="assignment-title"><b>Final Project</b>: Due Midnight the night before next class</div>
+							<div class="assignment-info">
+								<p>
+									Using course syllabus guidelines and topics covered in class, complete your final project web site.
+								</p>
+								<p>
+									Copy all of your final project web site files into one folder and zip it.
+								</p>
+								<p>
+									Folder name for your final project folder should be in the following format: <b>wbdv240s###_jwt123_finalproject</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix.]
+								</p>
+							</div>
+						</li>
+					</ol>
+					<hr class="soften">
 					<h3>
 						How to turn in homework
 					</h3>
 					<p>
-						Submit via your drexel email account to your instructor email account, subject: "wbdv240finalprojects###jwt23" [replace ### with your class section number, replace jwt23 with your drexel email account prefix]
+						Submit via your Drexel email account to your instructor email account, subject: "wbdv240finalprojects###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]
 					</p>
 					<ul>
 						<li>Valid URL direct link to your final project web "index.html" page.</li>
@@ -789,9 +833,7 @@
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-
 				</section>
-
 			</div>
 			<!-- / .content -->
 

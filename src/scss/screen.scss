@@ -209,3 +209,26 @@ footer {
 		padding: 0 1em;
 	}
 }
+
+ul.classlist {
+	padding-left: 0;
+
+	li {
+		list-style: none;
+	}
+
+	a {
+		border: 1px solid #1f8dd6;
+		color: darken(#1f8dd6, 20%);
+		display: block;
+		list-style: none;
+		margin-bottom: .85em;
+		padding: .85em;
+		@include transition (background-color 0.3s ease-in-out);
+
+		&:hover {
+			background: #1f8dd6;
+			color: white;
+		}
+	}
+}

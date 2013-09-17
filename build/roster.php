@@ -28,22 +28,29 @@
 
 			<div class="content">
 				<p>Find your section based on the available roster listings. Listings are formatted <b>class</b>-<b>YYMM</b>-<b>section</b>. The <i>YYMM</i> information shows the year/month for the beginning of the course.</p>
-				<ul>
+				<ul class="classlist">
 
 				<?php
 				$dir = 'roster/';
+				$sections = array();
 
 				if ($handle = opendir($dir)) {
 					while (false !== ($entry = readdir($handle))) {
 						if ($entry != '.' && $entry != '..' && $entry != '.DS_Store' && $entry != '_sample.html' && $entry != 'images') {
-							echo '<li>';
-							echo '<a href="' . $dir . $entry . '" target="_blank" ';
-							echo 'onclick="return popitup(\'' . $dir . $entry . '\')"';
-							echo '>';
-							echo substr($entry, 0, -4);
-							echo '</a>';
-							echo '</li>';
+							array_push($sections, $entry);
 						}
+					}
+
+					rsort($sections);
+
+					foreach ($sections as $entry) {
+						echo '<li>';
+						echo '<a href="' . $dir . $entry . '" target="_blank" ';
+						echo 'onclick="return popitup(\'' . $dir . $entry . '\')"';
+						echo '>';
+						echo substr($entry, 0, -4);
+						echo '</a>';
+						echo '</li>';
 					}
 				}
 				?>

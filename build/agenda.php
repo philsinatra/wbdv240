@@ -41,6 +41,7 @@
 							<li>Samples of my work&hellip;</li>
 						</ul>
 						</li>
+						<li>Class Photo</li>
 						<li>Course overview
 						<ul>
 							<li>Syllabus</li>

@@ -165,7 +165,7 @@
 				<ul>
 					<li> Files/e-mails are named appropriately
 						<ul>
-							<li>Assignments requiring email submission should be sent to your instructor using the following format for the subject of the email: <b>wbdv240-hwk##-jhs123</b>. Replace ## with the term week number, and replace jhs123 with your email prefix. Submissions not following this format will not be accepted. No exceptions.</li>
+							<li>Assignments requiring email submission should be sent to your instructor according to the instructions listed per assignment. Submissions not following the correct format will not be accepted. No exceptions.</li>
 						</ul>
 					<li> Assignments meet project size/color requirements</li>
 					<li> Assignments are completed on time</li>

@@ -17,7 +17,7 @@
       </div> <!-- / .header -->
       <div class="content">
         <figure class="classphoto">
-          <img src="http://placehold.it/800x420" alt="class photo">
+          <img src="images/wbdv240-1309-s003.jpg" alt="class photo">
         </figure>
         <h2 class="content-subhead"><a class="btn-student" data-toggle="student1">Brown, Avery C.</a></h2>
         <section id="student1" class="student-info">
@@ -40,8 +40,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://averychristianbrown.com/wbdv240/index.html" target="_blank">HWK01</a></td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -115,7 +115,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>[-4 bad links] [-1 sitemap legibility] [-1 sitemap file type]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -191,7 +191,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -267,8 +267,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://www.chriscerrone.com/wbdv240/index.html" target="_blank">HWK01</a> [-1 sitemap legibility]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -343,7 +343,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://nishmachauhan.com/wbdv240/resources/home.html" target="_blank">HWK01</a> [-2 sitemap legibility] [-1 sitemap dpi]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -419,7 +419,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://studiospiffy.com/index.html" target="_blank">HWK01</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -495,8 +495,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://www.friedlander.me/wbdv240/Home%20Page.html" target="_blank">HWK01</a> [-1 sitemap legibility]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -571,8 +571,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://andrewlichtsinn.com/wbdv240/index.html" target="_blank">HWK01</a> </td>
+                      <td>+1</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -647,7 +647,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -723,7 +723,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -799,7 +799,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -875,8 +875,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://spritelychimera.com/" target="_blank">HWK01</a></td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -951,7 +951,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1027,7 +1027,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1103,8 +1103,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://wuyuying.net/wbdv240/home_page.html" target="_blank">HWK01</a> [-1 sitemap file name] [-2 sitemap legibility]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>

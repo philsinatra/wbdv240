@@ -17,7 +17,7 @@
       </div> <!-- / .header -->
       <div class="content">
         <figure class="classphoto">
-          <img src="http://placehold.it/800x420" alt="class photo">
+          <img src="images/wbdv240-1309-s005.jpg" alt="class photo">
         </figure>
         <h2 class="content-subhead"><a class="btn-student" data-toggle="student1">Alriyahi, Basil Z.</a></h2>
         <section id="student1" class="student-info">
@@ -40,7 +40,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -115,7 +115,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -191,8 +191,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://tachdesigns.com/webdev/index.html" target="_blank">HWK01</a> [-1 sitemap legibility] [-1 sitemap color] [-1 sitemap zip]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -267,7 +267,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -343,7 +343,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -419,8 +419,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://www.joecarfagno.com/index.html" target="_blank">HWK01</a> [-1 sitemap legibility]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -489,13 +489,89 @@
                   <tr>
                       <td>WK01</td>
                       <td></td>
+                      <td><a href="http://cindricportfolio.com/wbdv240/index.html" target="_blank">HWK01</a> [-1 sitemap legibility]</td>
+                      <td>+2</td>
+                  </tr>
+                  <tr>
+                      <td>WK02</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK03</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK04</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK05</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK06</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK07</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK08</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK09</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>WK10</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+              </tbody>
+          </table>
+        </section>
+
+        <h2 class="content-subhead"><a class="btn-student" data-toggle="student2">Currier, Kendall L.</a></h2>
+        <section id="student2" class="student-info">
+          <table class="pure-table pure-table-bordered pure-table-striped">
+              <thead>
+                  <tr>
+                      <th width="20%">WEEK</th>
+                      <th width="10%">ATTEND</th>
+                      <th width="60%">HWK</th>
+                      <th width="10%">EXTRA</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td>WK01</td>
+                      <td></td>
                       <td></td>
                       <td></td>
                   </tr>
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -571,8 +647,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://ericaharperdillman.com/wbdv240/index.html" target="_blank">HWK01</a> [-1 sitemap zip]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -647,7 +723,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -723,7 +799,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -799,7 +875,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jackmccafferty.com/wbdv240/index_jack_mccafferty.html" target="_blank">HWK01</a> [-4 bad links] [-1 sitemap zip]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -875,7 +951,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -951,8 +1027,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://jackprome.com/" target="_blank">HWK01</a> [-1 sitemap zip]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -1027,8 +1103,8 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://www.thealexross.com/wbdv240/home.html" target="_blank">HWK01 </a> [-1 sitemap zip]</td>
+                      <td>+2</td>
                   </tr>
                   <tr>
                       <td>WK03</td>
@@ -1103,7 +1179,7 @@
                   <tr>
                       <td>WK02</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>

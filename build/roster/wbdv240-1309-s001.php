@@ -46,7 +46,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 wireframes] [-1 URL]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -274,7 +274,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -350,7 +350,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -426,7 +426,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-7 wireframes]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -502,7 +502,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 dimensions/dpi] [-1 missing wireframes]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -578,7 +578,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 URL] [-1 zip] [-1 dpi] </td>
                       <td></td>
                   </tr>
                   <tr>
@@ -806,7 +806,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-6 [missing wireframes/content]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -958,7 +958,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-3 wireframe content]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1034,7 +1034,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 URL]</td>
                       <td></td>
                   </tr>
                   <tr>

@@ -392,7 +392,7 @@
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
+					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk02s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Attach your wireframe zip file.</li>

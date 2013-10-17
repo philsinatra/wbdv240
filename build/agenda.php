@@ -478,7 +478,7 @@
 									Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
 								</p>
 								<p>
-									File names for your wireframe images should be in this filename format: <b>wbdv240s###_jwt123_styletiles_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
+									File names for your style tile images should be in this filename format: <b>wbdv240s###_jwt123_styletiles_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
 								</p>
 							</div>
 						</li>
@@ -514,7 +514,7 @@
 					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
-						<li>Attach your stylesheet zip file.</li>
+						<li>Attach your style tiles zip file.</li>
 					</ul>
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>

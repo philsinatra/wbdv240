@@ -46,7 +46,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-2 size] [-2 legibility] [-2 file count]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -121,7 +121,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -273,7 +273,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -577,7 +577,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 URL] [-1 zip]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -653,7 +653,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 dpi]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -881,7 +881,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 URL] </td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1109,7 +1109,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 dpi]</td>
                       <td></td>
                   </tr>
                   <tr>

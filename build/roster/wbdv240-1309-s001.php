@@ -275,7 +275,7 @@
                       <td>WK03</td>
                       <td></td>
                       <td>-8</td>
-                      <td></td>
+                      <td>+4</td>
                   </tr>
                   <tr>
                       <td>WK04</td>
@@ -427,7 +427,7 @@
                       <td>WK03</td>
                       <td></td>
                       <td>[-7 wireframes]</td>
-                      <td></td>
+                      <td>+3</td>
                   </tr>
                   <tr>
                       <td>WK04</td>

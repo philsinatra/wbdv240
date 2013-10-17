@@ -46,7 +46,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -121,7 +121,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 grayscale] [-1 dpi]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -197,7 +197,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -425,7 +425,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 URL]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -805,7 +805,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1109,7 +1109,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td></td>
+                      <td>[-1 URL]</td>
                       <td></td>
                   </tr>
                   <tr>

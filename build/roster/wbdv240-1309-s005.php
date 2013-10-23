@@ -52,7 +52,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://basilalriyahi.com/wbdv240/home.html" target="_blank">HWK03</a> [-1 broken link] [-2 code syntax &amp; best practices]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -127,7 +127,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -203,7 +203,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://tachdesigns.com/webdev/index.html" target="_blank">HWK03</a> [-1 CSS syntax] [-1 repetative IDs]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -279,7 +279,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -355,7 +355,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.mjbucher.com/" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -431,7 +431,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -507,7 +507,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://cindricportfolio.com/wbdv240/index.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -583,7 +583,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.kendallcurrier.com/wbdv240/index.html" target="_blank">HWK03</a> [-4 style tiles] [-1 CSS]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -659,7 +659,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://ericaharperdillman.com/html/index.html" target="_blank">HWK03</a> [-1 HTML structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -735,7 +735,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://dougelchison.com/wbd240/" target="_blank">HWK03</a> [-1 link to homepage] [-1 caps lock, spaces in file names] [-1 navigation] [-1 bad characters] [-1 CSS broken] [-2 Unique Style Tiles] [-1 Style Tiles file names]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -811,7 +811,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://lostdragonstudio.com/index/" target="_blank">HWK03</a> [-1 link to homepage] [-1 HTML structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -887,7 +887,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jackmccafferty.com/wbdv240/index_jack_mccafferty.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -963,7 +963,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://tylerpakstis.com//wbdv240/public_html/index.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1039,7 +1039,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jackprome.com/" target="_blank">HWK03</a> [-1 HTML structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1115,7 +1115,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.thealexross.com/wbdv240/home.html" target="_blank">HWK03</a> [-1 HTML structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1191,7 +1191,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://yannirozes.com/wbdv240/public_html/index.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>

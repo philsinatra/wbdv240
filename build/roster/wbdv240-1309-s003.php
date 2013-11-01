@@ -52,7 +52,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://averychristianbrown.com/wbdv240/index.html" target="_blank">HWK03</a> [-1 master stylesheet]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -127,7 +127,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://mikecanals.com/wbdv240/" target="_blank">HWK03</a> [-1 structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -203,7 +203,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.aceproduction.net/wbdv240/public_html/home.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -279,7 +279,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://chriscerrone.com/wbdv240/index.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -355,7 +355,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://nishmachauhan.com/wbdv240/resources/home.html" target="_blank">HWK03</a> [-1 DocType] [-1 master stylesheet] [-1 structure] [-1 navigation]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -431,7 +431,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://studiospiffy.com/index.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -507,7 +507,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.friedlander.me/wbdv240/html/home_page.html" target="_blank">HWK03</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -583,7 +583,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://andrewlichtsinn.com/wbdv240/" target="_blank">HWK03</a> [-1 structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -659,7 +659,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://floatcloudc.com/WBDV240/_public_html/index.html" target="_blank">HWK03</a>[-1 DocType] [-1 structure] </td>
                       <td></td>
                   </tr>
                   <tr>
@@ -735,7 +735,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://stevenrye.com/webdev240/homepage.html" target="_blank">HWK03</a>[-1 DocType] [-1 master stylesheet] [-1 structure]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -811,7 +811,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -887,7 +887,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://spritelychimera.com/" target="_blank">HWK03</a>[-3 style tile effort]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -963,7 +963,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td>-8</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1039,7 +1039,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://shuotang.org/" target="_blank">HWK03</a> [-1 structure] [-1 navigation]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1115,7 +1115,7 @@
                   <tr>
                       <td>WK04</td>
                       <td></td>
-                      <td></td>
+                      <td>HWK03 [-4 URL] [-3 style tile effort]</td>
                       <td></td>
                   </tr>
                   <tr>

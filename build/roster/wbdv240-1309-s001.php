@@ -64,7 +64,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://zhongyinchang.com/index.html" target="_blank">Midterm</a> [-2 portfolio spacing]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -140,7 +140,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://firewerksdesign.com/index.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -216,7 +216,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://tomgariepy.com/index.html" target="_blank">Midterm</a> [-3 inconsistent spacing]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -292,7 +292,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://theextremeentertainment.com/wbdv240/public_html/midterm.html" target="_blank">Midterm</a> [-2 inconsistent spacing] [-1 image dimensions]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -368,7 +368,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-30]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -444,7 +444,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.abbilc.com/comptwo.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -520,7 +520,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://dannymiedzinski.com/wbdv240/midterm_revisions.html" target="_blank">Midterm</a> [-1 nav button spacing]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -596,7 +596,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jdstarkpan.com/wbdv240/image%20store.html" target="_blank">Midterm</a> [-15 late] [-1 space in URL]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -672,7 +672,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://annapruett1.com/pages/midterms.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -748,7 +748,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.thebrettrobinson.com/indexmock.html" target="_blank">Midterm</a> [-2 inconsistent spacing] [-1 inconsistent positioning]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -824,7 +824,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-15 incorrect/late (twice) submission] [-2 inconsistent spacing]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -900,7 +900,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://zmanstudios.com/resume.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -976,7 +976,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.leavdt.com/" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1052,7 +1052,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-5 submission]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1128,7 +1128,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://archerztudio.com/wbdv240/wbdv240s001_hz329_fullcomp.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>

@@ -64,7 +64,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://basilalriyahi.com/wbdv240/mid.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -139,7 +139,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-30]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -215,7 +215,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://tachdesigns.com/webdev/public_html/midterm.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -291,7 +291,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-30]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -367,7 +367,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://mjbucher.com/wbdv240/website/html/midterm.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -443,7 +443,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.joecarfagno.com/midterm.html" target="_blank">Midterm [-3 resume]</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -519,7 +519,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.cindricportfolio.com/wbdv240/midterm/index.jpg" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -550,7 +550,7 @@
           </table>
         </section>
 
-        <h2 class="content-subhead"><a class="btn-student" data-toggle="student2">Currier, Kendall L.</a></h2>
+<!--         <h2 class="content-subhead"><a class="btn-student" data-toggle="student2">Currier, Kendall L.</a></h2>
         <section id="student2" class="student-info">
           <table class="pure-table pure-table-bordered pure-table-striped">
               <thead>
@@ -624,7 +624,7 @@
                   </tr>
               </tbody>
           </table>
-        </section>
+        </section> -->
 
         <h2 class="content-subhead"><a class="btn-student" data-toggle="student8">Dillman, Erica H.</a></h2>
         <section id="student8" class="student-info">
@@ -671,7 +671,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://ericaharperdillman.com/html/midterm/homepage.jpg" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -747,7 +747,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-30]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -823,7 +823,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://lostdragonstudio.com/wbdv240/fullcomp.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -899,8 +899,8 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://jackmccafferty.com/wbdv240/midterm.html" target="_blank">Midterm</a> [-3 inconsistent spacing]</td>
+                      <td>+1 Contact Page Image</td>
                   </tr>
                   <tr>
                       <td>WK07</td>
@@ -975,7 +975,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://tylerpakstis.com/wbdv240/public_html/midterm.html" target="_blank">Midterm</a> [-3 resume]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1051,7 +1051,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jackprome.com/wbdv240/wbdv240s005_jpr72_fullcomp_01.html" target="_blank">Midterm</a> [-1 inconsistent spacing]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1127,7 +1127,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.thealexross.com/wbdv240/midterm.html" target="_blank">Midterm</a> [-3 inconsistent spacing] [-1 homepage]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1203,7 +1203,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://yannirozes.com/wbdv240/public_html/comps.html" target="_blank">Midterm</a> [-2 compressed text]</td>
                       <td></td>
                   </tr>
                   <tr>

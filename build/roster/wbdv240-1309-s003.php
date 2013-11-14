@@ -64,7 +64,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-30]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -139,7 +139,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://mikecanals.com/wbdv240/" target="_blank">Midterm</a> [-2 inconsistent spacing</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -215,7 +215,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.aceproduction.net/wbdv240/public_html/midterm.html" target="_blank">Midterm</a> [-2 broken images] </td>
                       <td></td>
                   </tr>
                   <tr>
@@ -291,7 +291,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://chriscerrone.com/wbdv240/midterm.html" target="_blank">Midterm</a> [-3 inconsistent spacing]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -367,7 +367,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://nishmachauhan.com/wbdv240/publichtml/midterm.html" target="_blank">Midterm</a> [-5 missing pages] [-5 late]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -443,7 +443,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://studiospiffy.com/img/wbdv240s003_mrd89_fullcomp_01.jpg" target="_blank">Midterm</a> [-4 bad links]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -519,7 +519,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.friedlander.me/wbdv240/html/photoshops.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -595,7 +595,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://andrewlichtsinn.com/wbdv240/midterm.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -671,7 +671,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://floatcloudc.com/WBDV240/_public_html/midterm-02.html" target="_blank">Midterm</a> [-1 broken image] [-2 inconsistent spacing/margins] [-1 inconsistent font]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -747,7 +747,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://stevenrye.com/webdev240/public_html/midtermimages" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -823,7 +823,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td>Midterm [-30]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -899,7 +899,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://spritelychimera.com/wbdv240/wbdv240s003_mr839_fullcomp_01.jpg" target="_blank">Midterm</a>[-1 heading consistency] [-2 inconsistent spacing] [-2 portfolio developement]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -975,7 +975,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://starksincorporated.com/wbdv240/midterm.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1051,7 +1051,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://shuotang.org/portfolio.html" target="_blank">Midterm</a> [-2 resume]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1127,7 +1127,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://wuyuying.net/wbdv240/full_comp.html" target="_blank">Midterm</a> [-30 broken images]</td>
                       <td></td>
                   </tr>
                   <tr>

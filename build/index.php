@@ -3,12 +3,13 @@
 <head>
 <?php include_once 'includes/_head.php'; ?>
 <style>
-	#canvas {
-		margin-top: 20px;
+	#div_chart {
+		width:100%;
+		height:400px;
 	}
 </style>
 </head>
-<body>
+<body onload="resize_canvas()">
 
 	<div id="layout" class="pure-g-r">
 		<a href="#menu" id="menuLink" class="pure-menu-link">
@@ -59,9 +60,9 @@
 					</div>
 				</div>
 
-				<h2>Days Left In Term Represented by Green</h2>
-				<div align="center">
-					<canvas id="canvas" height="450" width="450"></canvas>
+				<h2>Days Left In Quarter Represented by Green</h2>
+				<div id="div_chart">
+					<canvas id="canvas"></canvas>
 				</div>
 
 			</div>
@@ -74,27 +75,26 @@
 	</div>
 	<!-- / #layout -->
 
-	<script src="js/vendor/1.0.10.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="js/chart.js"></script>
 	<script>
-	var oneDay = 24*60*60*1000;
-	var startDate = new Date(2013,08,24); //year,month,day of first class session (month - 1; jan = 0)
-	var today = new Date();
-	var endDate = new Date(2013,11,03); //year,month,day of last class session (month - 1; jan = 0)
-	var daysPast = Math.round(Math.abs((today.getTime() - startDate.getTime())/(oneDay)));
-	var daysFuture = Math.round(Math.abs((endDate.getTime() - today.getTime())/(oneDay)));
-	var doughnutData = [
-			{
-				value: daysPast,
-				color: "#d64123"
-			},
-			{
-				value: daysFuture,
-				color: "#b9bf15"
-			}
-		];
-	var myDoughnut = new Chart(document.getElementById("canvas").getContext("2d")).Doughnut(doughnutData);
+		function resize_canvas(){
+			canvas        = document.getElementById("canvas");
+			canvas.width  = $("#div_chart").width();
+			canvas.height = $("#div_chart").height();
+			days_in_quarter();
+		}
+		function days_in_quarter() {
+			console.log("days_in_quarter");
+			var oneDay        = 24*60*60*1000;
+			var today         = new Date();
+			var startDate     = new Date(2013,08,24); //year,month,day of first class session (month - 1; jan = 0)
+			var endDate       = new Date(2013,11,03); //year,month,day of last class session (month - 1; jan = 0)
+			var daysPast      = Math.round(Math.abs((today.getTime() - startDate.getTime())/(oneDay)));
+			var daysFuture    = Math.round(Math.abs((endDate.getTime() - today.getTime())/(oneDay)));
+			var doughnutData  = [{value: daysPast, color:"#d64123"},{value: daysFuture, color:"#b9bf15"}];
+			var myDoughnut    = new Chart(document.getElementById("canvas").getContext("2d")).Doughnut(doughnutData);
+		}
 	</script>
-
 </body>
 </html>

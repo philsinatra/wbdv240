@@ -88,7 +88,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://zhongyinchang.com/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   8/10 [inline styles]
+                      Functionality   10/10
+                      Design          8/10 [portfolio spacing]
+                      Total           26/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -164,7 +170,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://firewerksdesign.com/wbdv240/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   10/10
+                      Functionality   10/10
+                      Design          10/10
+                      Total           30/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -240,7 +252,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://tomgariepy.com/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   8/10 [missing alt tags, inline CSS]
+                      Functionality   10/10
+                      Design          9/10 [spacing, font consistency]
+                      Total           27/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -310,8 +328,14 @@
                   <tr>
                       <td>WK09</td>
                       <td></td>
-                      <td></td>
-                      <td></td>
+                      <td><a href="http://www.theextremeentertainment.com/wbdv240/public_html/welcome.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   8/10 [multiple CSS files]
+                      Functionality   10/10
+                      Design          10/10
+                      Total           28/30
+                       -->
+                      <td><a href="http://www.theextremeentertainment.com/wbdv240/public_html/indexec.html" target="_blank">Zen Garden</a></td>
                   </tr>
                   <tr>
                       <td>WK10</td>
@@ -468,7 +492,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.abbilc.com/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   10/10
+                      Functionality   10/10
+                      Design          10/10
+                      Total           30/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -544,7 +574,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://dannymiedzinski.com/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   7/10 [broken custom font, title missing, broken Bootstrap links and jibberish JS code]
+                      Functionality   10/10
+                      Design          7/10 [inconsistent navigation, unstyled links, squished image dimensions]
+                      Total           24/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -596,7 +632,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td><a href="http://jdstarkpan.com/wbdv240/image%20store.html" target="_blank">Midterm</a> [-15 late] [-1 space in URL]</td>
+                      <td><a href="http://jdstarkpan.com/wbdv240/image%20store.html" target="_blank">Midterm</a> [-1 space in URL]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -620,7 +656,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jdstarkpan.com/wbdv240/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   1/10 [unclosed elements!!, missing alt tags, inline CSS, unencoded special characters, spaces in attribute values, bad target window value, absolute links, messy formatting]
+                      Functionality   10/10
+                      Design          10/10
+                      Total           16/30 [wrong email subject -5]
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -696,7 +738,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://annapruett1.com/pages/index_page.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   9/10 [messy formatting]
+                      Functionality   9/10 [missing target windows]
+                      Design          10/10
+                      Total           28/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -772,7 +820,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.thebrettrobinson.com/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   10/10
+                      Functionality   10/10
+                      Design          9/10 [social media icons instead of text links?]
+                      Total           29/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -848,7 +902,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jrovonline.com/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   7/10 [broken image in slideshow, duplicate class attributes, ]
+                      Functionality   6/10 [broken lightbox, missing target windows, ]
+                      Design          7/10 [white borders on dragon image, third column position ]
+                      Total           15/30 [wrong email subject -5]
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -924,7 +984,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://zmanstudios.com/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   6/10 [messy formatting, break tags instead of lists, use of center element]
+                      Functionality   9/10 [non optimized bg image]
+                      Design          10/10
+                      Total           25/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -1000,7 +1066,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.leavdt.com/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   6/10 [inline styles, poor code formatting, missing alt tags, ]
+                      Functionality   9/10 [link hover color invisible]
+                      Design          10/10
+                      Total           25/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -1076,7 +1148,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://jwetzelmedia.com/public_html/new_index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   8/10
+                      Functionality   9/10
+                      Design          7/10
+                      Total           9/30 [3 days late -15]
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -1152,7 +1230,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://archerztudio.com/wbdv240/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   7/10 [capital letters in file names, bad valign attributes, p tags in figure tags]
+                      Functionality   7/10 [non optimized images!!]
+                      Design          10/10
+                      Total           24/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>

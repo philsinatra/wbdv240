@@ -46,7 +46,7 @@
                   <tr>
                       <td>WK03</td>
                       <td></td>
-                      <td>-8</td>
+                      <td>HWK02 [-4 wrong email subject]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -64,7 +64,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td>Midterm [-30]</td>
+                      <td><a href="http://averychristianbrown.com/wbdv240/index.html" target="_blank">Midterm</a></td>
                       <td></td>
                   </tr>
                   <tr>
@@ -88,7 +88,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://averychristianbrown.com/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   9/10
+                      Functionality   10/10
+                      Design          10/10
+                      Total           29/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -163,7 +169,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://mikecanals.com/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   3/10 [bad quotes in attributes, improper nesting, bad attributes, missing closing tags, closing tags without opening tags, messy formattingn, references to outside _graphics]
+                      Functionality   9/10 [broken images]
+                      Design          7/10 [inconsistent navigation location, footer positioning, spacing ]
+                      Total           17/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -239,7 +251,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://aceproduction.net/wbdv240/public_html/home.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   9/10 [broken CSS link, unencoded characters]
+                      Functionality   10/10
+                      Design          10/10
+                      Total           29/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -315,7 +333,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://chriscerrone.com/wbdv240/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   10/10
+                      Functionality   9/10 [non optimized images]
+                      Design          7/10 [unstyled links, spacing, bg color]
+                      Total           26/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -391,7 +415,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://nishmachauhan.com/wbdv240/publichtml/html/home.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   5/10 [spaces in attributes, missing quotes, bad attributes, missing opening/closing tags]
+                      Functionality   10/10
+                      Design          9/10
+                      Total           24/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -467,7 +497,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://studiospiffy.com/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   9/10 [broken images]
+                      Functionality   10/10
+                      Design          10/10
+                      Total           29/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -543,7 +579,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.friedlander.me/wbdv240/html/home_page.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   3/10 [missing font files, broken css links, missing open/close tags, stray tags, broken images on portfolio main page!!, duplicate attributes]
+                      Functionality   10/10
+                      Design          10/10
+                      Total           23/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -619,7 +661,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://andrewlichtsinn.com/wbdv240/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   10/10
+                      Functionality   10/10
+                      Design          10/10
+                      Total           25/30 [wrong email address -5]
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -695,7 +743,7 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td>Final [-30]</td>
                       <td></td>
                   </tr>
               </tbody>
@@ -771,7 +819,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://stevenrye.com/webdev240/homepage.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   5/10 [missing doctype, missing alt tags, head content outside of head]
+                      Functionality   9/10 [direct image links instead of lightbox or custom window]
+                      Design          9/10 [non optimized images]
+                      Total           23/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -923,7 +977,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://www.spritelychimera.com/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   5/10 [no doctype, spaces in attributes, open/closing tags]
+                      Functionality   9/10 [links look like buttons, function like links]
+                      Design          9/10 [spacing]
+                      Total           23/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -999,7 +1059,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://starksincorporated.com/wbdv240/index.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   6/10 [duplicate IDs, bad center element, bad child relationships, unencoded characters]
+                      Functionality   6/10 [main page slideshow broken, porfolio placeholders!!!, no lightbox/custom windows]
+                      Design          10/10
+                      Total           17/30 [wrong email subject -5]
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -1075,7 +1141,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://shuotang.org/" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   5/10 [broken images, bad align attributes, bad child relationships, missing alt tags]
+                      Functionality   10/10 [no slideshow controls]
+                      Design          9/10 [resume not programmed, button rollover jumps]
+                      Total           24/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>
@@ -1127,7 +1199,7 @@
                   <tr>
                       <td>WK06</td>
                       <td></td>
-                      <td><a href="http://wuyuying.net/wbdv240/full_comp.html" target="_blank">Midterm</a> [-30 broken images]</td>
+                      <td><a href="http://wuyuying.net/wbdv240/full_comp.html" target="_blank">Midterm</a> [-3 inconsistent spacing] [-1 spacing gaps]</td>
                       <td></td>
                   </tr>
                   <tr>
@@ -1151,7 +1223,13 @@
                   <tr>
                       <td>WK10</td>
                       <td></td>
-                      <td></td>
+                      <td><a href="http://wuyuying.net/wbdv240/homepage.html" target="_blank">Final</a></td>
+                      <!--
+                      Code Quality:   6/10 [link outisde of head, large error potential, close tags missing, bad text in UL]
+                      Functionality   8/10 [button links work like text links, missing email links]
+                      Design          8/10 [nav spacing, description spacing]
+                      Total           22/30
+                       -->
                       <td></td>
                   </tr>
               </tbody>

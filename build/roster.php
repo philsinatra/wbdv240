@@ -36,7 +36,7 @@
 
 				if ($handle = opendir($dir)) {
 					while (false !== ($entry = readdir($handle))) {
-						if ($entry != '.' && $entry != '..' && $entry != '.DS_Store' && $entry != '_sample.html' && $entry != 'images') {
+						if ($entry != '.' && $entry != '..' && $entry != '.DS_Store' && $entry != '_template.php' && $entry != 'images') {
 							array_push($sections, $entry);
 						}
 					}

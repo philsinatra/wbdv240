@@ -74,27 +74,5 @@
 
 	</div>
 	<!-- / #layout -->
-
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="js/chart.js"></script>
-	<script>
-		function resize_canvas(){
-			canvas        = document.getElementById("canvas");
-			canvas.width  = $("#div_chart").width();
-			canvas.height = $("#div_chart").height();
-			days_in_quarter();
-		}
-		function days_in_quarter() {
-			console.log("days_in_quarter");
-			var oneDay        = 24*60*60*1000;
-			var today         = new Date();
-			var startDate     = new Date(2013,08,24); //year,month,day of first class session (month - 1; jan = 0)
-			var endDate       = new Date(2013,11,03); //year,month,day of last class session (month - 1; jan = 0)
-			var daysPast      = Math.round(Math.abs((today.getTime() - startDate.getTime())/(oneDay)));
-			var daysFuture    = Math.round(Math.abs((endDate.getTime() - today.getTime())/(oneDay)));
-			var doughnutData  = [{value: daysPast, color:"#d64123"},{value: daysFuture, color:"#b9bf15"}];
-			var myDoughnut    = new Chart(document.getElementById("canvas").getContext("2d")).Doughnut(doughnutData);
-		}
-	</script>
 </body>
 </html>

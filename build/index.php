@@ -60,11 +60,6 @@
 					</div>
 				</div>
 
-				<h2>Days Left In Quarter Represented by Green</h2>
-				<div id="div_chart">
-					<canvas id="canvas"></canvas>
-				</div>
-
 			</div>
 			<!-- / .content -->
 

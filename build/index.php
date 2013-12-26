@@ -69,5 +69,9 @@
 
 	</div>
 	<!-- / #layout -->
+
+	<script src="js/core.min.js"></script>
+	<script src="js/vendor/1.0.10.js"></script>
+
 </body>
 </html>

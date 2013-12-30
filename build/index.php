@@ -9,7 +9,7 @@
 	}
 </style>
 </head>
-<body onload="resize_canvas()">
+<body>
 
 	<div id="layout" class="pure-g-r">
 		<a href="#menu" id="menuLink" class="pure-menu-link">
@@ -70,8 +70,8 @@
 	</div>
 	<!-- / #layout -->
 
-	<script src="js/core.min.js"></script>
 	<script src="js/vendor/1.0.10.js"></script>
+	<script src="js/core.min.js"></script>
 
 </body>
 </html>

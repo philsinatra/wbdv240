@@ -268,6 +268,55 @@
 					<pre><code>import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')</code></pre>
 				</div>
 
+				<section>
+					<h3>Theme &amp; Color Scheme &amp; Settings</h3>
+					<ul>
+						<li><a href="http://kkga.github.io/spacegray/" target="_blank">SpaceGray</a></li>
+						<li><a href="https://gist.github.com/philsinatra/5957077" target="_blank">Settings Options</a></li>
+					</ul>
+					<pre>
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"fade_fold_buttons": true,
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 120
+}
+					</pre>
+
+					<h3>Suggested Packages</h3>
+					<ul>
+						<li>Alignment</li>
+						<li>ApplySyntax</li>
+						<li>AutoFileName</li>
+						<li>Emmet</li>
+						<li>FileDiffs</li>
+						<li>Package Control</li>
+						<li>Side Bar</li>
+						<li>Trailing Spaces</li>
+						<li>SublimeLinter</li>
+					</ul>
+				</section>
+
 				<hr class="soften">
 
 				<h2 class="content-subhead">FTP Setup</h2>

@@ -198,20 +198,20 @@
 				<p><b><u>Arriving late to class will result in the loss of one point for each lateness.</u></b> </p>
 
 				<h2 class="content-subhead">Grading Percents</h2>
-				<ul>
-					<li>100% or above A+</li>
-					<li>95% to 99% = A</li>
-					<li>90% to 94% = A-</li>
-					<li>88% to 89% = B+</li>
-					<li>83% to 87% = B</li>
-					<li>80% to 82% = B-</li>
-					<li>78% to 79% = C+</li>
-					<li>73% to 77% = C</li>
-					<li>70% to 72% = C-</li>
-					<li>68% to 69% = D+</li>
-					<li>65% to 67% = D</li>
-					<li>64% or below = F</li>
-				</ul>
+				<table class="pure-table pure-table-bordered pure-table-striped">
+					<tr><td>100% or above A+</td></tr>
+					<tr><td>95% to 99% = A</td></tr>
+					<tr><td>90% to 94% = A-</td></tr>
+					<tr><td>88% to 89% = B+</td></tr>
+					<tr><td>83% to 87% = B</td></tr>
+					<tr><td>80% to 82% = B-</td></tr>
+					<tr><td>78% to 79% = C+</td></tr>
+					<tr><td>73% to 77% = C</td></tr>
+					<tr><td>70% to 72% = C-</td></tr>
+					<tr><td>68% to 69% = D+</td></tr>
+					<tr><td>65% to 67% = D</td></tr>
+					<tr><td>64% or below = F</td></tr>
+				</table>
 
 				<h2 class="content-subhead">Honors</h2>
 				<p>An honors option is available to students in the Honors Program. If interested, please ask me about it.</p>

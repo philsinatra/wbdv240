@@ -251,6 +251,7 @@
 								<li><a href="http://blog.alexmaccaw.com/sublime-text" target="_blank">Setting Up</a></li>
 								<li><a href="http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/?search_index=6" target="_blank">Essential Plugins</a></li>
 								<li><a href="http://docs.emmet.io" target="_blank">Emmet Documentation</a></li>
+								<li><a href="http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/" target="_blank">Fetch</a></li>
 							</ul>
 						</div>
 					</div>
@@ -315,6 +316,21 @@
 						<li>Trailing Spaces</li>
 						<li>SublimeLinter</li>
 					</ul>
+
+					<h3>Helpful Fetch Settings</h3>
+					<pre>
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"pjs-starter": "https://github.com/philsinatra/pjs-starter/zipball/master"
+	}
+}
+					</pre>
 				</section>
 
 				<hr class="soften">

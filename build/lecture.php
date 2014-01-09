@@ -322,18 +322,19 @@
 {
 	"files":
 	{
-    "Eric-Meyer-Reset": "http://meyerweb.com/eric/tools/css/reset/reset.css",
-    "html5shiv": "https://raw.github.com/aFarkas/html5shiv/master/dist/html5shiv.js",
+		"Eric-Meyer-Reset": "http://meyerweb.com/eric/tools/css/reset/reset.css",
+		"html5shiv": "https://raw.github.com/aFarkas/html5shiv/master/dist/html5shiv.js",
 		"jquery": "http://code.jquery.com/jquery.min.js",
-    "modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
-    "respond": "https://raw.github.com/keithclark/Respond/master/respond.min.js"
+		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
+		"picturefill": "https://raw2.github.com/scottjehl/picturefill/master/picturefill.js",
+		"respond": "https://raw.github.com/keithclark/Respond/master/respond.min.js"
 	},
 	"packages":
 	{
+		"Twitter Bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
+		"WordPress": "http://wordpress.org/latest.zip",
 		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"pjs-starter": "https://github.com/philsinatra/pjs-starter/zipball/master",
-    "Twitter Bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
-    "WordPress": "http://wordpress.org/latest.zip"
+		"pjs-starter": "https://github.com/philsinatra/pjs-starter/zipball/master"
 	}
 }
 					</pre>

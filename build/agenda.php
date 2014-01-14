@@ -532,9 +532,11 @@
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week5">Week 5</a></h2>
 				<section id="week5" class="agenda-week">
-					<p>Site of the Week</p>
+					<p>Sites of the Week</p>
 					<ul>
 						<li><a href="http://speckyboy.com/2010/05/05/10-free-professional-html-and-css-templates/" target="_blank">Great resume HTML/CSS samples</a></li>
+						<li><a href="http://webdesignledger.com/inspiration/best-of-web-design-in-2013" target="_blank">Inspiration: The Best of 2013</a></li>
+						<li><a href="http://www.thebestdesigns.com/" target="_blank">Inspiration: TheBestDesigns.com</a></li>
 					</ul>
 					<p>Today</p>
 					<p><a href="weekly_exercises/w05/wbdv240-local-w05.zip" download="wbdv240-week5">Download</a> exercise files.</p>

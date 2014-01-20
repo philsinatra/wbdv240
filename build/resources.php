@@ -85,6 +85,8 @@
 								<dd>This validator checks the markup validity of Web documents.</dd>
 								<dt><a href="https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif" target="_blank">Chrome Extension: Validity</a></dt>
 								<dd>Validity can be used to quickly validate your HTML documents from the address bar.</dd>
+								<dt><a href="http://net.tutsplus.com/tutorials/html-css-techniques/30-html-best-practices-for-beginners/" target="_blank">30 HTML Best Practices for Beginners</a></dt>
+								<dd>If you've one year of experience or less, hopefully some of the tips listed here will help you to become better, quicker!</dd>
 								<dt><a target="_blank" href="http://diveintohtml5.info">Dive Into HTML5</a></dt>
 								<dd>Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards</dd>
 								<dt><a target="_blank" href="http://html5doctor.com">HTML5 Doctor</a></dt>
@@ -152,6 +154,11 @@
 					</div>
 				</div>
 
+				<hr class="soften">
+				<h1><a href="https://delicious.com/philsinatra" target="_blank">Delicious Links</a></h1>
+				<p>A collection of web tools, tutorials, and helpful links.</p>
+				<hr class="soften">
+
 				<section id="tuts-psd">
 					<h1>Photoshop For Web Designers</h1>
 					<p>Tuts+ put together a free Photoshop course showing the process of designing a web page in Photoshop. You can review all 26 videos for FREE!</p>
@@ -205,7 +212,6 @@ var harmony? = eval(designers + engineers);</pre>
 							<div class="contact-meta">
 								<a href="mailto:ps42@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
 								<a href="http://philsinatra.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
-								<a href="https://plus.google.com/u/0/112353960021434026511/about" target="_blank"><i class="icon-google-plus icon-2x"></i></a>
 								<a href="http://www.linkedin.com/in/philsinatra" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
 								<a href="https://twitter.com/philsinatra" target="_blank"><i class="icon-twitter icon-2x"></i></a>
 								<a href="https://github.com/philsinatra" target="_blank"><i class="icon-github-alt icon-2x"></i></a>

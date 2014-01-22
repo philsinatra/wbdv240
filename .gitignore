@@ -51,3 +51,4 @@ Thumbs.db
 *.ibook
 
 build/roster/
+sftp-config.json

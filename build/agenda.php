@@ -65,7 +65,7 @@
 									Review Domain Names &amp; Hosting (textbook pages 487-488) prior to purchasing your domain and hosting plans. Suggested providers include (see who has a better deal, who is offering a discount for students, shop around):
 								</p>
 								<ul>
-									<li><a href="http://bluehost.com/cgi/info/up/students" target="_blank">Bluehost</a></li>
+									<li><a href="hosting.php">Bluehost</a></li>
 									<li><a href="http://dreamhost.com/" target="_blank">Dreamhost</a></li>
 								</ul>
 							</div>

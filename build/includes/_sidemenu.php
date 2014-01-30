@@ -2,8 +2,9 @@
 				<ul>
 					<li data-navbutton="syllabus"><a href="syllabus.php" title="Syllabus">Syllabus</a></li>
 					<li data-navbutton="agenda"><a href="agenda.php" title="Agenda">Agenda</a></li>
-					<li data-navbutton="resources"><a href="resources.php" title="Resources">Resources</a></li>
+          <li data-navbutton="lecture"><a href="lecture.php" title="Lecture Notes">Lecture Notes</a></li>
+          <li data-navbutton="software"><a href="software.php" title="Software">Software</a></li>
+          <li data-navbutton="resources"><a href="resources.php" title="Resources">Resources</a></li>
           <li data-navbutton="hosting"><a href="hosting.php" title="Hosting">Hosting</a></li>
-					<li data-navbutton="lecture"><a href="lecture.php" title="Lecture Notes">Lecture Notes</a></li>
 					<li data-navbutton="roster"><a href="roster.php" title="Rosters">Class Rosters</a></li>
 				</ul>

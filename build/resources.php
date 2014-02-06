@@ -81,6 +81,8 @@
 							<dl>
 								<dt><a target="_blank" href="http://www.w3schools.com/html/html5_intro.asp">W3 Schools HTML5</a></dt>
 								<dd>HTML5 is The New HTML Standard</dd>
+								<dt><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla Developer Network</a></dt>
+								<dd>Web Technologies and Documentation</dd>
 								<dt><a href="http://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a></dt>
 								<dd>This validator checks the markup validity of Web documents.</dd>
 								<dt><a href="https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif" target="_blank">Chrome Extension: Validity</a></dt>

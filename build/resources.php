@@ -120,6 +120,8 @@
 								<dd>Geneate shadow, radius, gradient and a bunch of other CSS3 code with this graphical interface.</dd>
 								<dt><a target="_blank" href="http://www.fontsquirrel.com">Font Squirrel</a></dt>
 								<dd>Web ready fonts for your website</dd>
+								<dt><a href="http://fontprep.com/" target="_blank">FontPrep</a></dt>
+								<dd>Mac OSX Web Font Prep App (FREE)</dd>
 								<dt><a target="_blank" href="http://www.google.com/webfonts">Google Webfonts</a></dt>
 								<dd>Google's hosted font library</dd>
 								<dt><a href="http://singularity.gs/" target="_blank">Singularity</a></dt>

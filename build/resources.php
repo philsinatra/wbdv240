@@ -149,6 +149,8 @@
 								<dd>Free high quality patterns for your next web project.</dd>
 								<dt><a href="http://discover-devtools.codeschool.com/" target="_blank">DevTools Code School</a></dt>
 								<dd>Explore and master Chrome Dev Tools</dd>
+								<dt><a href="http://www.berriart.com/sidr/" target="_blank">sidr</a></dt>
+								<dd>Plugin for creating side menus</dd>
 								<dt><a target="_blank" href="http://www.mirovideoconverter.com">Miro Video Converter</a></dt>
 								<dd>Convert your video file format, for free</dd>
 								<dt><a target="_blank" href="http://handbrake.fr/downloads.php">HandBrake</a></dt>

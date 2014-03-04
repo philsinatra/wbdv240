@@ -114,6 +114,8 @@
 								<dd>CSS Lint is an open source CSS code quality tool.</dd>
 								<dt><a target="_blank" href="http://meyerweb.com/eric/tools/css/reset/">Eric Meyer's CSS Reset</a></dt>
 								<dd>The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on&hellip;</dd>
+								<dt><a href="http://www.virtuosoft.eu/tools/css-gradient-generator/" target="_blank">Virtuo Soft Gradient Generator</a></dt>
+								<dd>CSS gradient generator GUI</dd>
 								<dt><a target="_blank" href="http://www.colorzilla.com/gradient-editor/">CSS Gradient Editor</a></dt>
 								<dd>Quickly generate CSS gradients</dd>
 								<dt><a href="http://css3generator.com/" target="_blank">CSS3 Generator</a></dt>

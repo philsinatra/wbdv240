@@ -55,6 +55,20 @@
 									<li><a href="http://adobe.com/uk/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a></li>
 								</ul>
 								</li>
+								<li>
+									Graphics
+									<ul>
+										<li><a href="http://www.bohemiancoding.com/sketch/" target="_blank">Sketch</a> <a href="https://github.com/bomberstudios/sketch-commands" target="_blank"><i class="icon-github-alt"></i></a></li>
+										<li><a href="http://balsamiq.com/products/mockups/" target="_blank">Balsamiq Mockups</a></li>
+									</ul>
+								</li>
+								<li>
+									Development
+									<ul>
+										<li><a href="https://incident57.com/codekit/" target="_blank">CodeKit</a></li>
+										<li><a href="http://fontprep.com/" target="_blank">Font Prep</a></li>
+									</ul>
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -127,21 +141,27 @@
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"fade_fold_buttons": true,
-	"font_size": 11,
+	"font_face": "Courier New",
+	"font_options": "subpixel_antialias",
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": true,
 	"tab_size": 2,
-	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,

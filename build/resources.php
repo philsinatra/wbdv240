@@ -143,6 +143,8 @@
 								<dd>Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.</dd>
 								<dt><a target="_blank" href="https://kuler.adobe.com">Adobe Kuler</a></dt>
 								<dd>Color wheel and inspiration tool</dd>
+								<dt><a href="http://colourco.de/" target="_blank">Color Code</a></dt>
+								<dd>Find your color scheme</dd>
 								<dt><a href="http://www.pinterest.com/pin/248683210648178299/" target="_blank">The Psychology of Color</a></dt>
 								<dd>A Guide For Designers</dd>
 								<dt><a href="http://flatuicolors.com/" target="_blank">FlatUIColor</a></dt>

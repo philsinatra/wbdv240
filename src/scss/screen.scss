@@ -14,6 +14,8 @@
 	font-style: normal;
 }
 
+@import "genericons";
+
 body {
 	font-family: 'proxima_novalight', Arial, sans-serif;
 
@@ -236,4 +238,12 @@ ul.classlist {
 .is-centered {
 	margin: 0 auto;
 	text-align: center;
+}
+
+.striped {
+	tr:nth-child(odd) {
+		background-color: #f2f2f2;
+	}
+
+	tr:hover { background-color: #fef4d6; }
 }

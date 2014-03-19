@@ -72,105 +72,281 @@
 						</div>
 				</div>
 
-				<h2 class="content-subhead">Links</h2>
-
-				<div class="pure-g-r">
+				<h1>Instructors</h1>
+				<div class="pure-g-r instructor-contact">
 					<div class="pure-u-1-3">
 						<div class="l-box">
-							<h3>HTML</h3>
-							<dl>
-								<dt><a target="_blank" href="http://www.w3schools.com/html/html5_intro.asp">W3 Schools HTML5</a></dt>
-								<dd>HTML5 is The New HTML Standard</dd>
-								<dt><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla Developer Network</a></dt>
-								<dd>Web Technologies and Documentation</dd>
-								<dt><a href="http://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a></dt>
-								<dd>This validator checks the markup validity of Web documents.</dd>
-								<dt><a href="https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif" target="_blank">Chrome Extension: Validity</a></dt>
-								<dd>Validity can be used to quickly validate your HTML documents from the address bar.</dd>
-								<dt><a href="http://net.tutsplus.com/tutorials/html-css-techniques/30-html-best-practices-for-beginners/" target="_blank">30 HTML Best Practices for Beginners</a></dt>
-								<dd>If you've one year of experience or less, hopefully some of the tips listed here will help you to become better, quicker!</dd>
-								<dt><a target="_blank" href="http://diveintohtml5.info">Dive Into HTML5</a></dt>
-								<dd>Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards</dd>
-								<dt><a target="_blank" href="http://html5doctor.com">HTML5 Doctor</a></dt>
-								<dd>Helping you implement HTML5</dd>
-								<dt><a href="http://jquery.malsup.com/cycle/" title="jQuery Cycle" target="_blank">jQuery Cycle</a> </dt>
-								<dd>The jQuery Cycle Plugin is a slideshow plugin that supports many different types of transition effects </dd>
-								<dt><a href="http://responsive-slides.viljamis.com" title="Responsive Slides" target="_blank">Responsive Slides</a> </dt>
-								<dd>ResponsiveSlides.js is a tiny jQuery plugin that creates a responsive slider using elements inside a container. </dd>
-								<dt><a target="_blank" href="http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/#prettyPhoto">prettyPhoto</a></dt>
-								<dd>prettyPhoto is a jQuery Lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media Lightbox</dd>
-								<dt><a href="http://bradfrost.github.com/this-is-responsive/" target="_blank">This is Responsive</a></dt>
-								<dd> Patterns, resources and news for creating responsive web experiences. </dd>
-							</dl>
+							<h3>Jervis Thompson</h3>
+							<div class="avatar"><img src="images/avatar-jervo.jpg" alt="Jervo"></div>
+							<div class="contact-meta">
+								<a href="mailto:st966rc2@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
+								<a href="http://jervo.org" target="_blank"><i class="icon-globe icon-2x"></i></a>
+								<a href="http://www.linkedin.com/in/jervisthompson" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+								<a href="https://twitter.com/jervo" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+							</div>
 						</div>
 					</div>
 					<div class="pure-u-1-3">
 						<div class="l-box">
-							<h3>CSS</h3>
-							<dl>
-								<dt><a target="_blank" href="http://www.w3schools.com/css3/default.asp">W3 Schools CSS3</a></dt>
-								<dd>CSS3 is the latest standard for CSS</dd>
-								<dt><a href="http://csslint.net/" target="_blank">CSS Lint</a></dt>
-								<dd>CSS Lint is an open source CSS code quality tool.</dd>
-								<dt><a target="_blank" href="http://meyerweb.com/eric/tools/css/reset/">Eric Meyer's CSS Reset</a></dt>
-								<dd>The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on&hellip;</dd>
-								<dt><a href="http://www.virtuosoft.eu/tools/css-gradient-generator/" target="_blank">Virtuo Soft Gradient Generator</a></dt>
-								<dd>CSS gradient generator GUI</dd>
-								<dt><a target="_blank" href="http://www.colorzilla.com/gradient-editor/">CSS Gradient Editor</a></dt>
-								<dd>Quickly generate CSS gradients</dd>
-								<dt><a href="http://css3generator.com/" target="_blank">CSS3 Generator</a></dt>
-								<dd>Geneate shadow, radius, gradient and a bunch of other CSS3 code with this graphical interface.</dd>
-								<dt><a target="_blank" href="http://www.fontsquirrel.com">Font Squirrel</a></dt>
-								<dd>Web ready fonts for your website</dd>
-								<dt><a href="http://fontprep.com/" target="_blank">FontPrep</a></dt>
-								<dd>Mac OSX Web Font Prep App (FREE)</dd>
-								<dt><a target="_blank" href="http://www.google.com/webfonts">Google Webfonts</a></dt>
-								<dd>Google's hosted font library</dd>
-								<dt><a href="http://singularity.gs/" target="_blank">Singularity</a></dt>
-								<dd>Singularity is based on internal ratios instead of context based which allows for better gutter consistency across breakpoints.</dd>
-								<dt><a href="http://susy.oddbird.net" target="_blank">SUSY</a></dt>
-								<dd>Responsive Grids for Compass</dd>
-							</dl>
+							<h3>Troy Finamore</h3>
+							<div class="avatar"><img src="images/avatar-troy.png" alt="Troy"></div>
+							<div class="contact-meta">
+								<a href="mailto:twf23@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
+								<a href="http://www.linkedin.com/in/finamoredesign" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+								<a href="https://twitter.com/findes" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+							</div>
 						</div>
 					</div>
 					<div class="pure-u-1-3">
 						<div class="l-box">
-							<h3>Other</h3>
-							<dl>
-								<dt><a href="http://www.balsamiq.com/products/mockups" target="_blank">Balsamiq Mockups</a></dt>
-								<dd>Using Mockups feels like drawing, but because it’s digital, you can tweak and rearrange easily.</dd>
-								<dt><a href="http://styletil.es" target="_blank">Style Tiles</a></dt>
-								<dd>Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.</dd>
-								<dt><a target="_blank" href="https://kuler.adobe.com">Adobe Kuler</a></dt>
-								<dd>Color wheel and inspiration tool</dd>
-								<dt><a href="http://colourco.de/" target="_blank">Color Code</a></dt>
-								<dd>Find your color scheme</dd>
-								<dt><a href="http://www.pinterest.com/pin/248683210648178299/" target="_blank">The Psychology of Color</a></dt>
-								<dd>A Guide For Designers</dd>
-								<dt><a href="http://flatuicolors.com/" target="_blank">FlatUIColor</a></dt>
-								<dd>The online resource Flat UI Colors is a great place to start when attempting to focus your creative efforts on flat color schemes</dd>
-								<dt><a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a></dt>
-								<dd>Free high quality patterns for your next web project.</dd>
-								<dt><a href="http://discover-devtools.codeschool.com/" target="_blank">DevTools Code School</a></dt>
-								<dd>Explore and master Chrome Dev Tools</dd>
-								<dt><a href="http://www.berriart.com/sidr/" target="_blank">sidr</a></dt>
-								<dd>Plugin for creating side menus</dd>
-								<dt><a target="_blank" href="http://www.mirovideoconverter.com">Miro Video Converter</a></dt>
-								<dd>Convert your video file format, for free</dd>
-								<dt><a target="_blank" href="http://handbrake.fr/downloads.php">HandBrake</a></dt>
-								<dd>HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder, available for MacOS X, Linux and Windows</dd>
-								<dt><a target="_blank" href="http://phpmailer.worxware.com">PHP Mailer Class</a></dt>
-								<dd>Email form information made easy</dd>
-							</dl>
+							<h3>Phil Sinatra</h3>
+							<div class="avatar"><img src="images/avatar-phil.jpg" alt="Phil"></div>
+							<div class="contact-meta">
+								<a href="mailto:ps42@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
+								<a href="http://philsinatra.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
+								<a href="http://www.linkedin.com/in/philsinatra" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+								<a href="https://twitter.com/philsinatra" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+								<a href="https://github.com/philsinatra" target="_blank"><span style="font-size: 26px" class="genericon genericon-github"></span></a>
+								<a href="http://codepen.io/philsinatra/" target="_blank"><span style="font-size: 30px" class="genericon genericon-codepen"></span></a>
+							</div>
 						</div>
 					</div>
 				</div>
 
+
+				<h1>Links</h1>
+				<div class="pure-g-r">
+					<div class="pure-u-1">
+						<table class="pure-table pure-table-horizontal striped">
+						<thead>
+							<tr>
+								<th>Title</th>
+								<th>Category</th>
+								<th>Description</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><a target="_blank" href="http://www.w3schools.com/html/html5_intro.asp">W3 Schools HTML5</a></td>
+								<td>HTML</td>
+								<td>HTML5 is The New HTML Standard</td>
+							</tr>
+							<tr>
+								<td><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla Developer Network</a></td>
+								<td>HTML</td>
+								<td>Web Technologies and Documentation</td>
+							</tr>
+							<tr>
+								<td><a href="http://validator.w3.org/#validate_by_input" target="_blank">HTML Validator</a></td>
+								<td>HTML</td>
+								<td>This validator checks the markup validity of Web documents</td>
+							</tr>
+							<tr>
+								<td><a href="https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif" target="_blank">Chrome Extension: Validity</a></td>
+								<td>HTML</td>
+								<td>Validity can be used to quickly validate your HTML documents from the address bar</td>
+							</tr>
+							<tr>
+								<td><a href="http://net.tutsplus.com/tutorials/html-css-techniques/30-html-best-practices-for-beginners/" target="_blank">30 HTML Best Practices for Beginners</a></td>
+								<td>HTML CSS</td>
+								<td>If you've one year of experience or less, hopefully some of the tips listed here will help you to become better, quicker!</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://diveintohtml5.info">Dive Into HTML5</a></td>
+							  <td>HTML</td>
+							  <td>Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://html5doctor.com">HTML5 Doctor</a></td>
+							  <td>HTML</td>
+							  <td>Helping you implement HTML5</td>
+							</tr>
+							<tr>
+							  <td><a href="http://bradfrost.github.com/this-is-responsive/" target="_blank">This is Responsive</a></td>
+							  <td>HTML CSS</td>
+							  <td>Patterns, resources and news for creating responsive web experiences</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://www.w3schools.com/css3/default.asp">W3 Schools CSS3</a></td>
+							  <td>CSS</td>
+							  <td>CSS3 is the latest standard for CSS</td>
+							</tr>
+							<tr>
+							  <td><a href="http://csslint.net/" target="_blank">CSS Lint</a></td>
+							  <td>CSS</td>
+							  <td>CSS Lint is an open source CSS code quality tool</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://meyerweb.com/eric/tools/css/reset/">CSS Reset</a></td>
+							  <td>CSS</td>
+							  <td>Eric Meyer's Reset Stylesheet</td>
+							</tr>
+							<tr>
+							  <td><a href="http://css3generator.com/" target="_blank">CSS3 Generator</a></td>
+							  <td>CSS</td>
+							  <td>Geneate shadow, radius, gradient and a bunch of other CSS3 code with this graphical interface</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://www.colorzilla.com/gradient-editor/">CSS Gradient Editor</a></td>
+							  <td>CSS</td>
+							  <td>Quickly generate CSS gradients</td>
+							</tr>
+							<tr>
+							  <td><a href="http://www.virtuosoft.eu/tools/css-gradient-generator/" target="_blank">Virtuo Soft Gradient Generator</a></td>
+							  <td>CSS</td>
+							  <td>CSS gradient generator GUI</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://www.fontsquirrel.com">Font Squirrel</a></td>
+							  <td>CSS Fonts</td>
+							  <td>Web ready fonts for your website</td>
+							</tr>
+							<tr>
+							  <td><a href="http://fontprep.com/" target="_blank">FontPrep</a></td>
+							  <td>CSS Fonts</td>
+							  <td>Mac OSX Web Font Prep App (FREE)</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://www.google.com/webfonts">Google Webfonts</a></td>
+							  <td>CSS Fonts</td>
+							  <td>Google's hosted font library</td>
+							</tr>
+							<tr>
+								<td><a href="http://fontawesome.io/" target="_blank">FontAwesome</a></td>
+								<td>CSS Icon Fonts</td>
+								<td>The iconic font designed for Bootstrap</td>
+							</tr>
+							<tr>
+								<td><a href="http://genericons.com/#fullscreen" target="_blank">Genericons</a></td>
+								<td>CSS Icon Fonts</td>
+								<td>free, GPL, flexible icon font</td>
+							</tr>
+							<tr>
+							  <td><a href="http://singularity.gs/" target="_blank">Singularity</a></td>
+							  <td>CSS</td>
+							  <td>Responsive Grid System</td>
+							</tr>
+							<tr>
+							  <td><a href="http://susy.oddbird.net" target="_blank">SUSY</a></td>
+							  <td>CSS</td>
+							  <td>Responsive Grids for Compass</td>
+							</tr>
+							<tr>
+							  <td><a href="http://responsive-slides.viljamis.com" title="Responsive Slides" target="_blank">Responsive Slides</a></td>
+							  <td>JS</td>
+							  <td>ResponsiveSlides.js is a tiny jQuery plugin that creates a responsive slider using elements inside a container</td>
+							</tr>
+							<tr>
+							  <td><a href="http://jquery.malsup.com/cycle/" title="jQuery Cycle" target="_blank">jQuery Cycle</a></td>
+							  <td>JS</td>
+							  <td>The jQuery Cycle Plugin is a slideshow plugin that supports many different types of transition effects</td>
+							</tr>
+							<tr>
+							  <td><a href="http://www.fancyapps.com/fancybox/" target="_blank">FancyBox</a></td>
+							  <td>JS</td>
+							  <td>Add zooming functionality for images, html content and multi-media on your webpages</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/#prettyPhoto">prettyPhoto</a></td>
+							  <td>JS</td>
+							  <td>prettyPhoto is a jQuery Lightbox clone (support: videos, flash, YouTube, iframes and ajax)</td>
+							</tr>
+							<tr>
+							  <td><a href="http://www.berriart.com/sidr/" target="_blank">sidr</a></td>
+							  <td>JS</td>
+							  <td>Plugin for creating side menus</td>
+							</tr>
+							<tr>
+							  <td><a href="http://www.balsamiq.com/products/mockups" target="_blank">Balsamiq Mockups</a></td>
+							  <td>Wireframeing</td>
+							  <td>Using Mockups feels like drawing, but because it’s digital, you can tweak and rearrange easily</td>
+							</tr>
+							<tr>
+							  <td><a href="http://styletil.es" target="_blank">Style Tiles</a></td>
+							  <td>Prototyping</td>
+							  <td>Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="https://kuler.adobe.com">Adobe Kuler</a></td>
+							  <td>Color</td>
+							  <td>Color wheel and inspiration tool</td>
+							</tr>
+							<tr>
+							  <td><a href="http://colourco.de/" target="_blank">Color Code</a></td>
+							  <td>Color</td>
+							  <td>Find your color scheme</td>
+							</tr>
+							<tr>
+							  <td><a href="http://www.pinterest.com/pin/248683210648178299/" target="_blank">The Psychology of Color</a></td>
+							  <td>Color</td>
+							  <td>A Guide For Designers</td>
+							</tr>
+							<tr>
+							  <td><a href="http://flatuicolors.com/" target="_blank">FlatUIColor</a></td>
+							  <td>Color</td>
+							  <td>The online resource Flat UI Colors is a great place to start when attempting to focus your creative efforts on flat color schemes</td>
+							</tr>
+							<tr>
+							  <td><a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a></td>
+							  <td>Patterns</td>
+							  <td>Free high quality patterns for your next web project</td>
+							</tr>
+							<tr>
+							  <td><a href="http://discover-devtools.codeschool.com/" target="_blank">DevTools Code School</a></td>
+							  <td>Debug</td>
+							  <td>Explore and master Chrome Dev Tools</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://www.mirovideoconverter.com">Miro Video Converter</a></td>
+							  <td>Video</td>
+							  <td>Convert your video file format, for free</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://handbrake.fr/downloads.php">HandBrake</a></td>
+							  <td>Video</td>
+							  <td>HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder, available for MacOS X, Linux and Windows</td>
+							</tr>
+							<tr>
+							  <td><a target="_blank" href="http://phpmailer.worxware.com">PHP Mailer Class</a></td>
+							  <td>PHP</td>
+							  <td>Email form information made easy</td>
+							</tr>
+							<tr>
+								<td><a href="http://getbootstrap.com/" target="_blank">Bootstrap</a></td>
+								<td>Framework</td>
+								<td>The most popular front-end framework for developing responsive, mobile first projects on the web</td>
+							</tr>
+							<tr>
+								<td><a href="http://purecss.io/" target="_blank">PureCSS</a></td>
+								<td>Framework</td>
+								<td>A set of small, responsive CSS modules that you can use in every web project</td>
+							</tr>
+							<tr>
+								<td><a href="http://sixrevisions.com/project-management/web-development-kickoff-meeting/" target="_blank">Project Kickoff</a> </td>
+								<td>Project Management</td>
+								<td>How to Get Your Web Development Projects Off to a Good Start</td>
+							</tr>
+							<tr>
+								<td><a href="http://muledesign.com/designbook/screener.html" target="_blank">Client Screener</a></td>
+								<td>Project Management</td>
+								<td>Screener for ferreting out whether you’re talking to the right clients or not</td>
+							</tr>
+						</tbody>
+						</table>
+					</div>
+				</div>
+
+
+
 				<hr class="soften">
-				<h1><a href="https://delicious.com/philsinatra" target="_blank">Delicious Links</a></h1>
+				<h1>
+					<img src="https://cdn1.iconfinder.com/data/icons/web2/Icons/delicious_512x512.png" alt="Delicious Links" width="48" height="48" valign="middle">
+					<a href="https://delicious.com/philsinatra" target="_blank">Delicious Links</a>
+				</h1>
 				<p>A collection of web tools, tutorials, and helpful links.</p>
 				<hr class="soften">
 
+				<h2 class="content-subhead">Additional Helpful Links</h2>
 				<section id="tuts-psd">
 					<h1>Photoshop For Web Designers</h1>
 					<p>Tuts+ put together a free Photoshop course showing the process of designing a web page in Photoshop. You can review all 26 videos for FREE!</p>
@@ -194,43 +370,6 @@ var harmony? = eval(designers + engineers);</pre>
 					<p align="center"><a href="http://zurb.com/article/1220/designing-code-how-to-use-design-principl" target="_blank" class="pure-button">View Article</a></p>
 				</section>
 
-				<h2 class="content-subhead">Instructors</h2>
-				<div class="pure-g-r instructor-contact">
-					<div class="pure-u-1-3">
-						<div class="l-box">
-							<h3>Jervis Thompson</h3>
-							<div class="avatar"><img src="images/avatar-jervo.jpg" alt="Jervo"></div>
-							<div class="contact-meta">
-								<a href="mailto:st966rc2@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
-								<a href="http://jervo.org" target="_blank"><i class="icon-globe icon-2x"></i></a>
-								<a href="https://twitter.com/jervo" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="pure-u-1-3">
-						<div class="l-box">
-							<h3>Troy Finamore</h3>
-							<div class="avatar"><img src="images/avatar-troy.png" alt="Troy"></div>
-							<div class="contact-meta">
-								<a href="mailto:twf23@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
-								<a href="https://twitter.com/findes" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="pure-u-1-3">
-						<div class="l-box">
-							<h3>Phil Sinatra</h3>
-							<div class="avatar"><img src="images/avatar-phil.jpg" alt="Phil"></div>
-							<div class="contact-meta">
-								<a href="mailto:ps42@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
-								<a href="http://philsinatra.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
-								<a href="http://www.linkedin.com/in/philsinatra" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-								<a href="https://twitter.com/philsinatra" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-								<a href="https://github.com/philsinatra" target="_blank"><i class="icon-github-alt icon-2x"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
 
 				<hr class="soften">
 

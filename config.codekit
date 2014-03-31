@@ -194,6 +194,72 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/build\/roster\/images\/wbdv240-1304-s001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41992,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1304-s001.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1304-s001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/roster\/images\/wbdv240-1309-s001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49232,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1309-s001.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1309-s001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/roster\/images\/wbdv240-1309-s003.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70041,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1309-s003.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1309-s003.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/roster\/images\/wbdv240-1309-s005.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1309-s005.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1309-s005.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/roster\/images\/wbdv240-1401-s001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39604,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1401-s001.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1401-s001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/roster\/images\/wbdv240-1401-s003.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1401-s003.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1401-s003.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/build\/roster\/wbdv240-1304-s001.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -226,6 +292,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/roster\/wbdv240-1309-s005.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/roster\/wbdv240-1401-s001.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/roster\/wbdv240-1401-s001.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/roster\/wbdv240-1401-s003.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/roster\/wbdv240-1401-s003.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

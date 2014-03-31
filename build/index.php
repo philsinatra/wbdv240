@@ -70,7 +70,6 @@
 	</div>
 	<!-- / #layout -->
 
-	<script src="js/vendor/1.0.10.js"></script>
 	<script src="js/core.min.js"></script>
 
 </body>

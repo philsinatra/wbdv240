@@ -1,3 +1,12 @@
+/* Default Blue */
+$pcolor: #1f8dd6;
+
+/* WBDV-241 Mobile Red */
+// $pcolor: #9c182f;
+
+/* WBDV-370 Mobile Green */
+// $pcolor: #708d21;
+
 body {
     font-family: sans-serif;
     color: #777;
@@ -26,13 +35,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a {
-    color: #3b8bba; /* block-background-text-normal */
+    color: $pcolor; /* block-background-text-normal */
     text-decoration: none;
 }
 
-// a:visited {
-//     color: #265778; /* block-normal-text-normal */
-// }
+a:visited {
+    color: $pcolor; /* block-normal-text-normal */
+}
 
 dt {
     font-weight: bold;
@@ -88,7 +97,7 @@ dd {
      background: #fff;
  }
     .header h1 {
-        margin: 0.2em 0;
+        margin: 0.5em 0;
         font-size: 3em;
         font-weight: 300;
     }
@@ -99,13 +108,13 @@ dd {
      }
 
 aside {
-    background: #cce1ef; /* normal color palette when primary color palette is at #1f8dd6 */
+    background: rgba(204, 204, 204, 0.5); /* normal color palette when primary color palette is at #1f8dd6 */
     padding: 0.3em 1em;
     border-radius: 3px;
     color: #163246; /* block-normal-text-high */
 }
     .aside a, .aside a:visited {
-        color: #1f8dd6;
+        color: $pcolor;
     }
 
     .content aside p {
@@ -248,7 +257,7 @@ aside {
     }
 
     #menu .pure-menu-selected {
-        background: #1f8dd6;
+        background: $pcolor;
     }
 
         #menu .pure-menu-selected a {
@@ -356,7 +365,7 @@ p {
         font-size: 800%;
         margin: 0;
         padding: 0;
-        color: #1f8dd6;
+        color: $pcolor;
         font-weight: 100;
     }
     .hero h2 {
@@ -373,7 +382,7 @@ p {
 
 a.pure-button-cta {
     font-size: 120%;
-    background: #1f8dd6;
+    background: $pcolor;
     color: white;
     font-weight: bold;
 }

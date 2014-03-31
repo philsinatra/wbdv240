@@ -43,7 +43,7 @@
 			    	<tr>
 			    		<td>Phil Sinatra</td>
 			    		<td><a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></td>
-			    		<td><a href="https://www.google.com/calendar/embed?src=fj02v2f4vn246mqj13022hntgs%40group.calendar.google.com&ctz=America/New_York" target="_blank">Google</a></td>
+			    		<td><a href="https://www.google.com/calendar/embed?src=fj02v2f4vn246mqj13022hntgs%40group.calendar.google.com&amp;ctz=America/New_York" target="_blank">Google</a></td>
 			    	</tr>
 			    	<tr>
 			    		<td>Jervis Thompson</td>
@@ -53,7 +53,7 @@
 			    	<tr>
 			    		<td>Troy Finamore</td>
 			    		<td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
-			    		<td></td>
+			    		<td><a href="https://www.google.com/calendar/embed?src=k4dfi4ao1d6d9h0pm7a6f8ic0k%40group.calendar.google.com&amp;ctz=America/New_York" target="supwin">Google</a></td>
 			    	</tr>
 			    </tbody>
 			  </table>
@@ -70,7 +70,7 @@
 					<li><a href="http://htmlandcssbook.com" target="_blank">HTML and CSS: Design and Build Websites</a> (<a href="http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189%3FSubscriptionId%3DAKIAJYKJBAJTAUI7IXAQ%26tag%3Dcoursekit-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1118008189" target="_blank">Amazon</a>)
 						<ul><li>This book is now available in the <a href="http://innoserv.library.drexel.edu/search~S9?/tHTML+and+CSS:+Design+and+Build+Websites/thtml+and+css+design+and+build+websites/1%2C1%2C2%2CB/frameset&amp;FF=thtml+and+css+design+and+build+websites&amp;1%2C%2C2" target="_blank">Haggerty Library electronic resources</a>.</li></ul>
 					</li>
-					<li><a href="http://www.bluehost.com/track/UP/DREXEL" target="_blank">Self hosted web domain</a></li>
+					<li><a href="http://digm.drexel.edu/crs/wbdv240/hosting.php">Self hosted web domain</a></li>
 					<li>Removable storage</li>
 				</ul>
 
@@ -107,7 +107,7 @@
 							</p>
 							<ul>
 								<li>validate your code, (<a href="http://tv.adobe.com/watch/cs-55-web-premium-feature-tour-/dreamweaver-cs-55-w3c-validation" target="_blank">with Dreamweaver</a>) there should be no errors (<a href="http://validator.w3.org/" target="pwin">validator.w3.org</a>)</li>
-								<li>follow the best practices listed on the <a href="index_lecture.html">lecture notes page</a> regarding file names, characters and coding styles</li>
+								<li>follow the best practices listed on the <a href="lecture.php">lecture notes page</a> regarding file names, characters and coding styles</li>
 								<li>your code is legible and easy to navigate</li>
 								<li>your code should use comments wherever possible</li>
 							</ul>
@@ -189,28 +189,68 @@
 					<a href="http://www.drexel.edu/provost/policyweb/absence.html" target="_blank">Attendance is mandatory</a>. Students are expected to attend all classes and strictly adhere to the project due dates. Lack of participation in class discussions will count against your grade.
 				</p>
 				<p>
-					Students are allowed one unexcused absence.
-				</p>
-				<h3>If a student has more than one unexcused absence, his or her grade for the course will be reduced one letter grade.<br>If a student has three absences, he or she will receive an F grade.</h3>
-				<p>
-					Note that an excused absence is defined as one that is the result of a condition or circumstance beyond the student&rsquo;s control, such as illness, a family crisis or emergency, or some other serious and important personal circumstance. An absence will be excused only if there is documentation verifying the circumstances that caused the absence.
+					Students are allowed ONE unexcused absence. If a student has more than one absence, his or her grade for the course will be reduced one letter grade. If a student has three or more absences, he or she will receive an F grade.
 				</p>
 				<p><b><u>Arriving late to class will result in the loss of one point for each lateness.</u></b> </p>
 
 				<h2 class="content-subhead">Grading Percents</h2>
 				<table class="pure-table pure-table-bordered pure-table-striped">
-					<tr><td>100% or above A+</td></tr>
-					<tr><td>95% to 99% = A</td></tr>
-					<tr><td>90% to 94% = A-</td></tr>
-					<tr><td>88% to 89% = B+</td></tr>
-					<tr><td>83% to 87% = B</td></tr>
-					<tr><td>80% to 82% = B-</td></tr>
-					<tr><td>78% to 79% = C+</td></tr>
-					<tr><td>73% to 77% = C</td></tr>
-					<tr><td>70% to 72% = C-</td></tr>
-					<tr><td>68% to 69% = D+</td></tr>
-					<tr><td>65% to 67% = D</td></tr>
-					<tr><td>64% or below = F</td></tr>
+					<thead>
+						<tr>
+						   <th>Points</th>
+						   <th>Grade</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>100&percnt; or above</td>
+							<td>A+</td>
+						</tr>
+						<tr>
+							<td>95&percnt; to 99&percnt;</td>
+							<td>A</td>
+						</tr>
+						<tr>
+							<td>90&percnt; to 94&percnt;</td>
+							<td>A-</td>
+						</tr>
+						<tr>
+							<td>88&percnt; to 89&percnt;</td>
+							<td>B+</td>
+						</tr>
+						<tr>
+							<td>83&percnt; to 87&percnt;</td>
+							<td>B</td>
+						</tr>
+						<tr>
+							<td>80&percnt; to 82&percnt;</td>
+							<td>B-</td>
+						</tr>
+						<tr>
+							<td>78&percnt; to 79&percnt;</td>
+							<td>C+</td>
+						</tr>
+						<tr>
+							<td>73&percnt; to 77&percnt;</td>
+							<td>C</td>
+						</tr>
+						<tr>
+							<td>70&percnt; to 72&percnt; </td>
+							<td>C-</td>
+						</tr>
+						<tr>
+							<td>68&percnt; to 69&percnt;</td>
+							<td>D+</td>
+						</tr>
+						<tr>
+							<td>65&percnt; to 67&percnt;</td>
+							<td>D</td>
+						</tr>
+						<tr>
+							<td>64&percnt; or below</td>
+							<td>F</td>
+						</tr>
+					</tbody>
 				</table>
 
 				<h2 class="content-subhead">Honors</h2>

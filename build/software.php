@@ -215,8 +215,24 @@
 							<ul>
 								<li><a href="http://brackets.io" target="supwin">Developer Site</a></li>
 								<li><a href="http://blog.brackets.io" target="supwin">Features</a></li>
-								<li><a href="http://blog.brackets.io/category/extensions/" target="supwin">Essential Plugins</a></li>
-								<li><a href="http://docs.emmet.io" target="supwin">Emmet Documentation</a></li>
+								<li>Essential Plugins
+									<ul>
+										<li>Beautify</li>
+										<li>Code Folding</li>
+										<li>colorHints</li>
+										<li>Delete to Line Start/End</li>
+										<li><strong>Emmet</strong> - <a href="http://docs.emmet.io" target="supwin">Docs</a></li>
+										<li>Indentator</li>
+										<li>Markdown Preview</li>
+										<li>Quick Search</li>
+										<li>Special Html Characters</li>
+										<li>spell-check</li>
+										<li>String Convert</li>
+										<li>Strip trailing spaces</li>
+										<li>SVG Preview</li>
+										<li>W3CValidation</li>
+									</ul>
+								</li>
 							</ul>
 						</div>
 					</div>

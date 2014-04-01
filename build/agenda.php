@@ -28,23 +28,24 @@
 			<!-- / .header -->
 
 			<div class="content">
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week1">Week 1</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week1">Week 1 - Apr 03</a></h2>
 				<section id="week1" class="agenda-week">
 					<ul>
 						<li>Introductions
 						<ul>
 							<li>Full name&hellip;</li>
 							<li>I grew up in&hellip;</li>
-							<li>My major&hellip;</li>
-							<li>Why am I here&hellip;</li>
+							<li>My major is&hellip;</li>
+							<li>Why am I here, in this class&hellip;</li>
 							<li>10 years from now I will be doing&hellip;</li>
-							<li>Samples of my work&hellip;</li>
+							<li>Samples of my work are&hellip;</li>
 						</ul>
 						</li>
 						<li>Class Photo</li>
 						<li>Course overview
 						<ul>
 							<li>Syllabus</li>
+							<li>Web site overview</li>
 							<li>Domain/Hosting
 								<ul>
 									<li><a href="http://bitsandpieces.us/2010/12/22/bad-domain-names/" target="_blank">Bad Domain Names</a></li>
@@ -136,7 +137,7 @@
 					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 2</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 2 - Apr 10</a></h2>
 				<section id="week2" class="agenda-week">
 					<p>
 						Site of the Week
@@ -269,7 +270,7 @@
 					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 3</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 3 - Apr 17</a></h2>
 				<section id="week3" class="agenda-week">
 					<p>
 						Site of the Week
@@ -410,7 +411,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 4</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 4 - Apr 24</a></h2>
 				<section id="week4" class="agenda-week">
 					<p>
 						Site of the Week
@@ -530,7 +531,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week5">Week 5</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week5">Week 5 - May 01</a></h2>
 				<section id="week5" class="agenda-week">
 					<p>Sites of the Week</p>
 					<ul>
@@ -634,7 +635,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week6">Week 6</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week6">Week 6 - May 08</a></h2>
 				<section id="week6" class="agenda-week">
 					<h3 class="written">
 						Midterm Review:
@@ -691,7 +692,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 7</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 7 - May 15</a></h2>
 				<section id="week7" class="agenda-week">
 					<p>Sites of the Week</p>
 					<ul>
@@ -745,7 +746,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 8</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week8">Week 8 - May 22</a></h2>
 				<section id="week8" class="agenda-week">
 					<p>Today</p>
 					<p><a href="weekly_exercises/w08/wbdv240-local-w08.zip" download="wbdv240-week8">Download</a> exercise files.</p>
@@ -786,7 +787,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week9">Week 9</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week9">Week 9 - May 29</a></h2>
 				<section id="week9" class="agenda-week">
 					<ul>
 						<li>FORM info to EMAIL via cgi/php/pl
@@ -803,7 +804,7 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
 
-				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10</a></h2>
+				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10 - Jun 05</a></h2>
 				<section id="week10" class="agenda-week">
 					<aside><p>Week 10 Assignments</p></aside>
 					<ol class="assignment">

@@ -28,7 +28,7 @@
 
 			<div class="content">
 				<h2 class="content-subhead">Overview</h2>
-				<p>This course explores the principles and techniques for created modern web sites using HTML, CSS and javascript.</p>
+				<p>This course explores the principles and techniques for created modern web sites using HTML5, CSS3 and Javascript.</p>
 
 				<h2 class="content-subhead">Instructors</h2>
 				<table class="pure-table pure-table-bordered pure-table-striped">
@@ -76,7 +76,7 @@
 
 
 				<h2 class="content-subhead">Learning Objectives</h2>
-				<p>By the end of the course, the successful student will understand the rules and principles of modern web design.</p>
+				<p>By the end of the course, the successful student will understand the rules and principles of modern web design and development.</p>
 
 
 				<h2 class="content-subhead">Course Format</h2>
@@ -89,7 +89,7 @@
 
 
 				<h2 class="content-subhead">Communication</h2>
-				<p>Any and all course email to instructor(s) must be sent from student drexel email account with “wbdv240″ somewhere in the meaningful subject area. (i.e. subject = “wbdv240-001 Help with timer”). Students must keep a copy of all email correspondence for their records.</p>
+				<p>Any and all course email to instructor(s) must be sent from student drexel email account with "wbdv240" somewhere in the meaningful subject area. (i.e. subject = "wbdv240-001 Help with float"). Students must keep a copy of all email correspondence for their records.</p>
 
 
 				<h2 class="content-subhead">Final Project</h2>
@@ -151,12 +151,12 @@
 
 
 				<h2 class="content-subhead">Grading Policy</h2>
-				<p>Grading is based upon attendance, class participation, homework assignments, class projects, and a final exam.</p>
+				<p>Grading is based upon attendance, class participation, homework assignments (5 x 8 pts each = 40), midterm (20), and final project (40).</p>
 				<p>
 					Homework Projects, based upon skill sets covered in each lesson, will be due by midnight the night before the following class. Each homework assignment is graded based on technique, creativity and being submitted on time.
 				</p>
 				<p>
-					The dates your assignments are due are indicated clearly in this course outline. Assignments are due on those dates unless you have submitted a written request for an extension at least one class before the assignment is due. <b><u>Late assignments receive zero points, no exceptions</u></b>.
+					The dates your assignments are due are indicated clearly in this course outline. Assignments are due on those dates unless you have submitted a written request for an extension at least one class before the assignment is due. <strong>Late assignments receive a 50&percnt; reduction in points, no exceptions</strong>.
 				</p>
 				<p>
 					Homework and Project grades based upon three criteria, Specifications, Content, and Creativity, broken down as follows:

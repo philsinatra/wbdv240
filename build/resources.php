@@ -341,9 +341,28 @@
 				<hr class="soften">
 				<h1>
 					<img src="https://cdn1.iconfinder.com/data/icons/web2/Icons/delicious_512x512.png" alt="Delicious Links" width="48" height="48" valign="middle">
-					<a href="https://delicious.com/philsinatra" target="_blank">Delicious Links</a>
+					<a href="https://delicious.com/" target="_blank">Delicious Links</a>
 				</h1>
 				<p>A collection of web tools, tutorials, and helpful links.</p>
+				<table class="pure-table pure-table-horizontal striped">
+				<thead>
+					<tr>
+						<th>Owner</th>
+						<th>Link</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Phil Sinatra</td>
+						<td><a href="https://delicious.com/philsinatra" target="_blank">delicious.com/philsinatra</a></td>
+					</tr>
+					<tr>
+						<td>Jervis Thompson</td>
+						<td><a href="https://delicious.com/jervo/wbdv240" target="_blank">delicious.com/jervo/wbdv240</a></td>
+					</tr>
+
+				</tbody>
+				</table>
 				<hr class="soften">
 
 				<h2 class="content-subhead">Additional Helpful Links</h2>

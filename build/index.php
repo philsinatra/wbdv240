@@ -38,7 +38,7 @@
 					<p>
 							<a href="//github.com/philsinatra/wbdv240" target="_blank">View on GitHub</a>
 							<span class="muted">|</span>
-							<span class="muted">Version 2.0.0</span>
+							<span class="muted">Version 2.1.0</span>
 					</p>
 					</div>
 			</div>

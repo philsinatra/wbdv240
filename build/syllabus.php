@@ -6,7 +6,7 @@
 
 	<div id="layout" class="pure-g-r">
 		<a href="#menu" id="menuLink" class="pure-menu-link">
-			<img src="img/navicon-png2x.png" width="20" alt="Menu toggle">
+			<img src="images/navicon-png2x.png" width="20" alt="Menu toggle">
 		</a>
 
 		<!-- Side Menu -->
@@ -29,7 +29,7 @@
 			<div class="content">
 				<h2 class="content-subhead">Overview</h2>
 				<p>This course explores the principles and techniques for created modern web sites using HTML5, CSS3 and Javascript.</p>
-
+				<div align="center"><img src="images/htmlcssjs.png" alt="HTML5 CSS3 JS"></div>
 				<h2 class="content-subhead">Instructors</h2>
 				<table class="pure-table pure-table-bordered pure-table-striped">
 			    <thead>

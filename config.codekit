@@ -109,6 +109,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/build\/images\/htmlcssjs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31622,
+		"inputAbbreviatedPath": "\/build\/images\/htmlcssjs.png",
+		"outputAbbreviatedPath": "\/build\/images\/htmlcssjs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/build\/img\/navicon-png2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1320,8 +1331,8 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "wbdv240",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "wbdv240 github mstr",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "pencil_gray"
 	},
 "projectSettings": {

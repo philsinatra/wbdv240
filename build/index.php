@@ -13,7 +13,7 @@
 
 	<div id="layout" class="pure-g-r">
 		<a href="#menu" id="menuLink" class="pure-menu-link">
-			<img src="img/navicon-png2x.png" width="20" alt="Menu toggle">
+			<img src="images/navicon-png2x.png" width="20" alt="Menu toggle">
 		</a>
 
 		<!-- Side Menu -->

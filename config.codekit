@@ -120,13 +120,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/build\/img\/navicon-png2x.png": {
+	"\/build\/images\/navicon-png2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 121,
-		"inputAbbreviatedPath": "\/build\/img\/navicon-png2x.png",
-		"outputAbbreviatedPath": "\/build\/img\/navicon-png2x.png",
+		"inputAbbreviatedPath": "\/build\/images\/navicon-png2x.png",
+		"outputAbbreviatedPath": "\/build\/images\/navicon-png2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1333,7 +1333,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "wbdv240 github mstr",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "pencil_gray"
+	"iconImageName": "pencil_blue"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,

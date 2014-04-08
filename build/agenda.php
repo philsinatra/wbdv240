@@ -98,7 +98,7 @@
 										<ul>
 											<li>Five paragraphs about your work in whatever your professional career or studies are related to</li>
 											<li>Five pictures or graphics of your work</li>
-											<li>Three videos showing your work</li>
+											<li>Three videos of you or your work</li>
 										</ul>
 									</dd>
 									<dt>Contact Information</dt>
@@ -143,7 +143,8 @@
 						Site of the Week
 					</p>
 					<ul>
-						<li><a href="https://vimeo.com/ondemand/" target="_blank">Vimeo OnDemand</a></li>
+						<!-- <li><a href="https://vimeo.com/ondemand/" target="_blank">Vimeo OnDemand</a></li> -->
+						<li>DIGM hallway status board <a href="https://docs.google.com/forms/d/1APPZuXaoYscu980Npnn104QAvFwYGYSh122waZgwCuk/viewform" target="popWin">SURVEY</a></li>
 					</ul>
 					<p>
 						Today
@@ -208,8 +209,9 @@
 								<p>
 									Make sure you are using your html tags properly and that they are properly nested. Do not worry about visual design, focus on adding content and HTML syntax/nesting.
 								</p>
-								<h2>Extra Credit</h2>
-								<p>There is an extra credit opportunity available with this assignment. For two additional points, create a simple set of links on all of your html pages that allows the user to navigate from one page to another. All of your pages have to have links to all of your other pages.</p>
+								<p>
+									Create a simple set of links on all of your html pages that allows the user to navigate from one page to another. All of your pages have to have links to all of your other pages.
+								</p>
 							</div>
 						</li>
 						<li>
@@ -241,11 +243,12 @@
 						How to turn in homework
 					</h3>
 					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk01s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
+					<p>In the body of your email message put the following:</p>
 					<ul>
-						<li>Valid URL direct link to your web "index.html" page.</li>
-						<li>Attach your site map zip file.</li>
+						<li>A valid URL direct link to your web "index.html" page.</li>
+						<li>A valid URL direct link to your sitemap image file.</li>
 					</ul>
-					<dl>
+<!-- 					<dl>
 						<dt>
 							Valid URL direct link to each web page
 						</dt>
@@ -258,7 +261,7 @@
 						<dd>
 							Put all files related to your site map in a folder and zip that folder. Attach the zip file to the email you submit with your page links.
 						</dd>
-					</dl>
+					</dl> -->
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>

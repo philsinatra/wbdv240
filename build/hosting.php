@@ -42,7 +42,7 @@
 							<li>Free Domain privacy for life. (valued at $5.99 per month ).</li>
 							<li>Rates never increase for life of plan even after student graduates.</li>
 						</ul>
-						<a class="pure-button pure-button-primary" href="http://bluehost.com/cgi/spoke/Drexel_DIGM/" target="_blank"><b>Sign Up With BlueHost</b></a>
+						<a class="pure-button pure-button-primary" href="http://www.bluehost.com/cgi/spoke/drexeldigm/" target="_blank"><b>Sign Up With BlueHost</b></a><br /> "just enter your .edu address"
 					</div>
 				</div>
 

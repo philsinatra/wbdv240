@@ -257,6 +257,11 @@
 							  <td>Plugin for creating side menus</td>
 							</tr>
 							<tr>
+							  <td><a href="http://superherojs.com/" target="_blank">SuperHeroJS</a></td>
+							  <td>JS</td>
+							  <td>Creating, testing and maintaining JavaScript - articles, videos and presentations</td>
+							</tr>
+							<tr>
 							  <td><a href="http://www.balsamiq.com/products/mockups" target="_blank">Balsamiq Mockups</a></td>
 							  <td>Wireframeing</td>
 							  <td>Using Mockups feels like drawing, but because it’s digital, you can tweak and rearrange easily</td>

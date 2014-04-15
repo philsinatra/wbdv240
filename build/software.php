@@ -40,8 +40,8 @@
 								<li>Editors
 								<ul>
 									<li>TextEdit</li>
-									<li><a href="http://sublimetext.com/2" target="_blank">Sublime Text 2</a></li>
-									<li><a href="http://brackets.io/" target="_blank">Adobe Brackets</a></li>
+									<li><a href="#sec-sublime">Sublime Text 2</a></li>
+									<li><a href="#sec-brackets">Adobe Brackets</a></li>
 									<li><a href="http://barebones.com/products/bbedit/index.html?utm_source=thedeck&amp;utm_medium=banner&amp;utm_campaign=bbedit" target="_blank">BBEdit</a></li>
 									<li><a href="http://panic.com/coda/" target="_blank">Coda</a></li>
 									<li><a href="http://barebones.com/products/TextWrangler/" target="_blank">TextWrangler</a></li>
@@ -81,8 +81,8 @@
 								<li>Editors
 								<ul>
 									<li>Notepad</li>
-									<li><a href="http://sublimetext.com/2" target="_blank">Sublime Text 2</a></li>
-									<li><a href="http://brackets.io/" target="_blank">Adobe Brackets</a></li>
+									<li><a href="#sec-sublime">Sublime Text 2</a></li>
+									<li><a href="#sec-brackets">Adobe Brackets</a></li>
 									<li><a href="http://notepad-plus-plus.org" target="_blank">Notepad++</a></li>
 									<li><a href="http://adobe.com/uk/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a></li>
 								</ul>
@@ -100,6 +100,7 @@
 
 				<hr class="soften">
 
+				<a id="sec-sublime"></a>
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
@@ -206,7 +207,7 @@
 				</section>
 
 
-
+				<a id="sec-brackets"></a>
 				<hr class="soften">
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">

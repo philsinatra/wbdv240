@@ -51,6 +51,7 @@ Thumbs.db
 *.ibook
 
 build/roster/
+support/wbdv240_ppt/
 sftp-config.json
 *.sublime-project
 *.sublime-workspace

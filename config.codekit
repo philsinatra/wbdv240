@@ -271,6 +271,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/build\/roster\/images\/wbdv240-1404-s001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190165,
+		"inputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1404-s001.jpg",
+		"outputAbbreviatedPath": "\/build\/roster\/images\/wbdv240-1404-s001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/build\/roster\/wbdv240-1304-s001.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -325,6 +336,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/build\/roster\/wbdv240-1404-s001.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/roster\/wbdv240-1404-s001.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/build\/software.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -339,6 +359,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/syllabus.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w02-instructor\/local_html\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w02-instructor\/local_html\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w02-instructor\/local_html\/resume.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w02-instructor\/local_html\/resume.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

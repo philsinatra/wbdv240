@@ -44,6 +44,7 @@
 										<li>Official Website: <a href="http://www.htmlandcssbook.com/" target="_blank">http://www.htmlandcssbook.com/</a></li>
 										<li>Amazon: <a href="http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189%3FSubscriptionId%3DAKIAJYKJBAJTAUI7IXAQ%26tag%3Dcoursekit-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1118008189" target="_blank">amazon.com</a></li>
 										<li>Electronic Version: <a href="http://innoserv.library.drexel.edu/search~S9?/tHTML+and+CSS:+Design+and+Build+Websites/thtml+and+css+design+and+build+websites/1%2C1%2C2%2CB/frameset&amp;FF=thtml+and+css+design+and+build+websites&amp;1%2C%2C2" target="_blank">Haggerty Library</a>.</li>
+										<li>Chapter <a href="http://digm.drexel.edu/crs/wbdv240/wbdv240_ppt.zip">PPT slideshows</a></li>
 									</ul>
 								</div>
 						</div>

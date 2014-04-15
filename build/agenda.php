@@ -286,20 +286,20 @@
 					</p>
 					<ul>
 						<li>Homework reading assignment review</li>
-						<li>Links
+						<li>Links - <a href="http://www.w3schools.com/tags/tag_a.asp" target="_blank">&lsaquo;a&rsaquo; tag/element</a>
 						<ul>
 							<li>Link to other pages</li>
 							<li>Link to other sites</li>
 							<li>Link to specific part of a page</li>
 							<li>Target windows</li>
-							<li>Email </li>
+							<li>Email</li>
 							<li>Navigation</li>
 							<li>Principles</li>
 							<li>Goals</li>
-							<li>Types </li>
+							<li>Types</li>
 						</ul>
 						</li>
-						<li>Images
+						<li>Images - <a href="http://www.w3schools.com/html/html_images.asp" target="_blank">&lsaquo;img&rsaquo; tag/element</a>
 						<ul>
 							<li>Visual echo</li>
 							<li>Avoid cliche</li>
@@ -311,7 +311,7 @@
 							<li><a href="//philsinatra.com/videos/dialmegformurder/stockphotos.m4v" target="_blank">stock photos</a></li>
 						</ul>
 						</li>
-						<li>Tables
+						<li>Tables - <a href="http://www.w3schools.com/html/html_tables.asp" target="_blank">&lsaquo;table&rsaquo; tags/elements</a>
 						<ul>
 							<li>Structure</li>
 							<li>Border &amp; Background</li>
@@ -322,7 +322,7 @@
 							<li>Long tables</li>
 						</ul>
 						</li>
-						<li>Forms
+						<li>Forms - <a href="http://www.w3schools.com/html/html_forms.asp" target="_blank">&lsaquo;form&rsaquo; tags/elements</a>
 						<ul>
 							<li>form structure</li>
 							<li>input</li>
@@ -384,10 +384,13 @@
 									<li>.jpg file format</li>
 								</ul>
 								<p>
-									Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
+									Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary. Put all image files into one folder and zip that folder.
 								</p>
 								<p>
 									File names for your wireframe images should be in this format: <b>wbdv240s###_jwt123_wireframe_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
+								</p>
+								<p>
+									Folder name should be in this format: <b>wbdv240s###_jwt123_wireframes</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix.
 								</p>
 							</div>
 						</li>
@@ -399,7 +402,7 @@
 					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk02s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
-						<li>Attach your wireframe zip file.</li>
+						<li>Valid URL direct link to your wireframe zip file.</li>
 					</ul>
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
@@ -412,6 +415,34 @@
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
+					<ol>
+						<li>Add a picture of yourself above the first paragraph of your "bio" page.
+							<ul>
+								<li>320w by 320h px</li>
+								<li>72 dpi</li>
+								<li>rgb mode</li>
+							</ul>
+						</li>
+						<li>Add a table of your weekday classes to the bottom of your "bio" page.
+							<ul>
+								<li>Title = "Class Schedule"</li>
+								<li>Row headers = "Monday" - "Friday"</li>
+								<li>Columns = As many as needed</li>
+							</ul>
+						</li>
+						<li>Add a form to your "contact" page to collect the following information from your visitors.
+							<ul>
+								<li>First name</li>
+								<li>Last Name</li>
+								<li>Email address</li>
+								<li>Web site URL</li>
+								<li>Favorite color (radio buttons)</li>
+								<li>Computers and Mobile device usage (checkboxes)</li>
+								<li>Comment (text area)</li>
+								<li>Submit button that does NOT submit</li>
+							</ul>
+						</li>
+					</ol>
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 4 - Apr 24</a></h2>

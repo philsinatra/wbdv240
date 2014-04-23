@@ -53,7 +53,7 @@
 								<div class="l-box">
 									<h2 class="content-subhead">Amazon Student</h2>
 									<p>Amazon Student members receive benefits such as six months of FREE Two-Day Shipping with Amazon Prime, and e-mail alerts for discounts and promotions. Current Amazon Prime members can also join the program. Discounts and promotions will be e-mailed to your Amazon.com e-mail account or made available on the Amazon Student membership page.</p>
-									<p><a href="http://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=DLJAQIXKJ6IM56X73TTP4RDUJI&ref_type=generic" target="_blank" class="pure-button">Amazon Student</a></p>
+									<p><a href="http://www.amazon.com/gp/student/signup/info?ie=UTF8&amp;refcust=DLJAQIXKJ6IM56X73TTP4RDUJI&amp;ref_type=generic" target="_blank" class="pure-button">Amazon Student</a></p>
 									<h2 class="content-subhead">Other Great Books</h2>
 									<ul>
 										<li><a href="http://www.abookapart.com/products/" target="_blank">A Book Apart</a></li>

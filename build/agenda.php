@@ -426,8 +426,7 @@
 						<li>Add a table of your weekday classes to the bottom of your "bio" page.
 							<ul>
 								<li>Title = "Class Schedule"</li>
-								<li>Row headers = "Monday" - "Friday"</li>
-								<li>Columns = As many as needed</li>
+								<li>Row headers = "Hours", "Monday" - "Friday"</li>
 							</ul>
 						</li>
 						<li>Add a form to your "contact" page to collect the following information from your visitors.
@@ -489,7 +488,7 @@
 							<li>Reset</li>
 						</ul>
 						</li>
-						<li>Color (<a href="https://kuler.adobe.com/#themes/random?time=30" target="_blank">Kuler</a>)
+						<li>Color (<a href="https://kuler.adobe.com/" target="_blank">Kuler</a>)
 						<ul>
 							<li>Design Emotion</li>
 							<li>Wheels</li>

@@ -460,7 +460,7 @@
 					</p>
 
 					<ul>
-						<li>Elements
+						<li><a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elements/Tags</a>
 						<ul>
 							<li>meta</li>
 							<li>block</li>
@@ -477,7 +477,7 @@
 							<li>footer</li>
 						</ul>
 						</li>
-						<li>CSS
+						<li><a href="http://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
 						<ul>
 							<li>CSS definition</li>
 							<li>Structure</li>
@@ -496,6 +496,7 @@
 							<li>Proportions</li>
 							<li>Inspiration</li>
 							<li>Defaults</li>
+							<li><a href="http://www.rocket-design.fr/color-template/" target="_blank">Color Template</a></li>
 						</ul>
 						</li>
 					</ul>
@@ -514,6 +515,9 @@
 								<p>
 									File names for your style tile images should be in this filename format: <b>wbdv240s###_jwt123_styletiles_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
 								</p>
+								<p>
+									Folder name should be in this format: <b>wbdv240s###_jwt123_styletiles</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix.
+								</p>
 							</div>
 						</li>
 						<li>
@@ -527,7 +531,7 @@
 									<li><a href="http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box.html" target="_blank">http://htmlandcssbook.com/code-samples/chapter-10/thinking-inside-the-box.html</a></li>
 								</ul>
 								<p>
-									Attach a master stylesheet to all of your web pages.
+									Attach a main/master stylesheet to all of your web pages.
 								</p>
 								<p>
 									Apply color and other css styles to tags and elements in all your pages using CSS techniques covered in your reading assignment and in class.
@@ -537,7 +541,7 @@
 						<li>
 							<div class="assignment-title"><b>Embed Videos</b>: Due: Midnight the night before next class</div>
 							<div class="assignment-info">
-								<p>Embed all of your Vimeo videos in appropriate pages. Make sure that video controllers match your color scheme and resize proportionally to page wide.</p>
+								<p>Embed all of your <strong>Vimeo</strong> videos in appropriate pages. Make sure that video controllers match your color scheme and resize proportionally to page wide.</p>
 							</div>
 						</li>
 					</ol>
@@ -548,7 +552,7 @@
 					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk03s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
-						<li>Attach your style tiles zip file.</li>
+						<li>Valid URL direct link to your style tiles zip file.</li>
 					</ul>
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
@@ -581,7 +585,7 @@
 							<li>font-size</li>
 							<li>font-style</li>
 							<li>font-weight</li>
-							<li>:hover/visited/focus/active</li>
+							<li>:link/visited/hover/active</li>
 							<li>first letter and line</li>
 							<li>line-height</li>
 							<li>letter and word spacing</li>
@@ -634,13 +638,16 @@
 							<div class="assignment-title"><b>Midterm - Full Size Comp</b>: Due Midnight the night before next class</div>
 							<div class="assignment-info">
 								<p>
-									Refine your style tiles into a full size totally polished web design. This comp should look like a screen grab. This means no dummy text, actual art work, final font sizes, family and spacing well adjusted. You will need to show multiple screens (home page, portfolio page, single project page, etc).
+									Refine your style tiles into a full size totally polished web design. This comp should look like a screen grab. This means no dummy text, actual art work, final font sizes, family and spacing well adjusted. You will need to show multiple screens (home page, portfolio page, single project page, contact page, etc).
 								</p>
 								<p>
-									Zip all files into one zip file. Make sure to rotate your images so they are easy to read, and enhance the levels/contrast if necessary.
+									Zip all files into one zip file.
 								</p>
 								<p>
 									File names for your full size comp midterm images should be in this filename format: <b>wbdv240s###_jwt123_fullcomp_01.jpg</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix. Update file number 01 as needed]
+								</p>
+								<p>
+									Folder name should be in this format: <b>wbdv240s###_jwt123_fullcomps</b> [replace ### with your class section number, replace jwt23 with your Drexel email account prefix.
 								</p>
 							</div>
 						</li>
@@ -652,8 +659,8 @@
 					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240midterms###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
+						<li>Valid URL direct link to your full comp midterm zip file.</li>
 						<li>Valid URL direct link to at least three web sites that inspire your web site design</li>
-						<li>Attach your full comp midterm zip file.</li>
 					</ul>
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>

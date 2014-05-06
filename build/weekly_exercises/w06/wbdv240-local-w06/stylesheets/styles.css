@@ -27,7 +27,7 @@ body {
 	margin-left: 3%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 320px) {
 	.span-one-third {
 		margin-bottom: 10px;
 	}

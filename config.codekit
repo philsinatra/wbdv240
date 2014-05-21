@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16903",
+"creatorBuild": "16921",
 "files": {
 	"\/build\/_template.html": {
 		"fileType": 8192,
@@ -607,6 +607,302 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/ans-explore.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87930,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/ans-explore.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/ans-explore.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/flight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117852,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/flight.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/flight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/mechination.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222053,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/mechination.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/mechination.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/nightshift.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50443,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/nightshift.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/nightshift.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/scrapple-tv.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153926,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/scrapple-tv.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/scrapple-tv.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/smackdown.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73220,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/smackdown.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/smackdown.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/within-a-dream.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124179,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/within-a-dream.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-sml\/within-a-dream.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/ans-explore.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38912,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/ans-explore.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/ans-explore.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/flight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104806,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/flight.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/flight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/mechination.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291832,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/mechination.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/mechination.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/scrapple-tv.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177127,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/scrapple-tv.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/scrapple-tv.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/within-a-dream.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114188,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/within-a-dream.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/images\/sp2013-xxl\/within-a-dream.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/index_lightbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/index_lightbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/index_slideshow.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/index_slideshow.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/js\/jquery-1.9.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/js\/jquery-1.9.0.min.js",
+		"outputAbbreviatedPath": "\/build\/js\/jquery-1.9.0.min.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/js\/responsiveslides.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/js\/responsiveslides.min.js",
+		"outputAbbreviatedPath": "\/build\/js\/responsiveslides.min.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/fancybox_overlay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/fancybox_overlay.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/fancybox_overlay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/fancybox_sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1362,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/fancybox_sprite.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/fancybox_sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/fancybox_buttons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1080,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/fancybox_buttons.png",
+		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/fancybox_buttons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.js",
+		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox-buttons.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-media.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-media.js",
+		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox-media.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.js",
+		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox-thumbs.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/jquery.fancybox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/jquery.fancybox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/jquery.fancybox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/jquery.fancybox.js",
+		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/jquery.fancybox.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07-instructor\/wbdv240-local-w07-done\/source\/jquery.fancybox.pack.js",
+		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox.pack.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/build\/weekly_exercises\/w07\/jquery_showhide.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -615,302 +911,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/ans-explore.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 87930,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/ans-explore.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/ans-explore.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/flight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117852,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/flight.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/flight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/mechination.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 222053,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/mechination.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/mechination.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/nightshift.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 50443,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/nightshift.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/nightshift.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/scrapple-tv.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 153926,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/scrapple-tv.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/scrapple-tv.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/smackdown.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 73220,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/smackdown.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/smackdown.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/within-a-dream.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 124179,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/within-a-dream.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-sml\/within-a-dream.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/ans-explore.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38912,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/ans-explore.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/ans-explore.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/flight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 104806,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/flight.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/flight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/mechination.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 291832,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/mechination.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/mechination.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/scrapple-tv.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 177127,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/scrapple-tv.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/scrapple-tv.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/within-a-dream.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 114188,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/within-a-dream.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/images\/sp2013-xxl\/within-a-dream.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/index_lightbox.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/index_lightbox.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/index_slideshow.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/index_slideshow.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/js\/jquery-1.9.0.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/js\/jquery-1.9.0.min.js",
-		"outputAbbreviatedPath": "\/build\/js\/jquery-1.9.0.min.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/js\/responsiveslides.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/js\/responsiveslides.min.js",
-		"outputAbbreviatedPath": "\/build\/js\/responsiveslides.min.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/fancybox_overlay.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1003,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/fancybox_overlay.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/fancybox_overlay.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/fancybox_sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1362,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/fancybox_sprite.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/fancybox_sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/fancybox_buttons.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1080,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/fancybox_buttons.png",
-		"outputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/fancybox_buttons.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-buttons.js",
-		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox-buttons.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-media.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-media.js",
-		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox-media.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/helpers\/jquery.fancybox-thumbs.js",
-		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox-thumbs.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/jquery.fancybox.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/jquery.fancybox.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/jquery.fancybox.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/jquery.fancybox.js",
-		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/jquery.fancybox.pack.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w07\/wbdv240-local-w07-done\/source\/jquery.fancybox.pack.js",
-		"outputAbbreviatedPath": "\/build\/js\/jquery.fancybox.pack.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
 		},
 	"\/build\/weekly_exercises\/w07\/wbdv240-local-w07\/css\/style.css": {
 		"fileType": 16,
@@ -1197,6 +1197,73 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/build\/weekly_exercises\/w08-instructor\/wbdv240-local-w08-done\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08-instructor\/wbdv240-local-w08-done\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w08-instructor\/wbdv240-local-w08-done\/devtools_console.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08-instructor\/wbdv240-local-w08-done\/devtools_console.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w08-instructor\/wbdv240-local-w08-done\/js\/responsiveslides.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08-instructor\/wbdv240-local-w08-done\/js\/responsiveslides.min.js",
+		"outputAbbreviatedPath": "\/build\/js\/responsiveslides.min.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/devtools_console.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/devtools_console.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/devtools_inspector.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/devtools_inspector.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/js\/responsiveslides.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/weekly_exercises\/w08\/wbdv240-local-w08\/js\/responsiveslides.min.js",
+		"outputAbbreviatedPath": "\/build\/js\/responsiveslides.min.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/build\/weekly_exercises\/w09\/local_html\/sampleform.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1460,6 +1527,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"no_empty_param_list": {
 			"active": 0,
 			"flagValue": -1
@@ -1469,6 +1544,10 @@
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1494,6 +1573,10 @@
 			},
 		"no_trailing_whitespace": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"non_empty_constructor_needs_parens": {
@@ -1614,10 +1697,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"gcl": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"globalstrict": {
 			"active": 0,
 			"flagValue": -1
@@ -1730,10 +1809,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"onevar": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -1770,10 +1845,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"strict": {
 			"active": 0,
 			"flagValue": -1
@@ -1786,10 +1857,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -1800,10 +1867,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"white": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {

@@ -792,7 +792,7 @@
 					<p><a href="weekly_exercises/w08/wbdv240-local-w08.zip" download="wbdv240-week8">Download</a> exercise files.</p>
 					<ul>
 						<li>Validating and Debugging</li>
-						<li>WC3 Validation Services <a href="http://validator.w3.org/" target="_blank">HTML</a> / <a href="http://csslint.net" target="_blank">CSS</a></li>
+						<li>WC3 Validation Services <a href="http://validator.w3.org/" target="_blank">HTML</a> / <a href="http://www.css-validator.org/" target="_blank">CSS</a></li>
 						<li><a href="https://developers.google.com/chrome-developer-tools/" target="_blank">Chrome Dev Tools</a>
 							<ul>
 								<li>Web Inspector</li>
@@ -833,11 +833,11 @@
 						<li>FORM info to EMAIL via cgi/php/pl
 							<ul>
 								<li>Hosting providers may have different methods of emailing form information.</li>
-								<li>If you can figure out how to successfully use your hosting provider form email system (with thank you page) you will receive +5 extra points.</li>
+								<li>If you can figure out how to successfully use your hosting provider form email system (with a form completion "thank you" page, full navigation menu) you will receive +5 extra points.</li>
 								<li>Professor assistance is available upon request; however, it will negate the extra points.</li>
 							</ul>
 						</li>
-						<li>Overview of setting up a functional form to email submit system with hosting provider "hostrocket.com".</li>
+						<li>Overview of setting up a functional form to email submit system with hosting provider i.e. "hostrocket.com".</li>
 					</ul>
 
 					<h2 class="content-subhead">Lab Time</h2>
@@ -846,10 +846,14 @@
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10 - Jun 05</a></h2>
 				<section id="week10" class="agenda-week">
+					<h3 class="written">
+						Final Project Review/Critue:
+					</h3>
+					<p>In class critique of final project websites.</p>
 					<aside><p>Week 10 Assignments</p></aside>
 					<ol class="assignment">
 						<li>
-							<div class="assignment-title"><b>Final Project</b>: Due Midnight the night before next class</div>
+							<div class="assignment-title"><b>Final Project</b>: Due Friday June 13th before midnight!</div>
 							<div class="assignment-info">
 								<p>
 									Using course syllabus guidelines and topics covered in class, complete your final project web site.

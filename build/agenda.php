@@ -833,7 +833,7 @@
 						<li>FORM info to EMAIL via cgi/php/pl
 							<ul>
 								<li>Hosting providers may have different methods of emailing form information.</li>
-								<li>If you can figure out how to successfully use your hosting provider form email system (with a form completion "thank you" page, full navigation menu) you will receive +5 extra points.</li>
+								<li>If you can figure out how to successfully use your hosting provider form email system (with a form completion "thank you" page - full navigation menu) you will receive +5 extra points.</li>
 								<li>Professor assistance is available upon request; however, it will negate the extra points.</li>
 							</ul>
 						</li>

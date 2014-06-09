@@ -91,6 +91,13 @@
 				<h2 class="content-subhead">Communication</h2>
 				<p>Any and all course email to instructor(s) must be sent from student drexel email account with "wbdv240" somewhere in the meaningful subject area. (i.e. subject = "wbdv240-001 Help with float"). Students must keep a copy of all email correspondence for their records.</p>
 
+				<h2 class="content-subhead">Appointments</h2>
+				<ol>
+					<li>Review instructor <a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a> Calendar.</li>
+					<li>Send instructor an email with the info of an open time slot that's good for you.</li>
+					<li>NOTE: Instructors require AT LEAST 48 hours notice to schedule an appointment</li>
+					<li>Instructor will email you back with a confirmation and update his/her calendar.</li>
+				</ol>
 
 				<h2 class="content-subhead">Final Project</h2>
 					<h3>Static HTML portfolio website</h3>

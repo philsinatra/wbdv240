@@ -55,3 +55,4 @@ build/sftp-config.json
 support/wbdv240_ppt/
 *.sublime-project
 *.sublime-workspace
+config.codekit

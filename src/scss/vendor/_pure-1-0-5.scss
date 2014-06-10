@@ -48,6 +48,7 @@ dt {
 }
 dd {
     margin: 0 0 10px 0;
+    line-height: 1.8;
 }
 
 /* --------------------------
@@ -136,8 +137,8 @@ aside {
 }
     .content p {
         //line-height: 1.6em;
-        line-height: 1.4;
-        font-size: 115%;
+        line-height: 1.8;
+        // font-size: 115%;
     }
 
     .content .content-subhead {

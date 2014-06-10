@@ -4,6 +4,13 @@
 @import "vendor/pure-1-0-5";
 
 @import "vendor/font-awesome";
+
+@mixin fade_transition($property) {
+  @include transition-property($property);
+  @include transition-duration(0.3s);
+  @include transition-timing-function(ease-in-out);
+}
+
 @font-face {
 	font-family: 'proxima_novalight';
 	src: url('../fonts/proximanova-light-webfont.eot');
@@ -18,11 +25,17 @@
 @import "vendor/genericons";
 
 body {
-	font-family: 'proxima_novalight', Arial, sans-serif;
+	font-family: museo-slab, 'proxima_novalight', Arial, sans-serif;
+	font-weight: lighter;
 
 	@media screen and (min-width: 768px) {
 		margin-bottom: 80px;
 	}
+}
+
+a:hover {
+	color: darken($pcolor, 20%);
+	@include fade_transition(color);
 }
 
 #div_chart {
@@ -38,6 +51,11 @@ hr.soften {
   background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
   background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
   border: 0;
+}
+
+.pure-button {
+	font-family: 'proxima_novalight', Arial, sans-serif;
+	font-weight: 700;
 }
 
 .pure-button-success,
@@ -85,6 +103,7 @@ a.btn-week, a.btn-student {
 	border: 1px solid $pcolor;
 	cursor: pointer;
 	display: block;
+	font-family: 'proxima_novalight', Arial, sans-serif;
 	padding: .5em;
 	@include transition (background-color 0.3s ease-in-out);
 

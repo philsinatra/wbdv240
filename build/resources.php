@@ -269,8 +269,18 @@
 							</tr>
 							<tr>
 							  <td><a href="http://styletil.es" target="_blank">Style Tiles</a></td>
-							  <td>Prototyping</td>
+							  <td>Art Direction</td>
 							  <td>Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web</td>
+							</tr>
+							<tr>
+								<td><a href="http://danielmall.com/articles/visual-inventory/" target="_blank">Visual Inventory</a> </td>
+								<td>Art Direction</td>
+								<td>A design deliverable for the post-PSD era of responsive design</td>
+							</tr>
+							<tr>
+								<td><a href="http://danielmall.com/articles/rif-element-collages/" target="_blank">Element Collages</a></td>
+								<td>Art Direction</td>
+								<td>An abstract way to document design.</td>
 							</tr>
 							<tr>
 							  <td><a target="_blank" href="https://kuler.adobe.com">Adobe Kuler</a></td>
@@ -337,6 +347,21 @@
 								<td>Project Management</td>
 								<td>Screener for ferreting out whether you’re talking to the right clients or not</td>
 							</tr>
+							<tr>
+								<td><a href="https://github.com/sketchplugins/plugin-directory" target="_blank">Sketch Plugins</a></td>
+								<td>Sketch</td>
+								<td>A list of Sketch plugins hosted at GitHub, in no particular order.</td>
+							</tr>
+							<tr>
+								<td><a href="https://github.com/tylergaw/day-player" target="_blank">Day Player</a></td>
+								<td>Sketch</td>
+								<td>A collection of Sketch Plugins for creating placeholder images.</td>
+							</tr>
+							<tr>
+								<td><a href="https://github.com/timuric/Content-generator-sketch-plugin" target="_blank">Content Generator</a></td>
+								<td>Sketch</td>
+								<td>Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.</td>
+							</tr>
 						</tbody>
 						</table>
 					</div>
@@ -350,7 +375,7 @@
 					<a href="https://delicious.com/" target="_blank">Delicious Links</a>
 				</h1>
 				<p>A collection of web tools, tutorials, and helpful links.</p>
-				<table class="pure-table pure-table-horizontal striped">
+				<table class="pure-table pure-table-horizontal">
 				<thead>
 					<tr>
 						<th>Owner</th>

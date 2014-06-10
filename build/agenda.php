@@ -455,9 +455,13 @@
 					<p>
 						Today
 					</p>
-						<p>
-						<a href="weekly_exercises/w04/wbdv240-local-w04.zip" download="wbdv240-week4">Download</a> exercise files.
-					</p>
+					<ul>
+						<li><a href="weekly_exercises/w04/wbdv240-local-w04.zip" download="wbdv240-week4">Download</a> exercise files.</li>
+						<li><a href="http://styletil.es/" target="_blank">Style Tiles</a></li>
+						<li><a href="http://danielmall.com/articles/rif-element-collages/" target="_blank">Element Collages</a></li>
+						<li><a href="http://danielmall.com/articles/visual-inventory/" target="_blank">Visual Inventory</a></li>
+					</ul>
+
 
 					<ul>
 						<li><a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elements/Tags</a>

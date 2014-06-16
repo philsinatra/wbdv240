@@ -593,6 +593,7 @@
 					</ul>
 					<p>Today</p>
 					<p><a href="weekly_exercises/w05/wbdv240-local-w05.zip" download="wbdv240-week5">Download</a> exercise files.</p>
+					<p><a href="http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts" target="_blank">Box Sizing: The Secret to Simple Layouts</a></p>
 					<ul>
 						<li>Font
 						<ul>

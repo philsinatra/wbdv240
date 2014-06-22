@@ -851,7 +851,7 @@
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week10">Week 10 - Jun 05</a></h2>
 				<section id="week10" class="agenda-week">
 					<h3 class="written">
-						Final Project Review/Critue:
+						Final Project Review/Critique:
 					</h3>
 					<p>In class critique of final project websites.</p>
 					<aside><p>Week 10 Assignments</p></aside>

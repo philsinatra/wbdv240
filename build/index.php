@@ -84,8 +84,8 @@
 		function days_in_quarter() {
 			var oneDay       = 24*60*60*1000;
 			var today        = new Date();
-			var startDate    = new Date(2014,03,03); //year,month,day of first class session (month - 1; jan = 0)
-			var endDate      = new Date(2014,05,13); //year,month,day of last class session (month - 1; jan = 0)
+			var startDate    = new Date(2014,06,23); //year,month,day of first class session (month - 1; jan = 0)
+			var endDate      = new Date(2014,08,31); //year,month,day of last class session (month - 1; jan = 0)
 			var daysPast     = Math.round(Math.abs((today.getTime() - startDate.getTime())/(oneDay)));
 			var daysFuture   = Math.round(Math.abs((endDate.getTime() - today.getTime())/(oneDay)));
 			var doughnutData = [{value: daysPast, color:"#9c182f"},{value: daysFuture, color:"#1f8dd6"}];

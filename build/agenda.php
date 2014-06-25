@@ -131,11 +131,12 @@
 					<h3>
 						How to turn in homework
 					</h3>
-					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwkbios###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwkbios###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>A link to your registered domain (example: yourname.com)</li>
 						<li>Attach your biography word document, filename: wbdv240_bio_jwt23 (replace jwt23 with your Drexel email account prefix)</li>
-					</ul>
+					</ul> -->
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>

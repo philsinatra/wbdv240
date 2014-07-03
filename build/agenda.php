@@ -199,7 +199,11 @@
 						</li>
 					</ul>
 					<aside><p>Week 2 Assignments</p></aside>
-					<ol class="assignment">
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <ol class="assignment">
 						<li>
 							<div class="assignment-title"><b>Build First Pages</b>: Due Midnight the night before next class</div>
 							<div class="assignment-info">
@@ -259,7 +263,7 @@
 					<ul>
 						<li>A valid URL direct link to your web "index.html" page.</li>
 						<li>A valid URL direct link to your sitemap image file.</li>
-					</ul>
+					</ul> -->
 <!-- 					<dl>
 						<dt>
 							Valid URL direct link to each web page
@@ -274,7 +278,7 @@
 							Put all files related to your site map in a folder and zip that folder. Attach the zip file to the email you submit with your page links.
 						</dd>
 					</dl> -->
-					<hr class="soften">
+					<!-- <hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 4: Links</li>
@@ -282,7 +286,7 @@
 						<li>Read Chapter 6: Tables</li>
 						<li>Read Chapter 7: Forms</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 3</a></h2>
@@ -366,7 +370,11 @@
 					</ul>
 
 					<aside><p>Week 3 Assignments</p></aside>
-					<ol class="assignment">
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <ol class="assignment">
 						<li>
 							<div class="assignment-title"><b>Build Wireframes</b>: Due Midnight the night before next class</div>
 							<div class="assignment-info">
@@ -423,7 +431,7 @@
 						<li>Read Chapter 10: Introducing CSS</li>
 						<li>Read Chapter 11: Color</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -518,7 +526,11 @@
 					</ul>
 
 					<aside><p>Week 4 Assignments</p></aside>
-					<ol class="assignment">
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <ol class="assignment">
 						<li>
 							<div class="assignment-title"><b>Style Tiles</b>: Due Midnight the night before next class</div>
 							<div class="assignment-info">
@@ -578,7 +590,7 @@
 						<li>Read Chapter 14: Lists, Tables and Forms</li>
 					</ul>
 
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -650,7 +662,11 @@
 					</ul>
 
 					<aside><p>Week 5 Assignments</p></aside>
-					<ol class="assignment">
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <ol class="assignment">
 						<li>
 							<div class="assignment-title"><b>Midterm - Full Size Comp</b>: Due Midnight the night before next class</div>
 							<div class="assignment-info">
@@ -686,7 +702,7 @@
 						<li>Read Chapter 16: Images</li>
 						<li>Read Chapter 17: HTML Layout</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -734,7 +750,11 @@
 					</ul>
 
 					<aside><p>Week 6 Assignments</p></aside>
-					<p>
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <p>
 						<b>Comp Touch Ups</b>
 					</p>
 					<p>Cleanup and finalize you full comps based on classroom critiques. Complete detailed full comps are required to move forward in this course!</p>
@@ -746,7 +766,7 @@
 					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
-					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
+					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p> -->
 				</section>
 
 <!--
@@ -822,7 +842,11 @@
 					</ul>
 
 					<aside><p>Week 7 Assignments</p></aside>
-					<ol class="assignment">
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <ol class="assignment">
 						<li>
 							<div class="assignment-title"><b>Validated web page</b>: Due Midnight the night before next class</div>
 							<div class="assignment-info">
@@ -839,7 +863,7 @@
 					<p>Submit via your Drexel email account to your instructor email account, subject: "wbdv240hwk05s###jwt23" [replace ### with your class section number, replace jwt23 with your Drexel email account prefix]</p>
 					<ul>
 						<li>Valid URL direct link to your valid HTML/CSS page.</li>
-					</ul>
+					</ul> -->
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -877,7 +901,11 @@
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 
 					<aside><p>Week 10 Assignments</p></aside>
-					<ol class="assignment">
+					<h3>
+						How to turn in homework
+					</h3>
+					<p><a href="https://learn.dcollege.net/" target="bblearn">BBLearn</a></p>
+					<!-- <ol class="assignment">
 						<li>
 							<div class="assignment-title"><b>Final Project</b>: Due Friday June 13th before midnight!</div>
 							<div class="assignment-info">
@@ -903,7 +931,7 @@
 					<ul>
 						<li>Valid URL direct link to your final project web "index.html" page.</li>
 						<li>Valid URL direct link to download your final project zipped file.</li>
-					</ul>
+					</ul> -->
 
 				</section>
 			</div>

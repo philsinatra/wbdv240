@@ -29,7 +29,7 @@
 			<div class="content">
 				<h2 class="content-subhead">The PowerPoint Files</h2>
 				<p>Download a copy of the PowerPoint files used during class lectures:</p>
-				<p><a href="wbdv240_ppt.zip" download="Lecture Powerpoint Files" class="pure-button pure-button-warning">PPT Files</a></p>
+				<p><a href="wbdv240_ppt.zip" class="pure-button pure-button-warning">PPT Files</a></p>
 				<hr class="soften">
 				<h2 class="content-subhead">What is HTML?</h2>
 				<p>HTML is actually a really easy language to learn. with just a little bit of tutelage and a few tags, you could put together basic web pages within a hour! At it's core HTML is no more than telling the browser what the content is, ie: this is a paragraph, this is a headline, this is an image.</p>

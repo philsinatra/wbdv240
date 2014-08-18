@@ -278,7 +278,7 @@
 							Put all files related to your site map in a folder and zip that folder. Attach the zip file to the email you submit with your page links.
 						</dd>
 					</dl> -->
-					<!-- <hr class="soften">
+					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
 						<li>Read Chapter 4: Links</li>
@@ -286,7 +286,7 @@
 						<li>Read Chapter 6: Tables</li>
 						<li>Read Chapter 7: Forms</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 3</a></h2>
@@ -423,7 +423,7 @@
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Valid URL direct link to your wireframe zip file.</li>
-					</ul>
+					</ul> -->
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
@@ -431,7 +431,7 @@
 						<li>Read Chapter 10: Introducing CSS</li>
 						<li>Read Chapter 11: Color</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -581,7 +581,7 @@
 					<ul>
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Valid URL direct link to your style tiles zip file.</li>
-					</ul>
+					</ul> -->
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
@@ -590,7 +590,7 @@
 						<li>Read Chapter 14: Lists, Tables and Forms</li>
 					</ul>
 
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -694,7 +694,7 @@
 						<li>Valid URL direct link to your web "index.html" page.</li>
 						<li>Valid URL direct link to your full comp midterm zip file.</li>
 						<li>Valid URL direct link to at least three web sites that inspire your web site design</li>
-					</ul>
+					</ul> -->
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
@@ -702,7 +702,7 @@
 						<li>Read Chapter 16: Images</li>
 						<li>Read Chapter 17: HTML Layout</li>
 					</ul>
-					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p> -->
+					<p><small>Regarding your reading assignment, bring with you to class a single sheet of paper. This single piece of paper will have on it three MEANINGFUL questions from the reading assignment, the answer to each question and the page number the information came from. At the top of the page you will put your full name and Drexel email address. These questions will be used next class for an extra credit game. If you do not meet the listed requirements, you will NOT be eligible to participate and will NOT receive credit for the assignment.</small></p>
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -767,7 +767,7 @@
 
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p> -->
-				</section>
+
 
 <!--
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 7</a></h2>
@@ -810,7 +810,7 @@
 					</p>
 					<ul>
 						<li>Valid URL direct link to your slide show page.</li>
-					</ul>
+					</ul> -->
 					<hr class="soften">
 					<p><b>Reading Assignment</b>: Due: Prior to next class</p>
 					<ul>
@@ -823,7 +823,7 @@
 					<h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
 				</section>
--->
+
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week7">Week 7</a></h2>
 				<section id="week7" class="agenda-week">
 					<p>Today</p>

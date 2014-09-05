@@ -89,16 +89,16 @@
 
 
 				<h2 class="content-subhead">Communication</h2>
-				<p>Any and all course email to instructor(s) must be sent from student drexel email account with "wbdv240" somewhere in the meaningful subject area. (i.e. subject = "wbdv240-001 Help with float"). Students must keep a copy of all email correspondence for their records.</p>
+				<p>Any and all course email to instructor(s) must be sent from student drexel email account with &quot;wbdv240&quot; somewhere in the meaningful subject area. (i.e. subject = &quot;wbdv240-001 Help with float&quot;). Students must keep a copy of all email correspondence for their records.</p>
 
 				<h2 class="content-subhead">Appointments</h2>
 				<ol>
-					<li>Review instructor <a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a> Calendar.</li>
+					<li>Review instructor <a href="https://www.google.com/calendar/embed?src=fj02v2f4vn246mqj13022hntgs%40group.calendar.google.com&amp;ctz=America/New_York" target="_blank">Google</a> Calendar.</li>
 					<li>Send instructor an email with the info of an open time slot that's good for you.</li>
 					<li>NOTE: Instructors require AT LEAST 48 hours notice to schedule an appointment</li>
 					<li>Instructor will email you back with a confirmation and update his/her calendar.</li>
 				</ol>
-
+				<hr class="soften">
 				<h2 class="content-subhead">Final Project</h2>
 					<h3>Static HTML portfolio website</h3>
 					<p>Due Midnight before Week 11</p>
@@ -140,22 +140,20 @@
 							</p>
 						</dd>
 					</dl>
-
-
+					<hr class="soften">
 
 				<h2 class="content-subhead">Midterm Project</h2>
 				<h3>Full Size Web Comp</h3>
 				<p>Due Midnight before Week 5</p>
 				<p>Description: A fully polished web design static graphic that looks like a screen grab.</p>
-
+				<hr class="soften">
 
 				<h2 class="content-subhead">Extra Credit Project</h2>
 				<h3>Zen Garden</h3>
 				<p>Due Midnight before Week 11</p>
 				<p>Description: <a href="zen-garden.zip" download="Zen Garden" target="_blank">Download a copy</a> of the Zen Garden files and create your own version of the page. <b>You may modify the style sheet in any way you wish, but not the HTML.</b> Once you have completed your masterpiece (and please, don’t submit half-finished work) upload your files to your server and submit a link.</p>
 				<p>The subject of your submission email should be <b>wbdv240-xc-jhs123</b>. Replace jhs123 with your email prefix. Submissions not following this format will not be accepted. No exceptions.</p>
-
-
+				<hr class="soften">
 
 				<h2 class="content-subhead">Grading Policy</h2>
 				<p>Grading is based upon attendance, class participation, homework assignments (5 x 8 pts each = 40), midterm (20), and final project (40).</p>
@@ -163,8 +161,11 @@
 					Homework Projects, based upon skill sets covered in each lesson, will be due by midnight the night before the following class. Each homework assignment is graded based on technique, creativity and being submitted on time.
 				</p>
 				<p>
-					The dates your assignments are due are indicated clearly in this course outline. Assignments are due on those dates unless you have submitted a written request for an extension at least one class before the assignment is due. <strong>Late assignments receive a 50&percnt; reduction in points, no exceptions</strong>.
+					The dates your assignments are due are indicated clearly in this course outline. Assignments are due on those dates unless you have submitted a written request for an extension at least one class before the assignment is due. <strong>Late assignments receive 0 points, no exceptions</strong>.
 				</p>
+				<p style="font-size: 125%"><strong>Late assignments receive 0 points, no exceptions</strong></p>
+				<p style="font-size: 150%"><strong>Late assignments receive 0 points, no exceptions</strong></p>
+				<p style="font-size: 200%"><strong>Late assignments receive 0 points, no exceptions</strong></p>
 				<p>
 					Homework and Project grades based upon three criteria, Specifications, Content, and Creativity, broken down as follows:
 				</p>

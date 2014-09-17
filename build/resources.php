@@ -74,48 +74,6 @@
 						</div>
 				</div>
 
-				<h1>Instructors</h1>
-				<div class="pure-g-r instructor-contact">
-					<div class="pure-u-1-3">
-						<div class="l-box">
-							<h3>Jervis Thompson</h3>
-							<div class="avatar"><img src="images/avatar-jervo.jpg" alt="Jervo"></div>
-							<div class="contact-meta">
-								<a href="mailto:st966rc2@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
-								<a href="http://jervo.org" target="_blank"><i class="icon-globe icon-2x"></i></a>
-								<a href="http://www.linkedin.com/in/jervisthompson" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-								<a href="https://twitter.com/jervo" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="pure-u-1-3">
-						<div class="l-box">
-							<h3>Troy Finamore</h3>
-							<div class="avatar"><img src="images/avatar-troy.png" alt="Troy"></div>
-							<div class="contact-meta">
-								<a href="mailto:twf23@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
-								<a href="http://www.linkedin.com/in/finamoredesign" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-								<a href="https://twitter.com/findes" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="pure-u-1-3">
-						<div class="l-box">
-							<h3>Phil Sinatra</h3>
-							<div class="avatar"><img src="images/avatar-phil.jpg" alt="Phil"></div>
-							<div class="contact-meta">
-								<a href="mailto:ps42@drexel.edu"><i class="icon-envelope-alt icon-2x"></i></a>
-								<a href="http://philsinatra.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
-								<a href="http://www.linkedin.com/in/philsinatra" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-								<a href="https://twitter.com/philsinatra" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-								<a href="https://github.com/philsinatra" target="_blank"><span style="font-size: 26px" class="genericon genericon-github"></span></a>
-								<a href="http://codepen.io/philsinatra/" target="_blank"><span style="font-size: 30px" class="genericon genericon-codepen"></span></a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-
 				<h1>Links</h1>
 				<div class="pure-g-r">
 					<div class="pure-u-1">

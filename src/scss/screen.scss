@@ -195,15 +195,17 @@ footer {
 }
 
 .avatar {
-	height: 235px;
+	display: inline-block;
+	height: 40px;
 	text-align: center;
 	img {
-		max-width: 200px;
+		max-width: 40px;
 	}
 }
 
 .contact-meta {
-	font-size: .8em;
+	font-size: .6em;
+	margin: 0 auto;
 	text-align: center;
 
 	a {
@@ -272,3 +274,16 @@ ul.classlist {
 
 	tr:hover { background-color: #fef4d6; }
 }
+
+.util-is-hidden-mobile {
+	display: none;
+	@media (min-width: 768px) {
+		display: block;
+	}
+}
+
+.util-is-hidden-desktop {
+	@media (min-width: 768px) { display: none; }
+}
+
+.util-text-center { text-align: center; }

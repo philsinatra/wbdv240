@@ -83,11 +83,12 @@
 			    	</tr>
 			    	<tr>
 			    		<td class="util-is-hidden-mobile util-text-center"><figure class="avatar"><img src="images/avatar-chelsea.png" alt="Chelsea"></figure></td>
-			    		<td>Chelsea Meyers</td>
+			    		<td>Chelsea Myers</td>
 			    		<td><a href="mailto:cmm469@drexel.edu">cmm469@drexel.edu</a></td>
 			    		<td><a href="https://www.google.com/calendar/embed?src=chel.myers%40gmail.com&ctz=America/New_York" target="_blank">Google</a></td>
 			    		<td>
 								<div class="contact-meta">
+									<a href="http://chelmyers.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
 									<a href="https://twitter.com/chels_myers" target="_blank"><i class="icon-twitter icon-2x"></i></a>
 									<a href="https://github.com/chelmyers" target="_blank"><span style="font-size: 26px" class="genericon genericon-github"></span></a>
 								</div>

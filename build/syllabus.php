@@ -195,7 +195,7 @@
 				<hr class="soften">
 
 				<h2 class="content-subhead">Grading Policy</h2>
-				<p>Grading is based upon attendance, class participation, homework assignments (5 x 8 pts each = 40), midterm (20), and final project (40).</p>
+				<p>Grading is based upon attendance, class participation, homework assignments (40), midterm (20), and final project (40).</p>
 				<p>
 					Homework Projects, based upon skill sets covered in each lesson, will be due by midnight the night before the following class. Each homework assignment is graded based on technique, creativity and being submitted on time.
 				</p>

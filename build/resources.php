@@ -212,6 +212,11 @@
 							  <td>prettyPhoto is a jQuery Lightbox clone (support: videos, flash, YouTube, iframes and ajax)</td>
 							</tr>
 							<tr>
+								<td><a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a></td>
+								<td>JS</td>
+								<td>Magnific Popup is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device.</td>
+							</tr>
+							<tr>
 							  <td><a href="http://www.berriart.com/sidr/" target="_blank">sidr</a></td>
 							  <td>JS</td>
 							  <td>Plugin for creating side menus</td>

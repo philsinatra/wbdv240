@@ -64,6 +64,7 @@
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 2</a></h2>
 				<section id="week2" class="agenda-week">
+					<h3><a href="http://refreshphilly.org" target="_blank">Refresh Philly Event Next Week</a></h3>
 					<ul>
 						<li>Homework reading assignment review</li>
 						<li>Domain Hosting</li>

@@ -42,7 +42,14 @@
 							<li>Free Domain privacy for life. (valued at $5.99 per month ).</li>
 							<li>Rates never increase for life of plan even after student graduates.</li>
 						</ul>
-						<a class="pure-button pure-button-primary" href="http://www.bluehost.com/cgi/spoke/drexeldigm/" target="_blank"><b>Sign Up With BlueHost</b></a><br /> "just enter your .edu address"
+						<p><a class="pure-button pure-button-primary" href="http://www.bluehost.com/cgi/spoke/drexeldigm/" target="_blank"><b>Sign Up With BlueHost</b></a><br> <small>&quot;just enter your .edu address&quot;</small></p>
+					</div>
+					<div class="pure-u-1">
+						<h2>Bluehost Web Hosting Help</h2>
+						<p>After registering a domain with Bluehost or any other registrar, it typically takes between 24 and 72 hours for your domain to show up in the registry database and for the information on the new domain to propagate to all the root DNS servers.</p>
+						<p>If this is the main domain on your Bluehost account, you may check your website using the temporary URL as indicated in the &quot;Welcome to Bluehost&quot; email you received upon sign-up.</p>
+						<p>If this is not the main domain on your Bluehost account, you may use the temporary URL in combination with the directory which the new domain has been assigned to.</p>
+						<p>If you have not assigned the domain, follow <a href="https://my.bluehost.com/cgi/help/84" target="_blank">these instructions</a>.</p>
 					</div>
 				</div>
 

@@ -104,9 +104,10 @@
 				<div class="pure-g-r">
 					<div class="pure-u-1-2">
 						<div class="l-box">
-							<h2 class="content-subhead">Sublime Text 2</h2>
-							<p>The primary editor being used during class is <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>. Here are some helpful links for setting up and customizing the editor:</p>
+							<h2 class="content-subhead">Sublime Text 2/3</h2>
+							<p>The primary editor being used during class is <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a> (or <a href="http://www.sublimetext.com/3" target="_blank">Sublime Text 3</a>). Here are some helpful links for setting up and customizing the editor:</p>
 							<ul>
+								<li><a href="https://sublimetextbook.com" target="_blank">Sublime Text Power User (Book)</a></li>
 								<li><a href="http://wbond.net/sublime_packages/package_control" target="_blank">Package Control</a> <a href="#package-control-install"><i class="icon-circle-arrow-down"></i></a></li>
 								<li><a href="http://blog.alexmaccaw.com/sublime-text" target="_blank">Setting Up</a></li>
 								<li><a href="http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/?search_index=6" target="_blank">Essential Plugins</a></li>

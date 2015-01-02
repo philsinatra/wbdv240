@@ -174,6 +174,7 @@
 
 					<h3>Suggested Packages</h3>
 					<ul>
+						<li><a href="https://github.com/philsinatra/HTML-Nest-Comments" target="_blank">HTML Nest Comments</a></li>
 						<li>Alignment</li>
 						<li>ApplySyntax</li>
 						<li>AutoFileName</li>

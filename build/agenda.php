@@ -64,7 +64,6 @@
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 2</a></h2>
 				<section id="week2" class="agenda-week">
-					<h3><a href="http://refreshphilly.org" target="_blank">Refresh Philly Event Next Week</a></h3>
 					<ul>
 						<li>Homework reading assignment review</li>
 						<li>Domain Hosting</li>
@@ -99,9 +98,9 @@
 					<p>PPT Files Covered:</p>
 					<ul>
 						<li>00-introduction</li>
-						<li>01-structure</li>
-						<li>02-text</li>
-						<li>03-lists</li>
+						<li><a href="quiz/Questions/01-structure-q.pdf" target="_blank">01-structure</a></li>
+						<li><a href="quiz/Quesionts/02-text-q.pdf" target="_blank">02-text</a></li>
+						<li><a href="quiz/Quesionts/02-lists-q.pdf" target="_blank">03-lists</a></li>
 					</ul>
 				</section>
 
@@ -186,10 +185,10 @@
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>
-						<li>04-links</li>
-						<li>05-images</li>
-						<li>06-tables</li>
-						<li>07-forms</li>
+						<li><a href="quiz/Questions/04-links-q.pdf" target="_blank">04-links</a></li>
+						<li><a href="quiz/Questions/05-images-q.pdf" target="_blank">05-images</a></li>
+						<li><a href="quiz/Questions/06-tables-q.pdf" target="_blank">06-tables</a></li>
+						<li><a href="quiz/Questions/07-forms-q.pdf" target="_blank">07-forms</a></li>
 					</ul>
 					<!-- <h2 class="content-subhead">Lab Time</h2>
 					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
@@ -249,11 +248,11 @@
 						<ul>
 							<li>CSS definition</li>
 							<li>Structure</li>
+							<li>Reset</li>
 							<li>Internal CSS</li>
 							<li>External CSS</li>
 							<li>Cascade</li>
 							<li>Inheritance</li>
-							<li>Reset</li>
 						</ul>
 						</li>
 						<li>Color (<a href="https://kuler.adobe.com/" target="_blank">Kuler</a>)
@@ -270,10 +269,10 @@
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>
-						<li>08-extra-markup</li>
-						<li>10-introducing-css</li>
-						<li>11-color</li>
-						<li>17-html5-layout</li>
+						<li><a href="quiz/Questions/08-extra-markup-q.pdf" target="_blank">08-extra-markup</a></li>
+						<li><a href="quiz/Questions/10-introducing-css-q.pdf" target="_blank">10-introducing-css</a></li>
+						<li><a href="quiz/Questions/11-color-q.pdf" target="_blank">11-color</a></li>
+						<li><a href="quiz/Questions/17-html5-layout-q.pdf" target="_blank">17-html5-layout</a></li>
 					</ul>
 				</section>
 
@@ -332,8 +331,8 @@
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>
-						<li>12-text</li>
-						<li>13-boxes</li>
+						<li><a href="quiz/Questions/12-text-q.pdf" target="_blank">12-text</a></li>
+						<li><a href="quiz/Questions/13-boxes-q.pdf" target="_blank">13-boxes</a></li>
 					</ul>
 				</section>
 
@@ -376,8 +375,8 @@
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>
-						<li>15-layout</li>
-						<li>16-images</li>
+						<li><a href="quiz/Questions/15-layout-q.pdf" target="_blank">15-layout</a></li>
+						<li><a href="quiz/Questions/16-images-q.pdf" target="_blank">16-images</a></li>
 					</ul>
 				</section>
 

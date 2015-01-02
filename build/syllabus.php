@@ -161,7 +161,7 @@
 						<dt> Functionality </dt>
 						<dd>
 							<p>
-								Everything needs to work. All links, videos, audio, images, slideshows, rollovers etc. If it's part of your site, it should be working properly.
+								Everything needs to work. All links, videos, audio, images, slideshows, rollovers etc. If it's part of your site, it should be working properly. Your resume <b>MUST</b> be programmed in HTML. You can not simply embed a pdf into your webpage.
 							</p>
 						</dd>
 						<dt> Design </dt>

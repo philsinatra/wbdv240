@@ -24,6 +24,9 @@
 			<div class="header pure-u-1">
 				<h1 class="pure-u-1">Agenda</h1>
 				<h2 class="pure-u">The Schedule</h2>
+				<figure class="util-is-hidden-mobile">
+					<img src="images/schedule-info-graphic.jpg" alt="Course Scheduled Info Graphic">
+				</figure>
 			</div>
 			<!-- / .header -->
 

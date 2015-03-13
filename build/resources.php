@@ -262,7 +262,7 @@
 							  <td>Color wheel and inspiration tool</td>
 							</tr>
 							<tr>
-							  <td><a href="http://colourco.de/" target="_blank">Color Code</a></td>
+							  <td><a href="http://html-color-codes.info" target="_blank">Color Code</a></td>
 							  <td>Color</td>
 							  <td>Find your color scheme</td>
 							</tr>

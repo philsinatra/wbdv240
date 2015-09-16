@@ -368,6 +368,14 @@
 
 				</tbody>
 				</table>
+
+				<hr class="soften">
+				<h2 class="content-subheader">GitHub <span style="font-size: 26px;" class="genericon genericon-github"></span></h2>
+				<p><a href="https://github.com/philsinatra" target="_blank">Phil's GitHub</a></p>
+				<p><a href="https://github.com/chelmyers" target="_blank">Chelsea's GitHub</a></p>
+				<h2 class="content-subheader">Codpen <span style="font-size: 30px" class="genericon genericon-codepen"></span></h2>
+				<p><a href="http://codepen.io/philsinatra" target="_blank">Phil's CodePen</a></p>
+
 				<hr class="soften">
 
 				<h2 class="content-subhead">Additional Helpful Links</h2>

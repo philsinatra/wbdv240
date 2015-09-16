@@ -38,7 +38,6 @@
 		            <th>Name</th>
 		            <th>Email</th>
 		            <th>Calendar</th>
-		            <th>Other</th>
 			        </tr>
 			    </thead>
 			    <tbody>
@@ -47,52 +46,30 @@
 			    		<td>Troy Finamore</td>
 			    		<td><a href="mailto:twf23@drexel.edu">twf23@drexel.edu</a></td>
 			    		<td><a href="https://www.google.com/calendar/embed?src=k4dfi4ao1d6d9h0pm7a6f8ic0k%40group.calendar.google.com&amp;ctz=America/New_York" target="supwin">Google</a></td>
-			    		<td>
-								<div class="contact-meta">
-									<a href="http://www.linkedin.com/in/finamoredesign" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-									<a href="https://twitter.com/findes" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-								</div>
-			    		</td>
 			    	</tr>
 			    	<tr>
 			    		<td class="util-is-hidden-mobile util-text-center"><figure class="avatar"><img src="images/avatar-jervo.jpg" alt="Jervo"></figure></td>
 			    		<td>Jervis Thompson</td>
 			    		<td><a href="mailto:st966rc2@drexel.edu">st966rc2@drexel.edu</a></td>
 			    		<td><a href="https://www.google.com/calendar/embed?mode=week&amp;src=jervisthompson%40gmail.com&amp;ctz=America/New_York" target="_blank">Google</a></td>
-			    		<td>
-								<div class="contact-meta">
-									<a href="http://jervo.org" target="_blank"><i class="icon-globe icon-2x"></i></a>
-									<a href="http://www.linkedin.com/in/jervisthompson" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-									<a href="https://twitter.com/jervo" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-								</div>
-			    		</td>
 			    	</tr>
 			    	<tr>
 			    		<td class="util-is-hidden-mobile util-text-center"><figure class="avatar"><img src="images/avatar-phil.jpg" alt="Phil"></figure></td>
 			    		<td>Phil Sinatra</td>
 			    		<td><a href="mailto:ps42@drexel.edu">ps42@drexel.edu</a></td>
 			    		<td><a href="https://www.google.com/calendar/embed?src=fj02v2f4vn246mqj13022hntgs%40group.calendar.google.com&amp;ctz=America/New_York" target="_blank">Google</a></td>
-			    		<td>
-								<div class="contact-meta">
-									<a href="http://www.linkedin.com/in/philsinatra" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-									<a href="https://twitter.com/philsinatra" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-									<a href="https://github.com/philsinatra" target="_blank"><span style="font-size: 26px" class="genericon genericon-github"></span></a>
-									<a href="http://codepen.io/philsinatra/" target="_blank"><span style="font-size: 30px" class="genericon genericon-codepen"></span></a>
-								</div>
-			    		</td>
 			    	</tr>
 			    	<tr>
 			    		<td class="util-is-hidden-mobile util-text-center"><figure class="avatar"><img src="images/avatar-chelsea.png" alt="Chelsea"></figure></td>
 			    		<td>Chelsea Myers</td>
 			    		<td><a href="mailto:cmm469@drexel.edu">cmm469@drexel.edu</a></td>
 			    		<td><a href="https://www.google.com/calendar/embed?src=chel.myers%40gmail.com&ctz=America/New_York" target="_blank">Google</a></td>
-			    		<td>
-								<div class="contact-meta">
-									<a href="http://chelmyers.com" target="_blank"><i class="icon-globe icon-2x"></i></a>
-									<a href="https://twitter.com/chels_myers" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-									<a href="https://github.com/chelmyers" target="_blank"><span style="font-size: 26px" class="genericon genericon-github"></span></a>
-								</div>
-			    		</td>
+			    	</tr>
+			    	<tr>
+			    		<td class="util-is-hidden-mobile util-text-center"><figure class="avatar"><img src="images/avatar-ed_yakovich.jpg" alt="Ed"></figure></td>
+			    		<td>Ed Yakovich</td>
+			    		<td><a href="mailto:emy26@drexel.edu">emy26@drexel.edu</a></td>
+			    		<td>&nbsp;</td>
 			    	</tr>
 			    </tbody>
 			  </table>

@@ -261,6 +261,11 @@
 							  <td>Color</td>
 							  <td>Color wheel and inspiration tool</td>
 							</tr>
+              <tr>
+                <td><a href="http://htmlcolorcodes.com" target="_blank">HTML Color Codes</a></td>
+                <td>Color</td>
+                <td>Get HTML color codes, Hex color codes, RGB and HSL values!</td>
+              </tr>
 							<tr>
 							  <td><a href="http://html-color-codes.info" target="_blank">Color Code</a></td>
 							  <td>Color</td>

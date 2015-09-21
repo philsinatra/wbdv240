@@ -102,8 +102,8 @@
 					<ul>
 						<li>00-introduction</li>
 						<li><a href="quiz/Questions/01-structure-q.pdf" target="_blank">01-structure</a></li>
-						<li><a href="quiz/Quesionts/02-text-q.pdf" target="_blank">02-text</a></li>
-						<li><a href="quiz/Quesionts/02-lists-q.pdf" target="_blank">03-lists</a></li>
+						<li><a href="quiz/Questions/02-text-q.pdf" target="_blank">02-text</a></li>
+						<li><a href="quiz/Questions/03-lists-q.pdf" target="_blank">03-lists</a></li>
 					</ul>
 				</section>
 

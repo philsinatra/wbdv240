@@ -8,7 +8,7 @@
 	<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
 
 	<!-- Add fancyBox main JS and CSS files -->
-    <!-- http://www.fancyapps.com/fancybox/ -->
+  <!-- http://www.fancyapps.com/fancybox/ -->
 
 	<script type="text/javascript" src="source/jquery.fancybox.js?v=2.1.4"></script>
 	<link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />
@@ -29,24 +29,6 @@
 			/* Simple image gallery. Uses default settings */
 			$('.fancybox').fancybox();
 		});
-
-		// Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
-		$('.fancybox-media')
-			.attr('rel', 'media-gallery')
-			.fancybox({
-				openEffect : 'none',
-				closeEffect : 'none',
-				prevEffect : 'none',
-				nextEffect : 'none',
-
-				closeBtn  : false,
-				arrows : false,
-
-				helpers : {
-					media : {},
-					buttons : {}
-			}
-		});
 	</script>
 
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
@@ -59,10 +41,6 @@
 	<img src="images/sp2013-sml/flight.png" alt="flight"/>
 	<img src="images/sp2013-sml/mechination.png" alt="mechination"/>
 	<img src="images/sp2013-sml/within-a-dream.png" alt="within-a-dream"/>
-
-	<p>Videos</p>
-	<img src="images/sp2013-sml/smackdown.png" alt="smackdown"/>
-	<img src="images/sp2013-sml/nightshift.png" alt="nightshift">
 </div>
 </body>
 </html>

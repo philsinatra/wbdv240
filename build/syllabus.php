@@ -71,6 +71,18 @@
 			    		<td><a href="mailto:emy26@drexel.edu">emy26@drexel.edu</a></td>
 			    		<td>&nbsp;</td>
 			    	</tr>
+	    	    	<tr>
+	    	    		<td class="util-is-hidden-mobile util-text-center"><figure class="avatar"><img src="images/avatar-kevinzakszewski.png" alt="Kevin"></figure></td>
+	    	    		<td>Kevin Zakszewski</td>
+	    	    		<td><a href="mailto:kjz27@drexel.edu">kjz27@drexel.edu</a></td>
+	    	    		<td> </td>
+	    	    		<td>
+	    						<div class="contact-meta">
+	    							<a href="https://www.linkedin.com/pub/kevin-zakszewski/42/4ab/395" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
+	    							<a href="https://github.com/kevinzak" target="_blank"><span style="font-size: 26px" class="genericon genericon-github"></span></a>
+	    						</div>
+	    	    		</td>
+	    	    	</tr>
 			    </tbody>
 			  </table>
 

@@ -68,6 +68,23 @@
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week2">Week 2</a></h2>
 				<section id="week2" class="agenda-week">
 					<ul>
+						<li><input type="checkbox"> Homework Review / General Questions</li>
+						<li><input type="checkbox"> Introduction Presentation</li>
+						<li><input type="checkbox"> Structure Presentation</li>
+						<li><input type="checkbox"> Project File Structure - Staying Organized</li>
+						<li><input type="checkbox"> Meet the Editor - <a href="https://www.sublimetext.com/3" target="_blank">Sublime Text</a></li>
+						<li><input type="checkbox"> Build "The Shell" File</li>
+						<li><input type="checkbox"> Text Presentation</li>
+						<li><input type="checkbox"> List Presentation</li>
+						<li><input type="checkbox"> Review Sheets</li>
+						<li><input type="checkbox"> Homework Review
+							<ul>
+								<li>Build First Pages</li>
+								<li>Wireframes</li>
+							</ul>
+						</li>
+					</ul>
+					<!-- <ul>
 						<li>Homework reading assignment review</li>
 						<li>Domain Hosting</li>
 						<li>Client Side / Server Side</li>
@@ -97,7 +114,7 @@
 							</ul>
 						</li>
 						<li>Wireframing A Site</li>
-					</ul>
+					</ul> -->
 					<p>PPT Files Covered:</p>
 					<ul>
 						<li>00-introduction</li>

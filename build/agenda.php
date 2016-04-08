@@ -201,7 +201,7 @@
 								<li>validation</li>
 							</ul>
 						</li>
-						<li><a href="//styletil.es" target="stWin">Style Tiles</a> and <a href="http://danielmall.com/articles/visual-inventory/" target="viWin">Visual Inventory</a></li>
+						<li><a href="http://styletil.es" target="stWin">Style Tiles</a> and <a href="http://danielmall.com/articles/visual-inventory/" target="viWin">Visual Inventory</a></li>
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>

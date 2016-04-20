@@ -127,81 +127,11 @@
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week3">Week 3</a></h2>
 				<section id="week3" class="agenda-week">
 					<ul>
-						<li>Homework Review</li>
-						<li><a href="http://styletil.es/" target="_blank">Style Tiles</a></li>
-						<li>Element Collages
-							<ul>
-								<li><a href="http://danielmall.com/articles/rif-element-collages/" target="_blank">Element Collages (part 1)</a> | <a href="http://danielmall.com/articles/responsive-mobile-entertainment-weekly/ew-element-collage.png" target="_blank">Element Collages (part 2)</a></li>
-							</ul>
-						</li>
-
-						<li><a href="http://danielmall.com/articles/visual-inventory/" target="_blank">Visual Inventory</a></li>
-						<li>Links - <a href="http://www.w3schools.com/tags/tag_a.asp" target="_blank">&lsaquo;a&rsaquo; tag/element</a>
-						<ul>
-							<li>Link to other pages</li>
-							<li>Link to other sites</li>
-							<li>Link to specific part of a page</li>
-							<li>Target windows</li>
-							<li>Email</li>
-							<li>Navigation</li>
-							<li>Principles</li>
-							<li>Goals</li>
-							<li>Types</li>
-						</ul>
-						</li>
-						<li>Images - <a href="http://www.w3schools.com/html/html_images.asp" target="_blank">&lsaquo;img&rsaquo; tag/element</a>
-						<ul>
-							<li>Visual echo</li>
-							<li>Avoid cliche</li>
-							<li>What type of image should I use?</li>
-							<li>Resolution</li>
-							<li>Color mode</li>
-							<li>Compression</li>
-							<li>img tag</li>
-							<li><a href="//philsinatra.com/videos/dialmegformurder/stockphotos.m4v" target="_blank">stock photos</a></li>
-						</ul>
-						</li>
-						<li>Tables - <a href="http://www.w3schools.com/html/html_tables.asp" target="_blank">&lsaquo;table&rsaquo; tags/elements</a>
-							<ul>
-								<li>Structure</li>
-								<li>Border &amp; Background</li>
-								<li>Span columns</li>
-								<li>Span rows</li>
-								<li>Table heading</li>
-								<li>Width/spacing</li>
-								<li>Long tables</li>
-							</ul>
-						</li>
-						<li>Forms - <a href="http://www.w3schools.com/html/html_forms.asp" target="_blank">&lsaquo;form&rsaquo; tags/elements</a>
-							<ul>
-								<li>form structure</li>
-								<li>input</li>
-								<li>buttons</li>
-								<li>hidden controls</li>
-								<li>drop down</li>
-								<li>checkbox</li>
-								<li>radio</li>
-								<li>multiple select box</li>
-								<li>file input/upload</li>
-								<li>submit button</li>
-								<li>reset button</li>
-								<li>image button</li>
-								<li>textarea</li>
-							</ul>
-						</li>
-						<li>HTML 5
-							<ul>
-								<li>date input</li>
-								<li>email input</li>
-								<li>search input</li>
-								<li>url input</li>
-								<li>labels</li>
-								<li>fieldset</li>
-								<li>usability</li>
-								<li>validation</li>
-							</ul>
-						</li>
-						<li><a href="http://styletil.es" target="stWin">Style Tiles</a> and <a href="http://danielmall.com/articles/visual-inventory/" target="viWin">Visual Inventory</a></li>
+						<li><input type="checkbox"> Links Presentation</li>
+						<li><input type="checkbox"> Foreground Images Presentation</li>
+						<li><input type="checkbox"> Optimizing Images</li>
+						<li><input type="checkbox"> Tables</li>
+						<li><input type="checkbox"> Forms</li>
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>
@@ -210,82 +140,19 @@
 						<li><a href="quiz/Questions/06-tables-q.pdf" target="_blank">06-tables</a></li>
 						<li><a href="quiz/Questions/07-forms-q.pdf" target="_blank">07-forms</a></li>
 					</ul>
-					<!-- <h2 class="content-subhead">Lab Time</h2>
-					<p>Time period will consist of demos and troubleshooting group and/or individual issues.</p>
-					<ol>
-						<li>Add a picture of yourself above the first paragraph of your "bio" page.
-							<ul>
-								<li>320w by 320h px</li>
-								<li>72 dpi</li>
-								<li>rgb mode</li>
-							</ul>
-						</li>
-						<li>Add a table of your weekday classes to the bottom of your "bio" page.
-							<ul>
-								<li>Title = "Class Schedule"</li>
-								<li>Row headers = "Hours", "Monday" - "Friday"</li>
-							</ul>
-						</li>
-						<li>Add a form to your "contact" page to collect the following information from your visitors.
-							<ul>
-								<li>First name</li>
-								<li>Last Name</li>
-								<li>Email address</li>
-								<li>Web site URL</li>
-								<li>Favorite color (radio buttons)</li>
-								<li>Computers and Mobile device usage (checkboxes)</li>
-								<li>Comment (text area)</li>
-								<li>Submit button that does NOT submit</li>
-							</ul>
-						</li>
-					</ol> -->
 				</section>
 
 				<h2 class="content-subhead"><a class="btn-week" data-toggle="week4">Week 4</a></h2>
 				<section id="week4" class="agenda-week">
-					<!-- <ul>
-						<li><a href="weekly_exercises/w04/wbdv240-local-w04.zip" download="wbdv240-week4">Download</a> exercise files.</li>
-					</ul> -->
 					<ul>
-						<li><a href="http://www.w3schools.com/html/html_elements.asp" target="_blank">Elements/Tags</a>
-						<ul>
-							<li>meta</li>
-							<li>block</li>
-							<li>inline</li>
-							<li>attributes</li>
-							<li>iframes</li>
-							<li>div tag</li>
-							<li>span tag</li>
-							<li>HTML 5</li>
-							<li>header</li>
-							<li>nav</li>
-							<li>section</li>
-							<li>article</li>
-							<li>footer</li>
-						</ul>
-						</li>
-						<li><a href="http://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
-						<ul>
-							<li>CSS definition</li>
-							<li>Structure</li>
-							<li>Reset</li>
-							<li>Internal CSS</li>
-							<li>External CSS</li>
-							<li>Cascade</li>
-							<li>Inheritance</li>
-						</ul>
-						</li>
-						<li>Color (<a href="https://kuler.adobe.com/" target="_blank">Kuler</a>)
-						<ul>
-							<li>Design Emotion</li>
-							<li>Wheels</li>
-							<li>Harmonies</li>
-							<li>Proportions</li>
-							<li>Inspiration</li>
-							<li>Defaults</li>
-							<li><a href="http://www.rocket-design.fr/color-template/" target="_blank">Color Template</a></li>
-						</ul>
-						</li>
+						<li><input type="checkbox"> Block vs Inline</li>
+						<li><input type="checkbox"> Divs vs Spans</li>
+						<li><input type="checkbox"> Containers</li>
+						<li><input type="checkbox"> HTML5 Containers</li>
+						<li><input type="checkbox"> Containers Demo</li>
+						<li><input type="checkbox"> CSS Introduction</li>
+						<li><input type="checkbox"> Color Theory</li>
+						<li><input type="checkbox"> Adobe Kuler</li>
 					</ul>
 					<p>PPT Files Covered:</p>
 					<ul>
